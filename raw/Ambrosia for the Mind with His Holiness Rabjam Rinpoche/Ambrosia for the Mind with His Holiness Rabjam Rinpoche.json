@@ -83,7 +83,7 @@
                     "speaker": "SPEAKER_00"
                 },
                 {
-                    "word": "soul.",
+                    "word": "so.",
                     "start": 25.106,
                     "end": 25.346,
                     "score": 0.946,
@@ -293,7 +293,7 @@
         {
             "start": 40.134,
             "end": 51.398,
-            "text": "Rinpoche told me to give a kind of a task mission or some kind of rough commentary on this wonderful aspiration prayer by Jamin Khyentse Mwambo.",
+            "text": "Rinpoche told me to give a kind of a task mission or some kind of rough commentary on this wonderful aspiration prayer by Jamyang Khyentse Wangpo.",
             "words": [
                 {
                     "word": "Rinpoche",
@@ -484,7 +484,7 @@
         {
             "start": 52.358,
             "end": 58.34,
-            "text": "And I received this teaching intensively from Chabji Tengu Chenso Rinpoche.",
+            "text": "And I received this teaching intensively from Chabje Dilgo Khyentse Rinpoche.",
             "words": [
                 {
                     "word": "And",
@@ -543,14 +543,14 @@
                     "speaker": "SPEAKER_00"
                 },
                 {
-                    "word": "Tengu",
+                    "word": "Dilgo",
                     "start": 57.259,
                     "end": 57.44,
                     "score": 0.44,
                     "speaker": "SPEAKER_00"
                 },
                 {
-                    "word": "Chenso",
+                    "word": "Khyentse",
                     "start": 57.46,
                     "end": 57.68,
                     "score": 0.407,
@@ -2151,7 +2151,7 @@
         {
             "start": 196.043,
             "end": 209.354,
-            "text": "Whenever Chabjithingwe Khyentse Rinpoche gave teaching, even it's a very short one, that he always goes on and on and on about the setting our mindset, proper attitude.",
+            "text": "Whenever CHabje Dilgo Khyentse Rinpoche gave teaching, even it's a very short one, that he always goes on and on and on about the setting our mindset, proper attitude.",
             "words": [
                 {
                     "word": "Whenever",
@@ -2161,7 +2161,7 @@
                     "speaker": "SPEAKER_00"
                 },
                 {
-                    "word": "Chabjithingwe",
+                    "word": "CHabje Dilgo",
                     "start": 196.444,
                     "end": 196.964,
                     "score": 0.562,
@@ -12599,7 +12599,7 @@
         {
             "start": 925.898,
             "end": 929.881,
-            "text": "In fact, Khenpo Rinpoche when he was alive, if you ask him,",
+            "text": "In fact, Khyentse Rinpoche when he was alive, if you ask him,",
             "words": [
                 {
                     "word": "In",
@@ -12616,7 +12616,7 @@
                     "speaker": "SPEAKER_00"
                 },
                 {
-                    "word": "Khenpo",
+                    "word": "Khyentse",
                     "start": 926.538,
                     "end": 926.718,
                     "score": 0.406,
@@ -17056,7 +17056,7 @@
         {
             "start": 1229.432,
             "end": 1231.293,
-            "text": "Similar with Jyotish Khyentse Rinpoche's case,",
+            "text": "Similar with Jangchub Khyentse Rinpoche's case,",
             "words": [
                 {
                     "word": "Similar",
@@ -36375,7 +36375,7 @@
         {
             "start": 2540.963,
             "end": 2545.744,
-            "text": "I don't know what Robert is thinking.",
+            "text": "I don't know what Rinpoche is thinking.",
             "words": [
                 {
                     "word": "I",
@@ -36406,7 +36406,7 @@
                     "speaker": "SPEAKER_00"
                 },
                 {
-                    "word": "Robert",
+                    "word": "Rinpoche",
                     "start": 2541.463,
                     "end": 2541.683,
                     "score": 0.213,
@@ -36936,7 +36936,7 @@
         {
             "start": 2606.705,
             "end": 2610.148,
-            "text": " I think I can share a cigarette with you.",
+            "text": " I think I can share a secret with you.",
             "words": [
                 {
                     "word": "I",
@@ -36981,7 +36981,7 @@
                     "speaker": "SPEAKER_00"
                 },
                 {
-                    "word": "cigarette",
+                    "word": "secret",
                     "start": 2607.726,
                     "end": 2608.126,
                     "score": 0.887,
@@ -38968,7 +38968,7 @@
         {
             "start": 2759.6,
             "end": 2761.321,
-            "text": " The method is called PEMBITOP.",
+            "text": " The method is called PHENBITOP.",
             "words": [
                 {
                     "word": "The",
@@ -38999,7 +38999,7 @@
                     "speaker": "SPEAKER_00"
                 },
                 {
-                    "word": "PEMBITOP.",
+                    "word": "PHENBITOP.",
                     "start": 2760.461,
                     "end": 2761.321,
                     "score": 0.903,
@@ -39012,7 +39012,7 @@
         {
             "start": 2761.722,
             "end": 2764.845,
-            "text": "How do you say PEMBITOP?",
+            "text": "How do you say PHENBITOP?",
             "words": [
                 {
                     "word": "How",
@@ -39043,7 +39043,7 @@
                     "speaker": "SPEAKER_00"
                 },
                 {
-                    "word": "PEMBITOP?",
+                    "word": "PHENBITOP?",
                     "start": 2762.222,
                     "end": 2764.845,
                     "score": 0.894,
@@ -39056,10 +39056,10 @@
         {
             "start": 2765.425,
             "end": 2766.726,
-            "text": "PEMBITOP, yes, benefit.",
+            "text": "PHENBITOP, yes, benefit.",
             "words": [
                 {
-                    "word": "PEMBITOP,",
+                    "word": "PHENBITOP,",
                     "start": 2765.425,
                     "end": 2765.905,
                     "score": 0.919,
@@ -40692,10 +40692,10 @@
         {
             "start": 2871.963,
             "end": 2872.344,
-            "text": "Fat up.",
+            "text": "fed up.",
             "words": [
                 {
-                    "word": "Fat",
+                    "word": "fed",
                     "start": 2871.963,
                     "end": 2872.163,
                     "score": 0.825,
@@ -40715,10 +40715,10 @@
         {
             "start": 2873.965,
             "end": 2874.345,
-            "text": "Fat up.",
+            "text": "fed up.",
             "words": [
                 {
-                    "word": "Fat",
+                    "word": "fed",
                     "start": 2873.965,
                     "end": 2874.165,
                     "score": 0.793,
@@ -40738,10 +40738,10 @@
         {
             "start": 2874.485,
             "end": 2877.207,
-            "text": "Fat up without bodhicitta mind.",
+            "text": "fed up without bodhicitta mind.",
             "words": [
                 {
-                    "word": "Fat",
+                    "word": "fed",
                     "start": 2874.485,
                     "end": 2874.665,
                     "score": 0.733,
@@ -59972,7 +59972,7 @@
             "speaker": "SPEAKER_00"
         },
         {
-            "word": "Chabjithingwe",
+            "word": "CHabje Dilgo",
             "start": 196.444,
             "end": 196.964,
             "score": 0.562,
@@ -69527,7 +69527,7 @@
             "speaker": "SPEAKER_00"
         },
         {
-            "word": "Khenpo",
+            "word": "Khyentse",
             "start": 926.538,
             "end": 926.718,
             "score": 0.406,
@@ -73363,7 +73363,7 @@
             "speaker": "SPEAKER_00"
         },
         {
-            "word": "Jyotish",
+            "word": "Jangchub",
             "start": 1230.072,
             "end": 1230.312,
             "score": 0.413,
@@ -90869,7 +90869,7 @@
             "speaker": "SPEAKER_00"
         },
         {
-            "word": "Robert",
+            "word": "Rinpoche",
             "start": 2541.463,
             "end": 2541.683,
             "score": 0.213,
@@ -91408,7 +91408,7 @@
             "speaker": "SPEAKER_00"
         },
         {
-            "word": "cigarette",
+            "word": "secret",
             "start": 2607.726,
             "end": 2608.126,
             "score": 0.887,
@@ -93165,7 +93165,7 @@
             "speaker": "SPEAKER_00"
         },
         {
-            "word": "PEMBITOP.",
+            "word": "PHENBITOP.",
             "start": 2760.461,
             "end": 2761.321,
             "score": 0.903,
@@ -93200,14 +93200,14 @@
             "speaker": "SPEAKER_00"
         },
         {
-            "word": "PEMBITOP?",
+            "word": "PHENBITOP?",
             "start": 2762.222,
             "end": 2764.845,
             "score": 0.894,
             "speaker": "SPEAKER_00"
         },
         {
-            "word": "PEMBITOP,",
+            "word": "PHENBITOP,",
             "start": 2765.425,
             "end": 2765.905,
             "score": 0.919,
@@ -94663,7 +94663,7 @@
             "speaker": "SPEAKER_00"
         },
         {
-            "word": "Fat",
+            "word": "fed",
             "start": 2871.963,
             "end": 2872.163,
             "score": 0.825,
@@ -94677,7 +94677,7 @@
             "speaker": "SPEAKER_00"
         },
         {
-            "word": "Fat",
+            "word": "fed",
             "start": 2873.965,
             "end": 2874.165,
             "score": 0.793,
@@ -94691,7 +94691,7 @@
             "speaker": "SPEAKER_00"
         },
         {
-            "word": "Fat",
+            "word": "fed",
             "start": 2874.485,
             "end": 2874.665,
             "score": 0.733,
