@@ -6745,7 +6745,7 @@
         {
             "start": 694.689,
             "end": 717.958,
-            "text": " So therefore, I think what our great kings, like Khenlop Chuesom, King Thissong Dejan, Guru Rinpoche, Khenchen Bodhisattva, invited lots of scholars, translated Dharma texts into Tibet around 7th, 8th century.",
+            "text": " So therefore, I think what our great kings, like Khenlop Chuesom, King Trisong Detsen, Guru Rinpoche, Khenchen Bodhisattva, invited lots of scholars, translated Dharma texts into Tibet around 7th, 8th century.",
             "words": [
                 {
                     "word": "So",
@@ -6820,13 +6820,13 @@
                     "score": 0.892
                 },
                 {
-                    "word": "Thissong",
+                    "word": "Trisong",
                     "start": 703.012,
                     "end": 703.312,
                     "score": 0.657
                 },
                 {
-                    "word": "Dejan,",
+                    "word": "Detsen,",
                     "start": 703.332,
                     "end": 703.752,
                     "score": 0.787
@@ -18237,7 +18237,7 @@
         {
             "start": 1777.175,
             "end": 1786.14,
-            "text": "Normally, a classic example is Chega Nachi, the suffering of birth, suffering of sickness, suffering of old age, suffering of death.",
+            "text": "Normally, a classic example is Kayga Nachi, the suffering of birth, suffering of sickness, suffering of old age, suffering of death.",
             "words": [
                 {
                     "word": "Normally,",
@@ -18270,7 +18270,7 @@
                     "score": 0.841
                 },
                 {
-                    "word": "Chega",
+                    "word": "Kayga",
                     "start": 1779.276,
                     "end": 1779.736,
                     "score": 0.665
@@ -29107,7 +29107,7 @@
         {
             "start": 2765.067,
             "end": 2773.795,
-            "text": "In Tibetan, we call it chanchuji sim, bodhicitta mind, generating love and compassion, training.",
+            "text": "In Tibetan, we call it jangchubgi sem, bodhicitta mind, generating love and compassion, training.",
             "words": [
                 {
                     "word": "In",
@@ -29140,13 +29140,13 @@
                     "score": 0.032
                 },
                 {
-                    "word": "chanchuji",
+                    "word": "jangchubgi",
                     "start": 2766.008,
                     "end": 2766.529,
                     "score": 0.639
                 },
                 {
-                    "word": "sim,",
+                    "word": "sem,",
                     "start": 2766.569,
                     "end": 2766.829,
                     "score": 0.954
@@ -33351,7 +33351,7 @@
         {
             "start": 3121.579,
             "end": 3127.464,
-            "text": "So like that, this is kind of basic training, what we call Bodhicitta or Chanjusen.",
+            "text": "So like that, this is kind of basic training, what we call Bodhicitta or Jangchubsem.",
             "words": [
                 {
                     "word": "So",
@@ -33438,7 +33438,7 @@
                     "score": 0.952
                 },
                 {
-                    "word": "Chanjusen.",
+                    "word": "Jangchubsem.",
                     "start": 3126.984,
                     "end": 3127.464,
                     "score": 0.514
@@ -37963,7 +37963,7 @@
         {
             "start": 3470.987,
             "end": 3484.33,
-            "text": "And then, after this, today is the Menzushiri Empowerment from Jammai Khyentse Wombo's Circle of Teaching.",
+            "text": "And then, after this, today is the Menzushiri Empowerment from Jamyang Khyentse Wangpo's Circle of Teaching.",
             "words": [
                 {
                     "word": "And",
@@ -38026,7 +38026,7 @@
                     "score": 0.851
                 },
                 {
-                    "word": "Jammai",
+                    "word": "Jamyang",
                     "start": 3481.369,
                     "end": 3481.589,
                     "score": 0.547
@@ -38038,7 +38038,7 @@
                     "score": 0.396
                 },
                 {
-                    "word": "Wombo's",
+                    "word": "Wangpo's",
                     "start": 3482.73,
                     "end": 3483.21,
                     "score": 0.626
@@ -54659,7 +54659,7 @@
             "score": 0.841
         },
         {
-            "word": "Chega",
+            "word": "Kayga",
             "start": 1779.276,
             "end": 1779.736,
             "score": 0.665
@@ -68267,7 +68267,7 @@
             "score": 0.952
         },
         {
-            "word": "Chanjusen.",
+            "word": "Jangchubsem.",
             "start": 3126.984,
             "end": 3127.464,
             "score": 0.514
@@ -72407,7 +72407,7 @@
             "score": 0.851
         },
         {
-            "word": "Jammai",
+            "word": "Jamyang",
             "start": 3481.369,
             "end": 3481.589,
             "score": 0.547
@@ -72419,7 +72419,7 @@
             "score": 0.396
         },
         {
-            "word": "Wombo's",
+            "word": "Wangpo's",
             "start": 3482.73,
             "end": 3483.21,
             "score": 0.626

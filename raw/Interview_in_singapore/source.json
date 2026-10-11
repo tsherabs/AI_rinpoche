@@ -3,5 +3,7 @@
   "language": "English",
   "duration": "01:14:23",
   "model": "whisper-large",
-  "diarization": true
+  "diarization": true,
+  "url": "https://www.youtube.com/watch?v=ibx_2nmHyV0&list=PLJFZSQb4z9YfwrO7yaQUlTQMeZyFpWj4o&index=13",
+  "verified": true
 }
