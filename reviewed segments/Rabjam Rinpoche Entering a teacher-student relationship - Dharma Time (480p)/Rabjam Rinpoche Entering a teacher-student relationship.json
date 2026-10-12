@@ -1,0 +1,622 @@
+[
+  {
+    "segment_id": "SRR_001_0",
+    "start": 5.238,
+    "end": 23.368,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Audience",
+    "text": "So my question is, what is it that you mean by blessing, and how does that correspond to either receptivity or the potential, let's say my personal potential to become a better human being, whatever that might mean?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_1",
+    "start": 24.589,
+    "end": 25.189,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Audience",
+    "text": "I'm just curious.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_2",
+    "start": 25.89,
+    "end": 31.533,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Audience",
+    "text": "Blessing, normally we have these religious connotations, but it's one of the whole points of,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_3",
+    "start": 33.206,
+    "end": 40.792,
+    "original_speaker": null,
+    "verified_speaker": "unknown",
+    "text": "It's like I improve in some form or another.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_4",
+    "start": 41.772,
+    "end": 50.819,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Audience",
+    "text": "So I'm curious what you mean by that term and then how that relates to my personal development.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_5",
+    "start": 58.707,
+    "end": 61.128,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's been a long time since I've been here.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_6",
+    "start": 61.649,
+    "end": 63.89,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's been a long time since I've been here.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_7",
+    "start": 64.03,
+    "end": 67.032,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's been a long time since I've been here.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_8",
+    "start": 67.072,
+    "end": 69.753,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's been a long time since I've been here.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_9",
+    "start": 90.083,
+    "end": 90.143,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_10",
+    "start": 90.223,
+    "end": 90.263,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_11",
+    "start": 90.283,
+    "end": 90.403,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_12",
+    "start": 90.423,
+    "end": 90.443,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_13",
+    "start": 90.483,
+    "end": 90.503,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_14",
+    "start": 111.532,
+    "end": 113.433,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "I am very happy to be a part of this movement.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_15",
+    "start": 113.454,
+    "end": 116.816,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "I am very happy to be a part of this movement.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_16",
+    "start": 116.856,
+    "end": 119.158,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "I am very happy to be a part of this movement.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_17",
+    "start": 137.642,
+    "end": 159.33,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So of course, when we speak of blessing, if we just like it would be just putting again and again a vase, an empowerment vase upon the head of the disciple, and if we expect that just that gesture will free our mind stream, that's probably wishful thinking.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_18",
+    "start": 159.63,
+    "end": 160.871,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's not going to happen like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_19",
+    "start": 161.891,
+    "end": 165.753,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And so what we need there is first of all, of course, an authentic teacher.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_20",
+    "start": 166.273,
+    "end": 186.185,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "but also that while we are receiving empowerment through those symbolic gestures and symbolic objects which have been blessed, then we ourselves go through all the sort of proper visualization with the right attitude, with the right motivation, with the right amount of pure vision and devotion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_21",
+    "start": 187.025,
+    "end": 192.65,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then something will happen in the sense of what we mean.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_22",
+    "start": 192.73,
+    "end": 209.226,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Happening means a kind of transformation to our concentration, openness, devotion, and sort of attuning oneself to both the enlightened nature of the teacher's mind and our own basic nature.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_23",
+    "start": 209.866,
+    "end": 212.348,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And so then some kind of transmission can happen.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_24",
+    "start": 213.029,
+    "end": 218.091,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But it's not just like a sort of mechanical blessing by putting some object on one's head.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_25",
+    "start": 219.431,
+    "end": 227.013,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I'm just going to do some commitments to go.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_26",
+    "start": 227.873,
+    "end": 229.954,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Last question.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_27",
+    "start": 230.654,
+    "end": 232.135,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Among those you think most important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_28",
+    "start": 235.896,
+    "end": 241.378,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Audience",
+    "text": "What counsel would you extend to people thinking about entering the teacher-student relationship?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_29",
+    "start": 241.578,
+    "end": 242.178,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "What counsel?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_30",
+    "start": 242.218,
+    "end": 242.598,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "Advice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_31",
+    "start": 242.638,
+    "end": 242.898,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "Advice?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_32",
+    "start": 265.892,
+    "end": 271.374,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "I think it is important for us to know that we are not alone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_33",
+    "start": 271.434,
+    "end": 272.074,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "We are not alone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_34",
+    "start": 272.094,
+    "end": 272.554,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "We are not alone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_35",
+    "start": 272.574,
+    "end": 273.514,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "We are not alone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_36",
+    "start": 273.534,
+    "end": 274.194,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "We are not alone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_37",
+    "start": 274.214,
+    "end": 274.654,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "We are not alone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_38",
+    "start": 274.674,
+    "end": 276.255,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "We are not alone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_39",
+    "start": 276.275,
+    "end": 276.775,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "We are not alone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_40",
+    "start": 294.268,
+    "end": 300.934,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": "And so I mentioned a few things about that before, like the need of putting, mostly trying to rely on",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_41",
+    "start": 317.627,
+    "end": 324.234,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "sort of authentic elder teacher who are beyond any doubt so that one's faith will be always put in the right place.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_42",
+    "start": 324.775,
+    "end": 335.707,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But in any case, before relying to any teacher, first we should examine or think about the teacher from the distance, hear about his life or what he or she does.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_43",
+    "start": 336.487,
+    "end": 349.854,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then, on closer by, I can see if that teacher lives and teaches and behaves and is in accordance with what are the qualifications of a true, genuine teacher.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_44",
+    "start": 350.755,
+    "end": 362.501,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And if one finds, given little time for that, that the teacher is really authentic, as described in the scriptures, and then one can rely upon that teacher.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_45",
+    "start": 363.421,
+    "end": 388.38,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "once one has rely upon that teacher then it is important to trust whatever advice and guidance the teacher will give because that kind of confidence is very important so that one travels the path without sort of all the time doubts and hesitations and sort of double mind and things like that and so that is crucial",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_46",
+    "start": 389.35,
+    "end": 389.47,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_47",
+    "start": 389.57,
+    "end": 389.63,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_48",
+    "start": 389.65,
+    "end": 389.67,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Matthuew",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_49",
+    "start": 389.69,
+    "end": 389.83,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_50",
+    "start": 389.87,
+    "end": 389.89,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_51",
+    "start": 407.36,
+    "end": 409.322,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So there are many kinds of teachers all over the place.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_52",
+    "start": 409.702,
+    "end": 419.79,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So what matters is not how many disciples they have, how eloquent they are in the way they teach, the way they speak, whether they speak beautifully or not.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_53",
+    "start": 420.171,
+    "end": 423.333,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "What really matters is their true realization.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_54",
+    "start": 423.473,
+    "end": 428.037,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And especially if we look in the scriptures, there are many clear descriptions of what is an authentic teacher.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_55",
+    "start": 428.498,
+    "end": 429.538,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So is that teacher...",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_56",
+    "start": 430.9,
+    "end": 434.143,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Is he or she in accordance with those characteristics?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_57",
+    "start": 434.563,
+    "end": 435.804,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "That's quite easy to find.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_58",
+    "start": 435.824,
+    "end": 437.245,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "There are many translations about that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_59",
+    "start": 437.866,
+    "end": 440.669,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that is a very important thing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_60",
+    "start": 441.509,
+    "end": 445.113,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And so we have to be careful and examine the teacher.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_61",
+    "start": 445.293,
+    "end": 453.5,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Once we have found the teacher which we deem to be authentic, then give our trust and then practice according to his or her instructions.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  }
+]

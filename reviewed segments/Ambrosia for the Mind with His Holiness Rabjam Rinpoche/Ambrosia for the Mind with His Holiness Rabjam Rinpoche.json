@@ -1,0 +1,6412 @@
+[
+  {
+    "segment_id": "SRR_001_0",
+    "start": 21.964,
+    "end": 25.346,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "My translator Sean told me not to start conversation with the soul.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_1",
+    "start": 26.347,
+    "end": 27.328,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It always comes up.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_2",
+    "start": 28.028,
+    "end": 30.31,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's kind of Indian habit, I think.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_3",
+    "start": 32.331,
+    "end": 32.971,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "mindfulness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_4",
+    "start": 34.712,
+    "end": 38.793,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So very happy to be here today in this beautiful place.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_5",
+    "start": 40.134,
+    "end": 51.398,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Rinpoche told me to give a kind of a task mission or some kind of rough commentary on this wonderful aspiration prayer by Jamyang Khyentse Wangpo.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_6",
+    "start": 52.358,
+    "end": 58.34,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And I received this teaching intensively from Chabje Dilgo Khyentse Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_7",
+    "start": 62.897,
+    "end": 65.619,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "in France a long time ago.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_8",
+    "start": 67.2,
+    "end": 76.165,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Since then, I always read, try to read this supplication prayer.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_9",
+    "start": 78.847,
+    "end": 87.713,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I can't say I practice, but I make an aspiration, which I think is good auspicious.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_10",
+    "start": 89.053,
+    "end": 95.078,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "to give a kind of commentary in this short aspiration prayer.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_11",
+    "start": 108.309,
+    "end": 112.433,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So you guys have received teaching from Tukusanga Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_12",
+    "start": 112.493,
+    "end": 117.657,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I don't think there's much I can...",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_13",
+    "start": 119.497,
+    "end": 123.958,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "or there's more I can add to what Rinpoche has been teaching.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_14",
+    "start": 126.738,
+    "end": 133.659,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Like I mentioned before, he was the very diligent student of Khyentse Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_15",
+    "start": 133.699,
+    "end": 134.64,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I was the lazy one.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_16",
+    "start": 135.8,
+    "end": 139.06,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So he learned much more than what I did.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_17",
+    "start": 140.061,
+    "end": 148.122,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But even though just to make a spiritual connection that he asked me to say a few words on this practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_18",
+    "start": 151.966,
+    "end": 161.734,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I have Lama Shawn here to help me translate, in case I'll try with my little English.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_19",
+    "start": 164.776,
+    "end": 171.422,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Most of my English I learned from Hollywood movies, so there's not much useful Dharma words in the language I speak.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_20",
+    "start": 173.183,
+    "end": 177.066,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So it's better to have a translator.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_21",
+    "start": 177.927,
+    "end": 181.29,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And the second thing is, if I say anything wrong, I can blame the translator.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_22",
+    "start": 183.613,
+    "end": 187.937,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So please, with the proper attitude, listen to the teaching.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_23",
+    "start": 189.218,
+    "end": 193.661,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "For the sake of all mother sentient beings, we receive these teachings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_24",
+    "start": 196.043,
+    "end": 209.354,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Whenever CHabje Dilgo Khyentse Rinpoche gave teaching, even it's a very short one, that he always goes on and on and on about the setting our mindset, proper attitude.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_25",
+    "start": 211.096,
+    "end": 211.816,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "When we were young,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_26",
+    "start": 213.182,
+    "end": 215.022,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We hear that so many times.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_27",
+    "start": 216.002,
+    "end": 217.443,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Sometimes we feel a little bit bored.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_28",
+    "start": 218.383,
+    "end": 219.583,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Oh, we heard this already.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_29",
+    "start": 221.743,
+    "end": 223.024,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Let's get to the main point.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_30",
+    "start": 224.424,
+    "end": 230.765,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But anyway, I think I realize now it's most important is to set our goal.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_31",
+    "start": 231.505,
+    "end": 241.687,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Whether you receive teaching or whether you practice setting our mindset for the sake of all sentient beings, then we cannot not go wrong.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_32",
+    "start": 242.855,
+    "end": 255.017,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "If we miss that point, then sometimes, even though it looks like we are doing serious practice, then maybe there's chances of off the track.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_33",
+    "start": 256.497,
+    "end": 271.6,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore, it's always very important, whether we do short practice, or receive teaching, or any kind of engaged in Dharma activity, I think it's very important to set the goal, have a proper attitude,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_34",
+    "start": 272.194,
+    "end": 288.398,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "for the sake of all sentient beings, that we listen to the Dharma, or we practice the Dharma, or anything that is related in our spiritual path.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_35",
+    "start": 289.858,
+    "end": 292.339,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Can you read that in English, Sean?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_36",
+    "start": 294.319,
+    "end": 300.261,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I bow down before the spiritual guides of the Supreme Vehicle, the source of all that is positive in samsara and nirvana.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_37",
+    "start": 300.997,
+    "end": 306.982,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "May the precious masters grant their blessings so that my mind is purified to the three kinds of faith.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_38",
+    "start": 307.943,
+    "end": 316.189,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "When we become Buddhists, like I think Himalayan Tibetans, we are born in a kind of Buddhist family, Buddhist background.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_39",
+    "start": 316.449,
+    "end": 318.791,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So somehow we just roll into it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_40",
+    "start": 320.112,
+    "end": 322.995,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But maybe some of you in the West...",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_41",
+    "start": 323.947,
+    "end": 334.35,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "You are not really from the Buddhist background, but somehow you are inspired or get inspired by the teaching that you hear.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_42",
+    "start": 335.87,
+    "end": 344.453,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Or sometimes maybe you get into practicing Buddhism because you are interested or you love the culture or tradition.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_43",
+    "start": 345.693,
+    "end": 351.775,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Or sometimes people go through some difficulty in their life, especially related with the mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_44",
+    "start": 352.579,
+    "end": 360.321,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "then they seek for some kind of refuge and try to find a way to help.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_45",
+    "start": 361.702,
+    "end": 375.526,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So nonetheless, whatever the reason we sort of connect with the spiritual path, I think we have to be a genuine practitioner to really seriously practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_46",
+    "start": 375.586,
+    "end": 378.067,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We must have a genuine sense of",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_47",
+    "start": 380.838,
+    "end": 382.72,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "renunciation, feeling of renunciation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_48",
+    "start": 383.921,
+    "end": 390.186,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And that's, I think, simply if you think that we all look for some kind of happiness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_49",
+    "start": 391.347,
+    "end": 393.289,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Nobody's looking for suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_50",
+    "start": 394.43,
+    "end": 399.335,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Nobody's waking up in the morning saying that, oh, I wish I'll be not happy today.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_51",
+    "start": 400.476,
+    "end": 407.422,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Like the Indian man, he said, everybody wish to be happy when you get up in the morning.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_52",
+    "start": 409.104,
+    "end": 412.405,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I think it's important to understand the samsaric world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_53",
+    "start": 413.565,
+    "end": 423.588,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We all seek for happiness, looking in different kind of ways, trying to become richer, trying to become more famous.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_54",
+    "start": 424.388,
+    "end": 430.57,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So all those things, we can see that the richest man is not necessarily the happiest person.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_55",
+    "start": 431.25,
+    "end": 434.131,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The most powerful person is not necessarily the happiest person.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_56",
+    "start": 435.071,
+    "end": 437.112,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore, so and so we can think.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_57",
+    "start": 439.34,
+    "end": 443.863,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "see that there is no way to achieve the happiness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_58",
+    "start": 445.204,
+    "end": 455.57,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then the second teaching of Buddha, what causes the suffering due to negative emotions, desire, hatred, anger, jealousy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_59",
+    "start": 456.711,
+    "end": 462.655,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And due to these negative emotions, then we accumulate negative karmic or negative karmic deeds.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_60",
+    "start": 466.404,
+    "end": 469.366,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So nobody is really happy when you are so angry.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_61",
+    "start": 469.507,
+    "end": 471.248,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Nobody is really happy when you are jealous.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_62",
+    "start": 471.848,
+    "end": 474.911,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So those are all very kind of understandable.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_63",
+    "start": 475.551,
+    "end": 483.478,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I think one thing about Buddha's teaching is taught very much in rangsing, naturally.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_64",
+    "start": 486.232,
+    "end": 496.414,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "not talking about some kind of another entity that doing, controlling us, but he talks based on reality.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_65",
+    "start": 497.194,
+    "end": 498.854,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I think we can say based on reality.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_66",
+    "start": 500.354,
+    "end": 514.997,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I think Four Noble Truths, basically, especially the suffering of the samsaric and the cause of the suffering, I think anybody can agree on that, no matter what background you are, whether you are spiritual believer or non-believer.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_67",
+    "start": 516.938,
+    "end": 526.86,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "There is a possibility of getting rid of these negative emotions because we are not inheriting our being.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_68",
+    "start": 528.28,
+    "end": 530.381,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "For example, anger is temperamental.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_69",
+    "start": 531.261,
+    "end": 531.701,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Temporary.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_70",
+    "start": 531.861,
+    "end": 533.062,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Temporary.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_71",
+    "start": 533.682,
+    "end": 534.542,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It comes and goes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_72",
+    "start": 535.402,
+    "end": 538.823,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We don't get angry for a whole week.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_73",
+    "start": 540.983,
+    "end": 544.204,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Sometimes we get angry, sometimes we get angry disappears.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_74",
+    "start": 545.002,
+    "end": 547.943,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "is not really in the nature of our mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_75",
+    "start": 548.524,
+    "end": 549.524,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So this is temporary.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_76",
+    "start": 550.465,
+    "end": 553.626,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore there is a possibility of getting rid of it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_77",
+    "start": 555.687,
+    "end": 566.832,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that is the cessation, by getting rid of all the negative emotions, and then we will achieve the ultimate happiness, enlightenment Buddhahood.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_78",
+    "start": 568.593,
+    "end": 570.674,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So now how to achieve that?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_79",
+    "start": 571.529,
+    "end": 583.339,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "enlightenment Buddhahood, or enlightenment or awakening, free from these negative emotions, which are the cause of the suffering, then there is a path, the teaching of Buddha.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_80",
+    "start": 584.48,
+    "end": 589.063,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "His Holiness Dalai Lama quite often used Buddhist science, Buddhist view and Buddhist practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_81",
+    "start": 589.964,
+    "end": 591.766,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Buddhist science is like a research.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_82",
+    "start": 592.846,
+    "end": 596.97,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The suffering of the samsara, and cause of the suffering,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_83",
+    "start": 598.063,
+    "end": 601.344,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So these two are Buddhist science, like a research.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_84",
+    "start": 602.985,
+    "end": 611.628,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then Buddhist view, as a possibility of getting rid of this suffering by using methods.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_85",
+    "start": 613.569,
+    "end": 615.87,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that is kind of Buddhist view.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_86",
+    "start": 617.37,
+    "end": 619.431,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then the third one comes Buddhist practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_87",
+    "start": 619.991,
+    "end": 622.212,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So Buddhist science, Buddhist view, Buddhist practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_88",
+    "start": 624.708,
+    "end": 629.129,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So for noble truth, sometimes it's only the Dalai Lama described like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_89",
+    "start": 629.549,
+    "end": 636.17,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So when it comes to Buddhist path, then there are like so many different teachings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_90",
+    "start": 636.99,
+    "end": 639.331,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Mainly, I think we can divide into three.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_91",
+    "start": 640.191,
+    "end": 643.892,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The Shavakayana, and Mahayana, and Vajrayana.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_92",
+    "start": 645.552,
+    "end": 651.333,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then in Shavakayana, I think by using antidote.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_93",
+    "start": 651.633,
+    "end": 654.354,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "For each of these negative emotions has an antidote.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_94",
+    "start": 655.583,
+    "end": 672.378,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "By increasing the opposite, for example, instead of anger, if you generate patience, loving kindness, then naturally there is less space for anger.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_95",
+    "start": 673.419,
+    "end": 678.003,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "You cannot have the same time, same moment, love and hate together.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_96",
+    "start": 679.424,
+    "end": 682.607,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So by using each of these negative emotions has an antidote.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_97",
+    "start": 683.478,
+    "end": 687.94,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So by increasing these antidotes, then there are less negative emotions.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_98",
+    "start": 688.7,
+    "end": 693.402,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So this is mainly, I think, practice in Shravakayana.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_99",
+    "start": 695.443,
+    "end": 706.248,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then Mahayana, we are using the negative emotions, Nyamunjurva, transforming them.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_100",
+    "start": 707.08,
+    "end": 707.84,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "transforming them.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_101",
+    "start": 708.541,
+    "end": 714.803,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that is the main teaching here today, based on Mahayana kind of approach.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_102",
+    "start": 716.644,
+    "end": 719.805,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then we have the final one is Vajrayana.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_103",
+    "start": 721.785,
+    "end": 726.347,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I think you have been practicing this morning, the Vajrayana practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_104",
+    "start": 730.249,
+    "end": 733.81,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So in order to do Vajrayana practice, I think",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_105",
+    "start": 734.876,
+    "end": 736.777,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We must have all the other two.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_106",
+    "start": 737.857,
+    "end": 744.639,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The first essence of the Sabhagayana is sense of renunciation, wanting to be free from the suffering of samsara.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_107",
+    "start": 745.66,
+    "end": 752.522,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then on top of that, then we have to have Mahayana attitude, not for one's self, but for the sake of all sentient beings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_108",
+    "start": 753.182,
+    "end": 757.184,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then on top of that, then we do the Vajrayana practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_109",
+    "start": 758.864,
+    "end": 763.266,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So, since we are here focusing on this teaching,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_110",
+    "start": 764.013,
+    "end": 766.834,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "which is more on the developing bodhicitta mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_111",
+    "start": 768.355,
+    "end": 788.703,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The first four words is the whole actually the teaching is like making aspiration but the first four words it is to making kind of making supplication to a teacher.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_112",
+    "start": 792.745,
+    "end": 793.605,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So teacher here",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_113",
+    "start": 795.39,
+    "end": 806.839,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Of course, again, when you talk about the teacher, there are so many different layers or different teachers, but I think basically, teacher is someone who inspires you, inspires you in the path.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_114",
+    "start": 808.961,
+    "end": 824.633,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Someone who put in practice, who has first knowledge, and then that person has put into the practice, then certain realization of understanding, or guiding you in the path.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_115",
+    "start": 825.886,
+    "end": 827.667,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that is, I think, teacher.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_116",
+    "start": 828.807,
+    "end": 834.29,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "That in order to practice, we have to rely upon an authentic teacher.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_117",
+    "start": 835.01,
+    "end": 844.115,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So in the scriptures, there are so many different descriptions, so many detailed descriptions to find authentic teacher.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_118",
+    "start": 846.316,
+    "end": 851.878,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then when you talk about authentic teacher, in our case,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_119",
+    "start": 858.092,
+    "end": 876.04,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "That one who has been so many years in retreat, before that he met so many teachers, received so many teachings, he has more than 50 different teachers, and then himself put in practice for more than 20 years.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_120",
+    "start": 877.652,
+    "end": 889.194,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then after his, as per his teacher's kind of request or instruction, then he continuously, non-stop teaching.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_121",
+    "start": 890.055,
+    "end": 906.498,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Since Khyentse Rinpoche belongs to rime master, non-sectarian, so he took responsibility of preserving all the major tradition of Tibetan Buddhist tradition, and especially in Nyingma lineage.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_122",
+    "start": 907.4,
+    "end": 921.173,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Rinpoche really emphasized on protecting and saving and encouraging people to continue like in Rinpoche's case, Rinpoche yesterday mentioned that Rinpoche insists that continue on Namchak tradition.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_123",
+    "start": 921.654,
+    "end": 924.356,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So likewise, there are so many...",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_124",
+    "start": 925.898,
+    "end": 929.881,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "In fact, Khyentse Rinpoche when he was alive, if you ask him,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_125",
+    "start": 931.665,
+    "end": 932.946,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "What practice should I do?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_126",
+    "start": 932.966,
+    "end": 940.632,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Rinpoche would never give you his own terma or his own kind of treasure teachings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_127",
+    "start": 941.232,
+    "end": 946.996,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "He would always emphasize on whichever is about to lose or about to disappear.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_128",
+    "start": 947.116,
+    "end": 948.737,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So he would always emphasize on that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_129",
+    "start": 950.318,
+    "end": 957.664,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So like that he was worried about preserving all the major schools of Tibetan Buddhist tradition and especially in Nyingman tradition.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_130",
+    "start": 957.704,
+    "end": 959.225,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I can see now",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_131",
+    "start": 961.251,
+    "end": 966.274,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Because of the kindness of Khyentse Rinpoche, so many different traditions are still very much alive.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_132",
+    "start": 967.155,
+    "end": 973.398,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "One example here, Namchak tradition, also Rinpoche's inspiration, Rwanda.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_133",
+    "start": 974.259,
+    "end": 978.221,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that is what we call the holder of the Rime tradition.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_134",
+    "start": 978.882,
+    "end": 980.002,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So this is one example.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_135",
+    "start": 981.463,
+    "end": 986.446,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So it's very important, I think, to rely upon the real authentic master teacher.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_136",
+    "start": 987.447,
+    "end": 988.687,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then how to rely upon?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_137",
+    "start": 988.947,
+    "end": 989.788,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then thepasum.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_138",
+    "start": 991.241,
+    "end": 991.281,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_139",
+    "start": 991.301,
+    "end": 991.381,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_140",
+    "start": 991.401,
+    "end": 991.421,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_141",
+    "start": 991.481,
+    "end": 991.561,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_142",
+    "start": 991.621,
+    "end": 991.681,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_143",
+    "start": 991.701,
+    "end": 991.721,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_144",
+    "start": 991.761,
+    "end": 991.841,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_145",
+    "start": 991.861,
+    "end": 991.881,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_146",
+    "start": 991.921,
+    "end": 991.941,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_147",
+    "start": 991.961,
+    "end": 992.001,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_148",
+    "start": 992.021,
+    "end": 992.041,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_149",
+    "start": 992.242,
+    "end": 992.322,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_150",
+    "start": 992.342,
+    "end": 992.362,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_151",
+    "start": 992.382,
+    "end": 992.422,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_152",
+    "start": 992.462,
+    "end": 992.482,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_153",
+    "start": 992.522,
+    "end": 992.602,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_154",
+    "start": 992.622,
+    "end": 992.662,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_155",
+    "start": 992.722,
+    "end": 992.742,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_156",
+    "start": 992.782,
+    "end": 992.842,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_157",
+    "start": 992.862,
+    "end": 992.882,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_158",
+    "start": 993.162,
+    "end": 993.242,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_159",
+    "start": 993.282,
+    "end": 993.362,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_160",
+    "start": 993.382,
+    "end": 993.502,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_161",
+    "start": 993.542,
+    "end": 993.582,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_162",
+    "start": 993.602,
+    "end": 993.642,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_163",
+    "start": 993.662,
+    "end": 993.682,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_164",
+    "start": 993.702,
+    "end": 994.523,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_165",
+    "start": 994.543,
+    "end": 994.563,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_166",
+    "start": 994.603,
+    "end": 994.663,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_167",
+    "start": 994.683,
+    "end": 994.703,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_168",
+    "start": 994.723,
+    "end": 994.783,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_169",
+    "start": 994.803,
+    "end": 994.823,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_170",
+    "start": 994.863,
+    "end": 994.943,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_171",
+    "start": 994.963,
+    "end": 994.983,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_172",
+    "start": 1020.413,
+    "end": 1023.854,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Example, we 100% trust our life with a helicopter pilot.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_173",
+    "start": 1027.776,
+    "end": 1034.658,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "If he was like half drunk or walking a little bit crazy, I wouldn't get on that plane.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_174",
+    "start": 1034.918,
+    "end": 1036.379,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So basically trust, I think.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_175",
+    "start": 1051.603,
+    "end": 1053.524,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "The preliminary is the basis for practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_176",
+    "start": 1054.624,
+    "end": 1080.213,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "May the precious masters grant their blessings so that I may train thoroughly in the preliminaries, recognizing how hard it is to gain the freedoms and advantages and how easily they are lost, so that I strive always to act in accordance with the laws of karma, adopting wholesome deeds and avoiding what is harmful, and develop genuine renunciation for samsara.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_177",
+    "start": 1084.006,
+    "end": 1092.509,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So once we have a genuine kind of sense of renunciation, wanting to be free from the samsaric world, genuine kind of.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_178",
+    "start": 1093.01,
+    "end": 1113.338,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So to get this genuine renunciation feeling, the more you look into the samsaric world, the more you understand the defaults of the samsaric world, then we naturally get genuine sense of what you call",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_179",
+    "start": 1114.833,
+    "end": 1119.554,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Renunciation feeling.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_180",
+    "start": 1119.614,
+    "end": 1127.056,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I sometimes compare with a roadside restaurant in India.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_181",
+    "start": 1127.816,
+    "end": 1132.457,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "When you feel very hungry, you're traveling long journey and you feel hungry.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_182",
+    "start": 1133.858,
+    "end": 1139.299,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then you see all these delicious curry lay out outside of the road.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_183",
+    "start": 1139.779,
+    "end": 1143.82,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "You come out of the bus and then the smell is so tempting.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_184",
+    "start": 1144.8,
+    "end": 1147.582,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "You really can't resist your mouth watering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_185",
+    "start": 1149.204,
+    "end": 1161.154,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then you go behind, back side, and you see the kitchen next to the toilet, open toilet, and the flies going back and forth.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_186",
+    "start": 1163.255,
+    "end": 1168.84,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then the guy who makes the chapati, he's sweating, dripping into the chapati.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_187",
+    "start": 1170.121,
+    "end": 1173.544,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then, right away, that appetite is gone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_188",
+    "start": 1175.637,
+    "end": 1176.757,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "without much effort.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_189",
+    "start": 1179.298,
+    "end": 1187.439,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that kind of genuine kind of renunciation feeling then is not so difficult to really engage in practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_190",
+    "start": 1188.179,
+    "end": 1201.962,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Otherwise, if you don't see the background, the kitchen or the samsari kind of pleasure, then it's sometimes difficult for us to sort of engage ourself fully into practice because we haven't seen the kitchen yet.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_191",
+    "start": 1203.619,
+    "end": 1217.306,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So then, once we get that kind of genuine kind of understanding of the samsara world, then I think example like Buddha, he had all the pleasure and comfort of the prince.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_192",
+    "start": 1218.326,
+    "end": 1227.711,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Yet, he left everything and went into achieve something more important, greater than the worldly kind of pleasure.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_193",
+    "start": 1229.432,
+    "end": 1231.293,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Similar with Jangchub Khyentse Rinpoche's case,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_194",
+    "start": 1232.26,
+    "end": 1233.721,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "He was born in noble family.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_195",
+    "start": 1234.221,
+    "end": 1238.024,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "He had every kind of comfort that in Tibet, whatever is, exists that time.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_196",
+    "start": 1238.905,
+    "end": 1244.329,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But yet he left everything and spent his time with his teacher in the mountains.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_197",
+    "start": 1246.491,
+    "end": 1253.076,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore, once we understand, then we know practicing Dharma is something greater course.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_198",
+    "start": 1254.757,
+    "end": 1259.921,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So this kind of, in order to get that, then they have teachings, , precious human life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_199",
+    "start": 1262.827,
+    "end": 1267.891,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Precious human life, there are so many different teachings in the Kunsan Lama Shalong, very detailed.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_200",
+    "start": 1267.971,
+    "end": 1274.876,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And I think if we put together, I think it is to understand the potential we have in this human life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_201",
+    "start": 1275.516,
+    "end": 1291.828,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The potential we can... We are so much, compared to other mammoths, sentient beings or animals, mammoths, our brain is much more intelligent, and use of that intelligence to achieve something greater.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_202",
+    "start": 1293.9,
+    "end": 1299.422,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And in the teachings he says human realm is the perfect condition to practice the dharma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_203",
+    "start": 1301.463,
+    "end": 1311.347,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Yes, I think maybe dolphins have bigger brains, but it will be difficult to practice ngondro as a dolphin, to do a postation or whatever.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_204",
+    "start": 1312.228,
+    "end": 1313.788,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "You don't have a big head.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_205",
+    "start": 1314.489,
+    "end": 1316.629,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "You can't even do thumb namaste.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_206",
+    "start": 1320.231,
+    "end": 1321.431,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Sorry to make some jokes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_207",
+    "start": 1324.096,
+    "end": 1329.861,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I think humans are in perfect condition to practice the ngondro, practice the dharma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_208",
+    "start": 1331.082,
+    "end": 1334.485,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then I think we have to make use of this intelligence.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_209",
+    "start": 1337.267,
+    "end": 1345.514,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "If we are just born, live, eat, die, then we are not so much different from the other animals.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_210",
+    "start": 1347.435,
+    "end": 1352.82,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore, I think finding the right path, like Lama Tsongkhapa said,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_211",
+    "start": 1353.817,
+    "end": 1358.098,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "try to find the meaning of life, meaning, giving meaning to life, right?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_212",
+    "start": 1359.038,
+    "end": 1364.259,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that is, I think, basically what precious human life, is talking about.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_213",
+    "start": 1365.119,
+    "end": 1376.122,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then second thing is once we know that we have this potential, then everything is changing, everything is moving so fast, impermanence, moment to moment.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_214",
+    "start": 1377.682,
+    "end": 1382.303,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "If you think back in our life, some of us in 50s, 60s,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_215",
+    "start": 1384.662,
+    "end": 1390.845,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "what really we did that we can think that I did something, right?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_216",
+    "start": 1392.105,
+    "end": 1401.41,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We have traveled a lot, we have talked a lot, we have done so many things, but what really we did that gives some kind of meaning to one's life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_217",
+    "start": 1401.97,
+    "end": 1405.071,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "If you have done tria, retreat or something, then that is something.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_218",
+    "start": 1406.272,
+    "end": 1412.075,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Otherwise, I think we can say 90%, I can more or less say 90%",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_219",
+    "start": 1413.271,
+    "end": 1414.612,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Our life, we don't even remember.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_220",
+    "start": 1416.532,
+    "end": 1419.533,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's like a dream, not even a dream, it's all gone, right?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_221",
+    "start": 1420.874,
+    "end": 1422.515,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So the time is moving so fast.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_222",
+    "start": 1424.015,
+    "end": 1434.519,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Every moment is getting closer and closer to the holiday that we are all supposed to take, the death.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_223",
+    "start": 1436.84,
+    "end": 1442.062,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "In fact, I saw some article in one of the magazines that says that",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_224",
+    "start": 1442.732,
+    "end": 1445.133,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's not a Buddhist or religious magazine.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_225",
+    "start": 1445.213,
+    "end": 1445.934,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's just a magazine.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_226",
+    "start": 1445.954,
+    "end": 1450.436,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "They said that people make so much arrangement for holiday, next year holiday.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_227",
+    "start": 1451.197,
+    "end": 1460.182,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "You start booking hotel, you start making, you know, booking air tickets, research about the place where you're supposed to visit.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_228",
+    "start": 1461.802,
+    "end": 1467.426,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But we never make an arrangement for that everlasting holiday that we're not going to come back.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_229",
+    "start": 1469.507,
+    "end": 1471.648,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I think it's worthwhile to make",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_230",
+    "start": 1472.645,
+    "end": 1479.489,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "put some effort into making some arrangement for this, our upcoming death.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_231",
+    "start": 1480.169,
+    "end": 1488.514,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that is what we call the second impermanence, law of impermanence.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_232",
+    "start": 1490.556,
+    "end": 1496.879,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then when we go beyond that, then it depends on how we lived our life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_233",
+    "start": 1497.259,
+    "end": 1499.661,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's in the teachings they say",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_234",
+    "start": 1503.194,
+    "end": 1507.016,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "If you want to know what was your past life, see what's your situation now.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_235",
+    "start": 1508.097,
+    "end": 1513.821,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And if you want to know what's going to be next life, then see your action now.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_236",
+    "start": 1515.282,
+    "end": 1523.328,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore, when we go, then it depends on how we live our life and depends on our action, and that is going to lead us.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_237",
+    "start": 1526.05,
+    "end": 1530.493,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore, we have to be very careful and diligent",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_238",
+    "start": 1532.007,
+    "end": 1536.628,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Every kind of day, every moment we have a choice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_239",
+    "start": 1538.628,
+    "end": 1540.009,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Do the right thing or the wrong thing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_240",
+    "start": 1540.589,
+    "end": 1545.49,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So being mindfulness and always trying to do the right thing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_241",
+    "start": 1547.11,
+    "end": 1550.991,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then we'll end up bring the good result.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_242",
+    "start": 1551.591,
+    "end": 1554.151,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that is what we call law of the cause and effect.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_243",
+    "start": 1556.332,
+    "end": 1561.453,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Which is again, I think very much based on reality.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_244",
+    "start": 1563.863,
+    "end": 1565.744,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "the good karma and bad karma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_245",
+    "start": 1566.444,
+    "end": 1570.006,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's not someone says this is bad and because of that it's bad.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_246",
+    "start": 1570.286,
+    "end": 1571.927,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Someone says this is good because of that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_247",
+    "start": 1571.967,
+    "end": 1573.287,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's not like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_248",
+    "start": 1574.007,
+    "end": 1576.448,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It totally depends on mainly our intention.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_249",
+    "start": 1577.709,
+    "end": 1584.172,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "With a positive intention, do some action that will help bring this kind of happiness or good to others.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_250",
+    "start": 1585.032,
+    "end": 1586.733,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "That is positive karma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_251",
+    "start": 1588.143,
+    "end": 1590.685,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "With bad intention, do some kind of action.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_252",
+    "start": 1591.425,
+    "end": 1593.006,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So intention is more important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_253",
+    "start": 1593.686,
+    "end": 1596.528,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Like, I'm sure there's teachings in the Yunsan Lamishe Long.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_254",
+    "start": 1597.408,
+    "end": 1600.27,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Example of the cha-cha and the shoes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_255",
+    "start": 1601.031,
+    "end": 1603.912,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I'm sure you already heard those teachings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_256",
+    "start": 1604.553,
+    "end": 1609.015,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So with all these four thoughts, four thoughts that turn our mind into Dharma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_257",
+    "start": 1609.035,
+    "end": 1610.836,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So this, I think, is very important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_258",
+    "start": 1616.243,
+    "end": 1621.966,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Even we do Ngondro practice, of course, accumulation is there, but the four thoughts, I think, is very important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_259",
+    "start": 1622.526,
+    "end": 1627.269,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "This is the main kind of part of the Ngondro that Khyentse Rinpoche used to say.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_260",
+    "start": 1628.149,
+    "end": 1631.251,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then, I think, that's why it's called the foundation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_261",
+    "start": 1631.871,
+    "end": 1635.993,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "If you want to build a big building, you must have a good foundation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_262",
+    "start": 1636.553,
+    "end": 1645.798,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So if you have these four thoughts in your mind, then I think the other practice becomes more stable",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_263",
+    "start": 1651.21,
+    "end": 1675.643,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "The second verse reads, May the precious masters grant their blessings so that I may always cultivate the two aspects of bodhicitta, purifying my dualistic perceptions, which have no basis in reality, into all pervading space.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_264",
+    "start": 1676.433,
+    "end": 1680.577,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "and practicing the profound exchange of my own happiness for others' suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_265",
+    "start": 1683.059,
+    "end": 1687.743,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So now for the main practice, main part of bodhicitta practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_266",
+    "start": 1688.843,
+    "end": 1693.828,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The first I think here a little bit emphasized on the absolute bodhicitta.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_267",
+    "start": 1696.11,
+    "end": 1704.577,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I think the reason is that some teachings I think first they focus on the relative bodhicitta and then leads to absolute bodhicitta.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_268",
+    "start": 1705.391,
+    "end": 1716.676,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So this particular tradition of the seven point mind training, it focuses on the absolute bodhicitta.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_269",
+    "start": 1720.638,
+    "end": 1731.503,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So all phenomena, all perception that using maybe some Madhyamaka idea",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_270",
+    "start": 1732.897,
+    "end": 1735.578,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "that understanding everything, all phenomena is empty.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_271",
+    "start": 1738.54,
+    "end": 1755.509,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Example, there are many examples given, like if you call a table, then we think it's a table, then we take out the four legs and we take out different parts, then table doesn't exist, so likewise you go deeper and deeper into it, then at the end there's nothing but so does.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_272",
+    "start": 1757.183,
+    "end": 1765.35,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And like that, there are so many different ways of analytical meditation to understand the emptiness, even house, whatever.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_273",
+    "start": 1766.231,
+    "end": 1783.667,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "If you go deeper and deeper into it, you will not find some kind of solid that what we have labeled goes into the... Then same thing with analyzing your mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_274",
+    "start": 1785.702,
+    "end": 1788.504,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Also past, present, future thoughts.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_275",
+    "start": 1789.545,
+    "end": 1790.446,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The past is gone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_276",
+    "start": 1791.507,
+    "end": 1793.668,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The future is not born yet and present.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_277",
+    "start": 1793.728,
+    "end": 1802.235,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So like that, by using all these kinds of methods, different methods, then to understand the absolute kind of emptiness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_278",
+    "start": 1804.097,
+    "end": 1813.244,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I think the reason why they put the absolute bodhicitta first is that the more you understand emptiness,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_279",
+    "start": 1814.451,
+    "end": 1816.112,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "the more you understand possibility.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_280",
+    "start": 1818.173,
+    "end": 1825.718,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that you feel stronger compassion towards those who do not understand the emptiness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_281",
+    "start": 1826.178,
+    "end": 1831.741,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And because of that they are caught into the samsaric world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_282",
+    "start": 1831.801,
+    "end": 1836.704,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore I think the understanding of emptiness is very important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_283",
+    "start": 1837.305,
+    "end": 1841.127,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So of course we have to understand two truths, absolute truth and relative truth.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_284",
+    "start": 1841.147,
+    "end": 1842.888,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So these two truths we have to understand.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_285",
+    "start": 1844.714,
+    "end": 1855.725,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So the more you understand this possibility, absolute truth, then relative truth, relative compassion increases.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_286",
+    "start": 1855.845,
+    "end": 1866.135,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "For example, some guy is drowning in the ocean, and then you see that person is helpless.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_287",
+    "start": 1867.276,
+    "end": 1874.621,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So trying to swim, but it is not able to come out of the ocean.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_288",
+    "start": 1876.143,
+    "end": 1878.784,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then there is nothing you can do, and you just feel sorry.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_289",
+    "start": 1879.245,
+    "end": 1879.725,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It is pity.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_290",
+    "start": 1880.366,
+    "end": 1883.868,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I wish that person be saved, but there is nothing we can do.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_291",
+    "start": 1885.149,
+    "end": 1894.916,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But then if you see an island just behind him, and then if you just turn back, then he will be saved.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_292",
+    "start": 1896.514,
+    "end": 1897.835,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then you see a possibility.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_293",
+    "start": 1899.035,
+    "end": 1900.896,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then you feel stronger kind of words.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_294",
+    "start": 1901.036,
+    "end": 1905.919,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Oh, I wish if you just turn his face that way, he will be saved.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_295",
+    "start": 1906.679,
+    "end": 1909.42,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So the compassion is much stronger.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_296",
+    "start": 1910.821,
+    "end": 1919.485,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So likewise, I think, the more you understand the emptiness aspect, then more you feel compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_297",
+    "start": 1919.645,
+    "end": 1922.847,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Some people say, if everything is emptiness, then why we need compassion?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_298",
+    "start": 1924.263,
+    "end": 1925.924,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I think that's misunderstood.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_299",
+    "start": 1926.244,
+    "end": 1936.55,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The more you understand compassion, I think, the more you understand emptiness, the more you see this possibility to be saved.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_300",
+    "start": 1937.43,
+    "end": 1953.999,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore, first we have the absolute bodhicitta, and also we have some kind of, with this resting after analytical meditation, some kind of understanding of the emptiness,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_301",
+    "start": 1955.127,
+    "end": 1964.755,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then resting on that also helps us to calm our mind in order to develop the relative bodhicitta.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_302",
+    "start": 1965.775,
+    "end": 1970.459,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Because our mind is so kind of disturbed so much.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_303",
+    "start": 1971.42,
+    "end": 1975.563,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So then once your mind is so disturbed you cannot really focus well.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_304",
+    "start": 1977.705,
+    "end": 1981.928,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And especially these days so many things happening in the world",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_305",
+    "start": 1983.795,
+    "end": 1985.556,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So our mind is even more disturbed.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_306",
+    "start": 1989.399,
+    "end": 1996.263,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Like when I visited Tibet, Mount Kailash area, it was so quiet, so peaceful.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_307",
+    "start": 1998.144,
+    "end": 2001.406,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And naturally you feel kind of calmness there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_308",
+    "start": 2002.867,
+    "end": 2013.554,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So now when you come out of that scenario and we come into this so-called developed world, then people have more kind of disturbance in the mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_309",
+    "start": 2015.152,
+    "end": 2031.164,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Also reason for our masters in Tibet, I feel the reason why our masters from Tibet have achieved such realization is because in Tibet there is not much distraction.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_310",
+    "start": 2032.325,
+    "end": 2033.706,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "In fact, there is nothing to do there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_311",
+    "start": 2036.248,
+    "end": 2039.17,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And if you don't practice, you will feel bored.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_312",
+    "start": 2040.69,
+    "end": 2045.054,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Oh, I feel so bored, I better go and do practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_313",
+    "start": 2045.074,
+    "end": 2047.856,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So here it's opposite in this modern world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_314",
+    "start": 2048.197,
+    "end": 2050.999,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Even though here it's quite peaceful, almost like Tibet.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_315",
+    "start": 2052.7,
+    "end": 2058.165,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore I think it really helps to have some karma-binding experience.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_316",
+    "start": 2059.146,
+    "end": 2064.891,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And some of my friends told Rinpoche that teaching in the West, they say, is very important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_317",
+    "start": 2065.804,
+    "end": 2071.447,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "for the people who begin practice in the West to have some understanding of karma mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_318",
+    "start": 2072.928,
+    "end": 2075.209,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Because there is so much distraction, so much thing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_319",
+    "start": 2076.17,
+    "end": 2078.771,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that is way to kind of train our mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_320",
+    "start": 2080.132,
+    "end": 2082.674,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And I think we can increase this slowly.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_321",
+    "start": 2083.534,
+    "end": 2086.056,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "First with someone you love, someone you care.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_322",
+    "start": 2086.076,
+    "end": 2088.697,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It will be easier, much easier to practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_323",
+    "start": 2089.498,
+    "end": 2091.499,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Wishing that person to be happy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_324",
+    "start": 2092.299,
+    "end": 2095.321,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Wishing that person to be free from all the sufferings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_325",
+    "start": 2097.37,
+    "end": 2103.572,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then gradually we increase to people who we don't know.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_326",
+    "start": 2105.592,
+    "end": 2121.517,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then gradually we increase to that, especially, I think, when you get a little bit used to it, then we can more or less focus on the, if you have someone who makes trouble to you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_327",
+    "start": 2123.438,
+    "end": 2123.818,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I think...",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_328",
+    "start": 2127.073,
+    "end": 2128.754,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "In many cases, your neighbor, maybe.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_329",
+    "start": 2130.195,
+    "end": 2131.955,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Many people have a problem with their neighbor.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_330",
+    "start": 2133.676,
+    "end": 2136.037,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Or if you have someone who disturbs you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_331",
+    "start": 2137.178,
+    "end": 2149.884,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Once His Holiness Dalai Lama, I remember, someone asked a question, how can I understand or how can I know whether my practice is going well or not?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_332",
+    "start": 2151.164,
+    "end": 2156.187,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then His Holiness said that, imagine someone you don't like in front of yourself.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_333",
+    "start": 2157.745,
+    "end": 2160.427,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "and then try to generate your loving kindness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_334",
+    "start": 2161.168,
+    "end": 2164.211,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And if you can do well, that means your practice is going well.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_335",
+    "start": 2165.492,
+    "end": 2168.795,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And if you are not doing very well, then your practice is not going well.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_336",
+    "start": 2170.256,
+    "end": 2171.497,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I think we have to work.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_337",
+    "start": 2171.577,
+    "end": 2184.208,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Like in mind training, always they say that whichever the negative emotion or whichever is really bothering us more, then we have to focus, use all the different methods to destroy that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_338",
+    "start": 2185.215,
+    "end": 2199.766,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Destroying means like if there's someone who really like you hate and then you have to visualize that person and then try to generate loving kindness and if that's a difficult then that's the point where you really have to train your mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_339",
+    "start": 2201.247,
+    "end": 2214.617,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then we also use the use the breathe breath this is kind of natural flow so when you breathe out just imagine I think it's very easy you don't need",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_340",
+    "start": 2215.653,
+    "end": 2217.574,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "any kind of implements there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_341",
+    "start": 2217.594,
+    "end": 2218.855,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "You just sit and breathe out.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_342",
+    "start": 2219.816,
+    "end": 2226.981,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Just by breathing out, giving all the positive, all the virtues that you have accumulated.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_343",
+    "start": 2228.202,
+    "end": 2238.549,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then when you breathe in, you just breathe in all the suffering or the pain of the beings, bringing into yourself.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_344",
+    "start": 2242.212,
+    "end": 2243.253,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that's, I think,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_345",
+    "start": 2245.155,
+    "end": 2255.443,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "May the Precious Masters grant their blessings so that whatever adversity and sufferings may arise, I see them as the wiles of this demon, ego-clinging.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_346",
+    "start": 2274.503,
+    "end": 2280.865,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "and transform them into the path towards awakening.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_347",
+    "start": 2281.926,
+    "end": 2291.849,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So whatever difficulty in one's life, problem in one's life, then we will be able to practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_348",
+    "start": 2292.109,
+    "end": 2295.571,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So this I think is very important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_349",
+    "start": 2296.751,
+    "end": 2297.992,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Because the more you practice,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_350",
+    "start": 2299.765,
+    "end": 2315.561,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "should be able to handle the difficulties, situations, circumstances in your life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_351",
+    "start": 2317.623,
+    "end": 2320.746,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So understanding everything is the self-saturation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_352",
+    "start": 2329.896,
+    "end": 2340.058,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "First we cling to I, oneself, then we cling to mind, so we circle in the samsaric world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_353",
+    "start": 2340.838,
+    "end": 2348.48,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So this I, again, I don't think we need a very deep philosophical study to understand that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_354",
+    "start": 2350.213,
+    "end": 2352.634,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "You don't say I the hand, you say my hand.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_355",
+    "start": 2352.674,
+    "end": 2353.695,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So hand is not you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_356",
+    "start": 2355.175,
+    "end": 2356.436,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "You are owner of the hand.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_357",
+    "start": 2358.797,
+    "end": 2359.997,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So then who is this owner?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_358",
+    "start": 2360.778,
+    "end": 2362.559,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Usually we say it's the mind, right?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_359",
+    "start": 2363.499,
+    "end": 2364.82,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And we don't say I mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_360",
+    "start": 2365.78,
+    "end": 2367.121,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We say my mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_361",
+    "start": 2368.061,
+    "end": 2370.062,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We are different between me and the mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_362",
+    "start": 2370.862,
+    "end": 2374.404,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So who is this behind your mind?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_363",
+    "start": 2378.183,
+    "end": 2380.725,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The name is given to you when you are born.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_364",
+    "start": 2382.226,
+    "end": 2384.708,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "In fact, you are born with no identity.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_365",
+    "start": 2385.329,
+    "end": 2386.069,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "No identity.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_366",
+    "start": 2387.07,
+    "end": 2387.61,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "UFO.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_367",
+    "start": 2390.172,
+    "end": 2392.914,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I mean, unidentified crying object.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_368",
+    "start": 2393.655,
+    "end": 2394.996,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Unidentified crying object.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_369",
+    "start": 2397.178,
+    "end": 2397.458,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Right?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_370",
+    "start": 2399.479,
+    "end": 2407.786,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So, the name is given to you, and then if you really like simple kind of little analytic,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_371",
+    "start": 2409.264,
+    "end": 2413.048,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "There is no really, don't need to be really deep philosophical understanding.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_372",
+    "start": 2414.809,
+    "end": 2419.554,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So because of I, then we have mind, then this and that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_373",
+    "start": 2421.656,
+    "end": 2428.402,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Except for the iPhone, we have the iPhone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_374",
+    "start": 2428.622,
+    "end": 2432.526,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I quite often say that iPhone is selling very well because there is I on it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_375",
+    "start": 2433.867,
+    "end": 2434.548,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Everybody loves I.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_376",
+    "start": 2437.37,
+    "end": 2441.891,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I think simple meditating, simple kind of analytic meditation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_377",
+    "start": 2445.272,
+    "end": 2448.193,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So because of the I, then everything is there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_378",
+    "start": 2450.913,
+    "end": 2451.653,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "All the problems.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_379",
+    "start": 2460.255,
+    "end": 2466.797,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So with understanding that, with understanding this I, there are so many examples that",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_380",
+    "start": 2472.623,
+    "end": 2474.085,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I give one example.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_381",
+    "start": 2475.766,
+    "end": 2486.194,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Like a beautiful, walking by the shop, and there's a beautiful Chinese vase in the display, showroom display.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_382",
+    "start": 2487.135,
+    "end": 2493,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And while you're walking in front of the shop, and someone's cleaning the window,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_383",
+    "start": 2494.435,
+    "end": 2497.776,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And somehow that person pushed the vase and breaks.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_384",
+    "start": 2498.796,
+    "end": 2500.957,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So you see the scenario of the breaking.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_385",
+    "start": 2502.137,
+    "end": 2503.277,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So you say, it's such a pity.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_386",
+    "start": 2503.457,
+    "end": 2504.397,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's a beautiful vase.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_387",
+    "start": 2505.878,
+    "end": 2506.338,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "That much.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_388",
+    "start": 2508.078,
+    "end": 2512.639,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Now the same scenario, the vase is given to you or you bought it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_389",
+    "start": 2513.32,
+    "end": 2514.32,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It was very expensive.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_390",
+    "start": 2515.88,
+    "end": 2517.501,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then somebody pushes over and breaks.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_391",
+    "start": 2519.001,
+    "end": 2520.901,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's the same vase, same scenario.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_392",
+    "start": 2521.682,
+    "end": 2523.442,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "One with the eye, one without the eye.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_393",
+    "start": 2524.479,
+    "end": 2527.24,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "One with a label eye, oh, it's a catastrophe.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_394",
+    "start": 2528.46,
+    "end": 2530.7,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "One without the label eye, oh, it's a pity.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_395",
+    "start": 2531.861,
+    "end": 2539.082,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I think everything, as long as we have this label eye on anything, then it becomes more serious.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_396",
+    "start": 2540.963,
+    "end": 2545.744,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I don't know what Rinpoche is thinking.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_397",
+    "start": 2545.944,
+    "end": 2547.324,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "He's testing me, actually.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_398",
+    "start": 2551.324,
+    "end": 2562.888,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So like that, so whatever circumstances come, try to see it is the default of the self clinging to the I. .",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_399",
+    "start": 2578,
+    "end": 2594.258,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "May the precious masters grant their blessings so that I might focus upon the essence of the practice throughout my life and always apply the five strengths of pure thought and pure deed, gathering merit, purifying obscurations, and making prayers of aspiration.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_400",
+    "start": 2606.705,
+    "end": 2610.148,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I think I can share a secret with you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_401",
+    "start": 2611.87,
+    "end": 2613.652,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Actually, I am very afraid of flying.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_402",
+    "start": 2619.578,
+    "end": 2622.921,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "When I saw the program, this is flying by helicopter, I said,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_403",
+    "start": 2626.047,
+    "end": 2628.169,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "That's why I insisted to go back in the car.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_404",
+    "start": 2631.012,
+    "end": 2632.754,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But no, no, no, it was good for me.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_405",
+    "start": 2633.735,
+    "end": 2634.616,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It was good for me.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_406",
+    "start": 2635.317,
+    "end": 2641.143,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Once I was going in a mountain in Switzerland, somewhere, in a gondola.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_407",
+    "start": 2641.643,
+    "end": 2642.344,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Gondola, they call it?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_408",
+    "start": 2642.464,
+    "end": 2642.904,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Elevator?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_409",
+    "start": 2643.845,
+    "end": 2645.687,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But that still sticks to the ropes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_410",
+    "start": 2647.183,
+    "end": 2650.906,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "and there was quite a strong wind and the gondola was shaking.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_411",
+    "start": 2651.626,
+    "end": 2655.389,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And there was a French guy who does some practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_412",
+    "start": 2655.449,
+    "end": 2657.17,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "He learned some teaching.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_413",
+    "start": 2658.131,
+    "end": 2660.212,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "He learned some Buddhist teaching.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_414",
+    "start": 2661.433,
+    "end": 2662.754,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "He didn't speak very good English.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_415",
+    "start": 2663.995,
+    "end": 2666.457,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I told him, I'm so scared.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_416",
+    "start": 2666.717,
+    "end": 2668.638,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's so high and it's shaking.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_417",
+    "start": 2669.539,
+    "end": 2672.001,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And he said, isn't this an illusion?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_418",
+    "start": 2680.709,
+    "end": 2683.151,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I said, theoretically, yes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_419",
+    "start": 2685.994,
+    "end": 2687.315,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Theoretically, all this, yes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_420",
+    "start": 2687.416,
+    "end": 2689.478,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But when you put it into practice, it's a little bit difficult.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_421",
+    "start": 2690.358,
+    "end": 2699.227,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So today I got a good opportunity to meditate upon the illusion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_422",
+    "start": 2701.389,
+    "end": 2703.652,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But I was OK. Not too bad.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_423",
+    "start": 2707.944,
+    "end": 2714.911,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Especially, I think I developed this kind of fear of height after the earthquake in Nepal.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_424",
+    "start": 2715.791,
+    "end": 2718.053,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But anyway, that was a comfortable ride.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_425",
+    "start": 2718.614,
+    "end": 2722.978,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It was a good experience.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_426",
+    "start": 2723.859,
+    "end": 2732.687,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "How to implement this teaching as part of daily life or carry on with this practice?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_427",
+    "start": 2735.278,
+    "end": 2745.22,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It was told that five karsa, top ngah, five powers.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_428",
+    "start": 2745.98,
+    "end": 2758.883,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So after receiving this kind of bodhicitta teaching or when you really want to practice, put into your kind of daily life practice, then first,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_429",
+    "start": 2759.6,
+    "end": 2761.321,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The method is called PHENBITOP.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_430",
+    "start": 2761.722,
+    "end": 2764.845,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "How do you say PHENBITOP?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_431",
+    "start": 2765.425,
+    "end": 2766.726,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "PHENBITOP, yes, benefit.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_432",
+    "start": 2769.429,
+    "end": 2771.01,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then the second one is GOMBITOP.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_433",
+    "start": 2771.23,
+    "end": 2773.092,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "GOMBITOP, familiarization.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_434",
+    "start": 2773.852,
+    "end": 2774.353,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "GOMBITOP.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_435",
+    "start": 2774.913,
+    "end": 2779.477,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Actually, I think meditation, GOM in Tibetan, means familiarization.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_436",
+    "start": 2780.238,
+    "end": 2786.003,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So once you become very familiar, and in any circumstances, it will not kind of distract you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_437",
+    "start": 2786.572,
+    "end": 2796.056,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Quite often in the Lojong teachings it is mentioned that if you are such a good horse rider, no matter how much the horse jumps, you will not fall off from the horse.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_438",
+    "start": 2797.697,
+    "end": 2799.737,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So sometimes circumstances come.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_439",
+    "start": 2799.958,
+    "end": 2805.82,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I think we should be prepared, be happy to have the circumstances so that you can",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_440",
+    "start": 2806.447,
+    "end": 2809.969,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "see whether you can practice the mind training or not.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_441",
+    "start": 2810.609,
+    "end": 2817.092,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So if you are quite ready for any circumstances, then it becomes very familiarization.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_442",
+    "start": 2818.673,
+    "end": 2822.435,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then third is putting a seed into oneself.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_443",
+    "start": 2824.996,
+    "end": 2833.38,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So when you practice the lojong or mind training practice, it should be your main kind of thing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_444",
+    "start": 2834.686,
+    "end": 2843.151,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So even you go to temple and make aspiration, then aspiration should be that may I, the bodhicitta, born in my heart.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_445",
+    "start": 2845.673,
+    "end": 2853.438,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Even you do some accumulation, circumambulation, then always make aspiration saying that may the bodhicitta born in my heart.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_446",
+    "start": 2854.398,
+    "end": 2859.201,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that is kapa saveng top, like putting a seed of bodhicitta.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_447",
+    "start": 2860.142,
+    "end": 2863.644,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And the fourth one is sun jimpa top, sun jimpa, regrettably.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_448",
+    "start": 2865.098,
+    "end": 2865.479,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Regret.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_449",
+    "start": 2866.259,
+    "end": 2867.08,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Sunjimba.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_450",
+    "start": 2868.801,
+    "end": 2869.221,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Regret.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_451",
+    "start": 2871.963,
+    "end": 2872.344,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "fed up.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_452",
+    "start": 2873.965,
+    "end": 2874.345,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "fed up.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_453",
+    "start": 2874.485,
+    "end": 2877.207,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "fed up without bodhicitta mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_454",
+    "start": 2877.607,
+    "end": 2878.228,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Sunjimba.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_455",
+    "start": 2879.469,
+    "end": 2885.012,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "All the defaults before we could... before we practiced bodhicitta.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_456",
+    "start": 2885.033,
+    "end": 2887.154,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then we are sort of caught into the samsaric world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_457",
+    "start": 2887.194,
+    "end": 2888.295,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then we suffer so much.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_458",
+    "start": 2889.567,
+    "end": 2896.488,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore, the default of not understanding or not able to practice the bodhicitta mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_459",
+    "start": 2897.129,
+    "end": 2908.691,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then Melam Jitok, making aspiration always again and again, saying that may the bodhicitta be born in our mind or heart, whatever you want to call it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_460",
+    "start": 2909.391,
+    "end": 2913.412,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Like the common one we usually do, Chanchu Samchur Rinpoche,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_461",
+    "start": 2917.683,
+    "end": 2918.823,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So making aspiration.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_462",
+    "start": 2918.843,
+    "end": 2928.967,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So these are the five kind of methods so that we can carry on the practice of bodhicitta into our daily life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_463",
+    "start": 2929.307,
+    "end": 2932.868,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "How to carry on the bodhicitta practice into our daily life?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_464",
+    "start": 2937.849,
+    "end": 2937.869,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_465",
+    "start": 2944.106,
+    "end": 2954.254,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The measure of mind training.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_466",
+    "start": 2955.314,
+    "end": 2968.484,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "May the precious masters grant their blessings so that with joyful self-assurance and freedom of mind, I may bring all adverse circumstances onto the path and everything may become a remedy to ego clinging.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_467",
+    "start": 2973.162,
+    "end": 2992.678,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So once we know that all the troublemakers, all the problems are due to our self-jerishing or ego-clinging, then we have some kind of confidence that whatever difficulty arises in our life,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_468",
+    "start": 2994.135,
+    "end": 3003.117,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "then we can use that as an using to overcome or antidote of the self saturation or ego clinging.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_469",
+    "start": 3005.157,
+    "end": 3010.639,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then we are sort of ready to accept any difficulties in our life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_470",
+    "start": 3011.799,
+    "end": 3016.14,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So the more practice you do, you become more kind of",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_471",
+    "start": 3018.93,
+    "end": 3026.996,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The more practice we do, there should be less complaints in life, whatever situation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_472",
+    "start": 3028.538,
+    "end": 3034.103,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Because every circumstance arises, then we can use that as a challenge.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_473",
+    "start": 3034.123,
+    "end": 3037.626,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "A challenge to practice our bodhicitta.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_474",
+    "start": 3039.387,
+    "end": 3043.19,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that way there is no kind of fear in life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_475",
+    "start": 3045.85,
+    "end": 3059.098,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Because whatever circumstances, difficulties that we face, then we are always ready to use that bodhicitta practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_476",
+    "start": 3059.458,
+    "end": 3062.58,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So all the difficulties, circumstances, use it in the path.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_477",
+    "start": 3063.34,
+    "end": 3065.681,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Example, we get a strong kind of anger.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_478",
+    "start": 3066.222,
+    "end": 3069.564,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then first recognize, okay, now I got this anger.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_479",
+    "start": 3070.584,
+    "end": 3075.327,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then understand this anger is due to anger, then we get in a lot of trouble.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_480",
+    "start": 3076.558,
+    "end": 3080.479,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Due to anger, we accumulate a lot of negative karmic deeds.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_481",
+    "start": 3080.979,
+    "end": 3088.661,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore, I'm going to use this anger, first recognize the anger, use this anger to free the anger of all sentient beings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_482",
+    "start": 3089.261,
+    "end": 3091.882,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I will liberate all this anger.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_483",
+    "start": 3092.082,
+    "end": 3099.304,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So similarly, any negative emotions arise, I think the first thing is to recognize them.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_484",
+    "start": 3100.444,
+    "end": 3102.065,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I often say that anger is",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_485",
+    "start": 3103.73,
+    "end": 3109.796,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Sometimes it has more effect and more kind of damaging, but it is more easy to identify.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_486",
+    "start": 3111.717,
+    "end": 3117.763,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Because when you get strong anger and you can feel it, the blood sort of shoots out.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_487",
+    "start": 3118.784,
+    "end": 3120.545,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And especially if you are white, you become red.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_488",
+    "start": 3123.448,
+    "end": 3125.65,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "If you are dark, maybe you don't really see so much.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_489",
+    "start": 3127.211,
+    "end": 3129.013,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Anyway, that's a joke.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_490",
+    "start": 3130.558,
+    "end": 3138.281,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And other negative emotions, I think something more subtle, like jealousy, can be very, very subtle.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_491",
+    "start": 3138.441,
+    "end": 3139.541,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We don't know when it's coming.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_492",
+    "start": 3140.421,
+    "end": 3143.502,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And because of this kind of subtleness, we cannot identify.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_493",
+    "start": 3144.183,
+    "end": 3147.524,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And when we cannot identify, then we cannot use antidote.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_494",
+    "start": 3148.424,
+    "end": 3149.324,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Just like sickness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_495",
+    "start": 3150.145,
+    "end": 3154.286,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Certain sicknesses are very, very like some of the cancer sicknesses.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_496",
+    "start": 3154.806,
+    "end": 3157.027,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's difficult to see that it's there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_497",
+    "start": 3157.988,
+    "end": 3160.211,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And by the time then you feel it, it's already late.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_498",
+    "start": 3161.112,
+    "end": 3164.517,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So similar, I think jealousy comes very, very subtle.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_499",
+    "start": 3164.557,
+    "end": 3165.358,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "You don't really feel.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_500",
+    "start": 3166.299,
+    "end": 3168.783,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And then it sort of triggers many other emotions.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_501",
+    "start": 3170.325,
+    "end": 3171.206,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And like a pride.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_502",
+    "start": 3172.007,
+    "end": 3173.129,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Pride also another thing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_503",
+    "start": 3174.601,
+    "end": 3180.723,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Sometimes we can be very proud thinking that I'm not proud, so therefore I'm so good.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_504",
+    "start": 3181.883,
+    "end": 3186.064,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I'm such a good practitioner because I'm not proud.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_505",
+    "start": 3189.425,
+    "end": 3193.366,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So these negative emotions are really, really tricky.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_506",
+    "start": 3193.386,
+    "end": 3195.507,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So these subtle ones, I think we have to watch out.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_507",
+    "start": 3196.699,
+    "end": 3200.741,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And once we identify them, then there are so many teachings on how to handle them.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_508",
+    "start": 3201.241,
+    "end": 3205.583,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "This is all the teachings Buddha says, you know.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_509",
+    "start": 3208.824,
+    "end": 3214.987,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So most important is that if we can utilize them, then I think the practice goes well.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_510",
+    "start": 3215.007,
+    "end": 3215.027,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_511",
+    "start": 3225.555,
+    "end": 3243.58,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "May the precious masters grant their blessings so that I might keep my promises without hypocrisy and always remain impartial and free from ostination, guarding the lojong commitments as I do my very life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_512",
+    "start": 3247.722,
+    "end": 3251.983,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And this practice is so beautiful, so helpful, even though...",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_513",
+    "start": 3252.896,
+    "end": 3262.944,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Of course there are many kind of higher Maha Anuati teachings, very high tantric teachings, which is of course very precious and very important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_514",
+    "start": 3263.164,
+    "end": 3271.21,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But I think basic, if you don't have bodhicitta mind, then rest is becoming superficial kind of.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_515",
+    "start": 3272.251,
+    "end": 3276.414,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore I think it's easy to practice and very useful in our day-to-day life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_516",
+    "start": 3277.595,
+    "end": 3280.577,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So without sulce tantral,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_517",
+    "start": 3286.567,
+    "end": 3290.149,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "No matter what, I will never let go of this bodhicitta mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_518",
+    "start": 3293.731,
+    "end": 3299.954,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So in order to do that, we make a firm kind of commitment, saying that I will keep my bodhicitta mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_519",
+    "start": 3304.296,
+    "end": 3308.498,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So there also in the mind training detail, more mind training detail.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_520",
+    "start": 3309.289,
+    "end": 3311.97,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "there's a way to also implement into our day to day.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_521",
+    "start": 3312.65,
+    "end": 3318.872,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We make kind of commitment saying that for one week, I'm going to practice this diligently.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_522",
+    "start": 3319.613,
+    "end": 3321.093,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then after one week, that's okay.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_523",
+    "start": 3321.573,
+    "end": 3324.114,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I'm going to do next week, I'm going to do next week.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_524",
+    "start": 3325.075,
+    "end": 3329.316,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that slowly, slowly, then we sort of get used to used to doing that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_525",
+    "start": 3331.357,
+    "end": 3337.419,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And sometimes I think I feel that in in some time in the modern world,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_526",
+    "start": 3338.688,
+    "end": 3343.691,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Bodhicitta means, like, let everybody take advantage of me.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_527",
+    "start": 3344.251,
+    "end": 3347.053,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that's maybe misconception, I think.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_528",
+    "start": 3347.173,
+    "end": 3351.195,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Maybe you should check with the Rinpoches and all that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_529",
+    "start": 3351.996,
+    "end": 3353.536,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We have right to protect ourself.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_530",
+    "start": 3354.997,
+    "end": 3359.92,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But yet, we should not have a hate against others.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_531",
+    "start": 3361.301,
+    "end": 3363.262,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I was joking with my Christian friends.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_532",
+    "start": 3364.563,
+    "end": 3367.965,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Saying, Christians, you say, if someone slap you on the right cheek,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_533",
+    "start": 3368.706,
+    "end": 3369.667,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "you give the left cheek.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_534",
+    "start": 3371.048,
+    "end": 3372.869,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And I said, we Buddhists will hold the hands.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_535",
+    "start": 3375.971,
+    "end": 3379.733,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Because if you let that guy beat up, then he'll keep on beating up everybody.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_536",
+    "start": 3380.474,
+    "end": 3381.875,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So that guy will get in trouble.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_537",
+    "start": 3382.195,
+    "end": 3384.937,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So better hold his hand and teach him a lesson.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_538",
+    "start": 3390.841,
+    "end": 3394.383,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I think, without holding hands, of course we have",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_539",
+    "start": 3395.217,
+    "end": 3397.778,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Negative emotions will come.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_540",
+    "start": 3398.539,
+    "end": 3404.021,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Even practitioners, I've seen some of the practitioners, they have some kind of negative emotions arise.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_541",
+    "start": 3404.141,
+    "end": 3407.663,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "They're not become vegetables, you know, like after a few years retreat.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_542",
+    "start": 3408.483,
+    "end": 3412.465,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But I think the difference is the practitioner should not hold on to it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_543",
+    "start": 3413.286,
+    "end": 3416.107,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It comes and let it go, like the bird has no trace.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_544",
+    "start": 3417.007,
+    "end": 3420.389,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And if you keep on holding it, then you're no practitioner.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_545",
+    "start": 3421.497,
+    "end": 3425.38,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So the practitioner might have some anger, but they don't hold, just let go.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_546",
+    "start": 3425.54,
+    "end": 3428.962,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Any desire will come and let go without holding into it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_547",
+    "start": 3429.342,
+    "end": 3434.146,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then that's how we sort of get caught into the so-called samsaric world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_548",
+    "start": 3434.786,
+    "end": 3446.994,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore I think we always make a kind of commitment, firm commitment, saying that I will hold bodhicitta mind without bias.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_549",
+    "start": 3448.315,
+    "end": 3450.597,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "That's also I think very important, without bias.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_550",
+    "start": 3455.771,
+    "end": 3460.235,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "without bias and without kind of limit, without limit.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_551",
+    "start": 3461.576,
+    "end": 3466.96,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Also I have a friend who has been a student and received teachings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_552",
+    "start": 3468.061,
+    "end": 3476.128,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "At one point he got in trouble and he did something naughty and he got in trouble and he was put in the jail.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_553",
+    "start": 3476.849,
+    "end": 3479.111,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And he came out and he was so angry with the jailer.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_554",
+    "start": 3480.931,
+    "end": 3483.592,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And I said, yeah, but you have been receiving so many teachings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_555",
+    "start": 3483.612,
+    "end": 3485.092,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "What about your bodhicitta mind?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_556",
+    "start": 3485.512,
+    "end": 3486.492,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "What about your compassion?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_557",
+    "start": 3486.512,
+    "end": 3489.573,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "He said, they are beyond bodhicitta and compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_558",
+    "start": 3490.653,
+    "end": 3493.194,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So rude, he said.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_559",
+    "start": 3495.055,
+    "end": 3498.075,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So there is no such thing as beyond bodhicitta and compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_560",
+    "start": 3498.936,
+    "end": 3500.756,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "In fact, I know there's one Tibetan man.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_561",
+    "start": 3501.076,
+    "end": 3504.037,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I mean, I heard from his own Dalai Lama's teaching.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_562",
+    "start": 3505.037,
+    "end": 3507.838,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "He met one of the recently arrived Tibetans.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_563",
+    "start": 3508.923,
+    "end": 3516.505,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And this guy sort of sat in front of His Holiness and he said, I was put in the jail, I was tortured so much, and I was so afraid.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_564",
+    "start": 3517.825,
+    "end": 3520.286,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And His Holiness said, are you so afraid that you will die?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_565",
+    "start": 3520.846,
+    "end": 3522.746,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "He said, no, I will lose my bodhicitta mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_566",
+    "start": 3526.807,
+    "end": 3533.769,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Yes, so no matter what, we have to form commitment that never let go of the bodhicitta mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_567",
+    "start": 3534.569,
+    "end": 3538.05,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Without lojondamsa, without showing off,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_568",
+    "start": 3539.406,
+    "end": 3542.587,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "low profile, remaining in low profile.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_569",
+    "start": 3542.987,
+    "end": 3549.149,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I think this is also very important in our modern kind of living style, modern world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_570",
+    "start": 3551.13,
+    "end": 3559.632,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Especially if you're practicing or something and you're living in a flat, you don't want to wake up the neighbors by blowing the trumpet at night.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_571",
+    "start": 3560.792,
+    "end": 3562.413,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I think low profile is very important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_572",
+    "start": 3565.014,
+    "end": 3566.034,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We have a responsible",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_573",
+    "start": 3566.687,
+    "end": 3571.489,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Being a Buddhist, if you are Buddhist, we are responsible for being good Buddhists.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_574",
+    "start": 3571.509,
+    "end": 3578.552,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We don't want people saying that, oh, those Buddhists are so noisy that in the middle of the night they ring bells and trumpets and all that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_575",
+    "start": 3579.692,
+    "end": 3592.718,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So we are responsible to sort of show a good example of a good human being, which is the base of all the kind of qualities to develop basic human goodness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_576",
+    "start": 3593.737,
+    "end": 3601.183,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And on top, once we have basic human goodness, then on top of that, then we can develop bodhicitta and loving kindness, all that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_577",
+    "start": 3601.223,
+    "end": 3605.886,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Without the basic human goodness, it's difficult to develop bodhicitta.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_578",
+    "start": 3606.827,
+    "end": 3608.428,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We can be a very, very good doctor.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_579",
+    "start": 3609.849,
+    "end": 3612.351,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Of course, good human being, good doctor is best.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_580",
+    "start": 3612.612,
+    "end": 3616.034,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But you can be a very, very good surgeon, but not so good human being.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_581",
+    "start": 3617.335,
+    "end": 3620.177,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "You can be a very good carpenter, not so good human being.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_582",
+    "start": 3621.71,
+    "end": 3624.311,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But you can't be a good practitioner, a bad human being.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_583",
+    "start": 3625.192,
+    "end": 3627.373,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I think base is basic human goodness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_584",
+    "start": 3627.913,
+    "end": 3636.077,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And on top of that, then try to develop bodhicitta, mindfulness, and with low profile keeping.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_585",
+    "start": 3636.937,
+    "end": 3639.859,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So here, that's I think what it meant.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_586",
+    "start": 3649.465,
+    "end": 3660.948,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "May the Precious Masters grant their blessings so that I may genuinely follow all the precepts for increasing the two aspects of bodhicitta and within this lifetime gain the realization of the Supreme Vehicle.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_587",
+    "start": 3667.589,
+    "end": 3675.171,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So this is making aspiration to the... actually it's all making aspiration to your teacher.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_588",
+    "start": 3677.693,
+    "end": 3684.855,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "No matter what, may I, the two bodhicittas may increase.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_589",
+    "start": 3685.555,
+    "end": 3693.976,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "May I be able to practice bodhicitta mind with genuinely love.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_590",
+    "start": 3695.037,
+    "end": 3700.838,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Then may I achieve, may I achieve, how do you say that?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_591",
+    "start": 3702.978,
+    "end": 3704.999,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Gain the realization of the supreme vehicle.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_592",
+    "start": 3708.166,
+    "end": 3726.36,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "The dedication reads, Through the merit of this heartfelt aspiration to practice the seven points of mind training, the heart essence of the incomparable Joe Atisha and his heirs, may all beings attain the level of perfect awakening.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_593",
+    "start": 3728.962,
+    "end": 3733.846,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So this is aspiration that we all, we always make that may the",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_594",
+    "start": 3734.927,
+    "end": 3736.847,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Because Buddha showed the path, right?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_595",
+    "start": 3737.708,
+    "end": 3738.568,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Buddha showed the path.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_596",
+    "start": 3740.108,
+    "end": 3742.588,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And we have to follow the path.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_597",
+    "start": 3743.369,
+    "end": 3752.27,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore when we make aspiration that we always say that may I be able to follow the path and become like you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_598",
+    "start": 3753.231,
+    "end": 3753.951,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Become like you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_599",
+    "start": 3755.151,
+    "end": 3755.711,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "May all the",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_600",
+    "start": 3761.815,
+    "end": 3765.056,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "beings, we achieve the body to the mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_601",
+    "start": 3782.855,
+    "end": 3803.583,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Jesus name is Jesus some truth of it so sad which I'm going to return to the new world is the name of Jesus chicken dancing in which I should have a decadent vision of me can't assume logic on top of the so is on Jesus name in Donna changes in a very long time to show you love sender teachers about over Jesus name is Jesus damage who is it which attention to me you know in a member legend and Rukun Chancho top around G",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_602",
+    "start": 3807.406,
+    "end": 3815.41,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I'd like to share some experience from the experiment.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_603",
+    "start": 3816.09,
+    "end": 3817.431,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "If you have time, just a few minutes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_604",
+    "start": 3818.412,
+    "end": 3822.654,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Some people seem to like this experiment we did.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_605",
+    "start": 3823.174,
+    "end": 3829.337,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I came with Mathieu Ricard to Wisconsin.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_606",
+    "start": 3830.418,
+    "end": 3833.239,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "No, one of the science labs to study.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_607",
+    "start": 3834.738,
+    "end": 3837.599,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And I'm sure now they have developed so much further more.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_608",
+    "start": 3837.739,
+    "end": 3841.1,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But that was quite interesting for me.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_609",
+    "start": 3842.2,
+    "end": 3849.023,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "They said that everybody has a kind of happy or not so happy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_610",
+    "start": 3849.303,
+    "end": 3852.023,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Everybody has their own kind of baseline.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_611",
+    "start": 3854.504,
+    "end": 3858.526,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So some people naturally kind of see the positive side.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_612",
+    "start": 3859.066,
+    "end": 3862.307,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Even you go to a funky restaurant, they say, oh, it's cool.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_613",
+    "start": 3862.387,
+    "end": 3862.807,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's nice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_614",
+    "start": 3864.263,
+    "end": 3867.946,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Some people, no matter where you go, they always say, oh, it's not nice, right?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_615",
+    "start": 3868.006,
+    "end": 3870.368,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So everybody has their own kind of baseline.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_616",
+    "start": 3871.609,
+    "end": 3887.562,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So they did some kind of experiment that people, when they win a lottery ticket, that kind of happiness, what do you call that thing?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_617",
+    "start": 3888.603,
+    "end": 3890.685,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Marker shoots up, shoots up very high.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_618",
+    "start": 3891.905,
+    "end": 3895.666,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And within six months, it comes down to the baseline.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_619",
+    "start": 3896.166,
+    "end": 3897.347,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Average around six months.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_620",
+    "start": 3899.387,
+    "end": 3906.79,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Love at first sight, boy and girl love, shoots up, and within six months, it comes back to the baseline.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_621",
+    "start": 3908.19,
+    "end": 3910.871,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "In fact, sometime after marriage, it goes below the baseline.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_622",
+    "start": 3912.772,
+    "end": 3915.713,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But anyway, everybody has a baseline.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_623",
+    "start": 3917.413,
+    "end": 3919.714,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "They said, by practicing bodhicitta mind,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_624",
+    "start": 3920.468,
+    "end": 3925.592,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "They tried with some few people who practiced the bodhicitta mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_625",
+    "start": 3926.173,
+    "end": 3927.274,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The baseline goes up.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_626",
+    "start": 3928.535,
+    "end": 3931.638,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "There is up and down, always, of course.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_627",
+    "start": 3932.238,
+    "end": 3935.001,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But the baseline, you know, like a stock market, the baseline goes up.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_628",
+    "start": 3936.202,
+    "end": 3940.866,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And also the interesting study in America, the consumer rate is going up.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_629",
+    "start": 3942.067,
+    "end": 3944.129,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "The people's satisfaction rate is going down.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_630",
+    "start": 3944.709,
+    "end": 3945.169,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's gross.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_631",
+    "start": 3946.451,
+    "end": 3947.772,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So it really shows that",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_632",
+    "start": 3948.885,
+    "end": 3955.427,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "you know, the more kind of consumer doesn't necessarily brings us kind of happiness or satisfaction.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_633",
+    "start": 3956.347,
+    "end": 3959.368,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So therefore, this science research is quite interesting.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_634",
+    "start": 3960.749,
+    "end": 3966.791,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I'm sure now that's when I went is 1996.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_635",
+    "start": 3967.291,
+    "end": 3969.192,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So now they keep on doing that research.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_636",
+    "start": 3970.152,
+    "end": 3975.774,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And there's sort of more and more findings that using this Buddhist teaching and technique,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_637",
+    "start": 3977.14,
+    "end": 3983.191,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "that really helps people to become happier, become more calm and positive.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_638",
+    "start": 3984.012,
+    "end": 3986.196,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I think this center is all about that, isn't it?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_639",
+    "start": 3988.52,
+    "end": 3989.261,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Thank you very much.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_640",
+    "start": 3989.281,
+    "end": 3990.684,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I dedicate this to you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  }
+]

@@ -1,0 +1,3172 @@
+[
+  {
+    "segment_id": "SRR_001_0",
+    "start": 7.445,
+    "end": 13.09,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "Today, Buddhistor has the honor of interviewing his eminents, Shachenra Rinpoche and Ven.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_1",
+    "start": 13.13,
+    "end": 15.512,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "Matthew Ricard, who are on a visit to Hong Kong.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_2",
+    "start": 16.253,
+    "end": 27.022,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "The two masters will share their wisdom on topics including the relevance of Buddhism in the modern world, and the role of root gurus in Tibetan Buddhism.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_3",
+    "start": 29.304,
+    "end": 33.448,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "So every student must get a root guru, is it?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_4",
+    "start": 35.725,
+    "end": 43.991,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yes, if you are going to sell in the ocean, you need to have a good captain to guide you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_5",
+    "start": 45.792,
+    "end": 52.056,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, a spiritual master is a very good captain to help you navigate across the ocean.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_6",
+    "start": 52.736,
+    "end": 60.341,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, I say you must have, in order to achieve enlightenment in Buddhahood, you must have a good spiritual master.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_7",
+    "start": 62.142,
+    "end": 67.145,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Okay, but actually, what is the true meaning of the root guru?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_8",
+    "start": 67.625,
+    "end": 70.427,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "What's the difference between guru and root guru?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_9",
+    "start": 72.264,
+    "end": 90.72,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Guru means something, Sanskrit word like guru means something like very heavy or very, in a sense I think what it means like if you know how to, first you find a right spiritual guru and if you know how to relate then that's the, the blessing is like very heavy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_10",
+    "start": 92.022,
+    "end": 95.525,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then if you, let's say,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_11",
+    "start": 97.318,
+    "end": 106.792,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "If you find an authentic spiritual guru and then you don't follow properly, then the consequence can be very heavy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_12",
+    "start": 106.852,
+    "end": 109.797,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Therefore, guru word means something very heavy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_13",
+    "start": 113.382,
+    "end": 121.25,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think, like I mentioned earlier, they can be like sutrayana, gurus, and then you can have mahayana.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_14",
+    "start": 121.931,
+    "end": 123.893,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "We will take bodhisattva vows and all that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_15",
+    "start": 124.033,
+    "end": 128.678,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then, I think the more deeper connection",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_16",
+    "start": 129.96,
+    "end": 133.744,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "with the guru, is the one who brings you into the Vajrayana path.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_17",
+    "start": 134.044,
+    "end": 146.838,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "And especially the one who actually, especially in our Nima tradition, the one who actually introduces you to the nature of your mind, we consider as the root guru.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_18",
+    "start": 149.38,
+    "end": 149.761,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "I see.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_19",
+    "start": 150.141,
+    "end": 154.465,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "But can what guru be found so easily?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_20",
+    "start": 154.745,
+    "end": 161.572,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Just by asking one Rinpoche, can you be my what guru, then he can become my what guru?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_21",
+    "start": 163.809,
+    "end": 169.951,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think there's lots of teaching how to relate with the master, analyzing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_22",
+    "start": 170.552,
+    "end": 175.354,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "It doesn't mean again you go and dig up all their faults.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_23",
+    "start": 175.894,
+    "end": 182.157,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "But to see that, is this the right Guru, first of all knowing that he is the authentic Guru.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_24",
+    "start": 183.037,
+    "end": 188.32,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "And these days maybe sometime you can also Google it, get more information.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_25",
+    "start": 189.02,
+    "end": 190.361,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "But of course, I think",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_26",
+    "start": 191.681,
+    "end": 195.623,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think the special quality of the Vajrayana Buddhist tradition is this authentic lineage.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_27",
+    "start": 197.224,
+    "end": 204.809,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, on that you can do some research, not just rely on flyers these days.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_28",
+    "start": 205.829,
+    "end": 216.456,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Flyers, advertisements, go around saying, you know, I'm so-and-so, but I think it's quite easy to do a little bit further research, this lineage and authenticity.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_29",
+    "start": 217.356,
+    "end": 230.241,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then once you feel that this is the right, feel close connection, there are many cases some people like when they see or when they hear about the name of the Guru, then they really feel inspired and connected.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_30",
+    "start": 231.142,
+    "end": 246.208,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "In some cases it doesn't happen, but then you can, once you know it is the authentic Guru, then you can develop this kind of connection through many different ways, especially like practicing Guru Yoga as the way to connect to the Guru.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_31",
+    "start": 247.69,
+    "end": 251.396,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Another talk you are going to have in Hong Kong is about happiness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_32",
+    "start": 252.799,
+    "end": 260.512,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Unfortunately, some Buddhists found they didn't become happier after learning about Buddhism.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_33",
+    "start": 261.495,
+    "end": 272.906,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "They didn't become happier after learning Buddhism, or even they experienced more sadness, attachment and negative emotions.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_34",
+    "start": 273.387,
+    "end": 275.129,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Have you heard about that situation?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_35",
+    "start": 275.489,
+    "end": 276.01,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "What do you think?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_36",
+    "start": 276.69,
+    "end": 278.272,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "If you practice properly,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_37",
+    "start": 281.577,
+    "end": 291.269,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think the right way properly, then I think it should bring you temporary and ultimate happiness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_38",
+    "start": 292.973,
+    "end": 303.656,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Temporary happiness, I think we can say that the whole teaching of Buddhists is based on how to deal with your negative emotion which causes all the sufferings and pains.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_39",
+    "start": 304.996,
+    "end": 313.519,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So if you are practicing properly and if you are actually learning how to deal with your negative emotions which causes all the sufferings, then you should be a happier.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_40",
+    "start": 314.399,
+    "end": 316.4,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "And ultimate happiness is enlightenment Buddhahood.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_41",
+    "start": 318.238,
+    "end": 323.621,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So if you don't do it properly then maybe you have a different result.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_42",
+    "start": 326.743,
+    "end": 330.765,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Can you give advice on how to learn Buddhism properly?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_43",
+    "start": 332.708,
+    "end": 338.694,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yeah, I think we have to not lose the goal why we entered Buddhism.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_44",
+    "start": 339.916,
+    "end": 345.301,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "You don't join any religion thinking that it will bring you suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_45",
+    "start": 345.962,
+    "end": 348.725,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "You're looking for some kind of way to achieve happiness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_46",
+    "start": 348.765,
+    "end": 350.246,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "That's how you choose to",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_47",
+    "start": 351.527,
+    "end": 352.688,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "follow our religion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_48",
+    "start": 353.608,
+    "end": 356.79,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, same thing without losing our goal.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_49",
+    "start": 357.87,
+    "end": 367.075,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Again and again reminding us why we joined to practice the Buddha Dharma and our goal is to achieve happiness temporarily and ultimately.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_50",
+    "start": 370.349,
+    "end": 374.51,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Nowadays, many Chinese Buddhists are learning Tibetan Buddhism.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_51",
+    "start": 375.53,
+    "end": 387.573,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "But many of them just emphasize empowerment, mantra and blessing, emphasize this very much, but seldom study the theory.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_52",
+    "start": 388.053,
+    "end": 389.514,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Do you have any advice for them?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_53",
+    "start": 390.214,
+    "end": 399.256,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yes, I think in order to become Vajrayana Buddhist practice, you must go through the receiving Abhisheka or empowerment.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_54",
+    "start": 400.857,
+    "end": 415.046,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "But again, like I mentioned before, I think it's very important to not only get the empowerment, but if you really want to be a good practitioner, then you have to follow in practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_55",
+    "start": 415.726,
+    "end": 426.349,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "But also there is kind of a tradition in Tibet where this Vajrayana is flourish, where people take empowerment just as a connection, to have a connection with spiritual master or lineage.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_56",
+    "start": 427.109,
+    "end": 428.069,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that's another case.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_57",
+    "start": 428.489,
+    "end": 435.891,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "But if you really want to seriously go into practice, then receive the initiation and then go into the practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_58",
+    "start": 436.351,
+    "end": 438.992,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that's how you get into the Vajrayana path.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_59",
+    "start": 441.04,
+    "end": 447.557,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Do they have to learn something or just by practice by chanting mantra, receiving empowerment?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_60",
+    "start": 449.382,
+    "end": 454.446,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yeah, I think it's always necessary to learn how to practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_61",
+    "start": 456.087,
+    "end": 468.776,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "And also the chanting mantra is also not just a kind of saying by mouth, but you have to visualisation and there's lots of things deal with your mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_62",
+    "start": 469.676,
+    "end": 471.097,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's not just reciting mantra.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_63",
+    "start": 471.197,
+    "end": 471.938,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "We have a saying that",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_64",
+    "start": 472.478,
+    "end": 475.545,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "reciting mantra without thinking is like a pirate reciting mantra.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_65",
+    "start": 476.447,
+    "end": 478.452,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "In Tibetan we say, nesomani.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_66",
+    "start": 478.853,
+    "end": 481.379,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, more is to do with your inner mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_67",
+    "start": 482.983,
+    "end": 488.746,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Many Chinese Buddhist emphasize empowerment, mandala and blessing very much.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_68",
+    "start": 490.287,
+    "end": 504.415,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "And I think they don't think stopping the evil deed, practice, good deed, and holding the samaya vow is important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_69",
+    "start": 505.496,
+    "end": 510.384,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Even they don't know after receiving empowerment they have to hold the Samayamao.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_70",
+    "start": 510.825,
+    "end": 513.289,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "They don't know what Samayamao is.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_71",
+    "start": 514.431,
+    "end": 519.54,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "So I want to ask for more advice from your immigrants for them.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_72",
+    "start": 520.062,
+    "end": 536.135,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Okay, so when you receive the empowerment of Abhisheka, like in Tibet or where they practice Vajrayana Buddhists, there are many different ways of receiving empowerment.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_73",
+    "start": 537.176,
+    "end": 544.561,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Some, like I mentioned before, they just make a connection and just to have a spiritual connection or to the lineage.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_74",
+    "start": 546.443,
+    "end": 548.544,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that's just thinking like a blessing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_75",
+    "start": 549.184,
+    "end": 552.206,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then some want to engage more into that lineage and practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_76",
+    "start": 552.786,
+    "end": 554.908,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So there they take the empowerment more seriously.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_77",
+    "start": 556.489,
+    "end": 568.856,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So then they will have to... Well essence of the Vajrayana Samaya is to develop pure vision and devotion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_78",
+    "start": 569.857,
+    "end": 572.598,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So if that I think goes for all the Vajrayana practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_79",
+    "start": 572.638,
+    "end": 573.539,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think people who",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_80",
+    "start": 574.199,
+    "end": 576.241,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "do practice Vajrayana.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_81",
+    "start": 577.001,
+    "end": 582.726,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Vajrayana, so they, more or less, they know, they should know the developing pure vision and devotion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_82",
+    "start": 582.806,
+    "end": 586.929,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Is this the crucial, crucial essence?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_83",
+    "start": 587.389,
+    "end": 587.549,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_84",
+    "start": 587.969,
+    "end": 588.33,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Essence.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_85",
+    "start": 602.959,
+    "end": 609.786,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "No, no, that is for the base of Buddhism, not necessarily for Vajrayana.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_86",
+    "start": 609.826,
+    "end": 614.19,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Base of Buddhism, first believing in the law of cause and effect.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_87",
+    "start": 614.23,
+    "end": 616.733,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "The essence of Buddhist teaching.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_88",
+    "start": 621.645,
+    "end": 624.407,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So then rangisim ni yongsudul then comes different methods.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_89",
+    "start": 626.089,
+    "end": 629.591,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So the quote that Rinpoche mentioned is, don't do any evil acts.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_90",
+    "start": 629.932,
+    "end": 633.675,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Perform all virtues to transform what's mind as the Buddha's teaching.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_91",
+    "start": 634.035,
+    "end": 639.379,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that's what Rinpoche says, the basic quote of Buddhism.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_92",
+    "start": 639.599,
+    "end": 645.944,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "I'm afraid many Chinese Buddhists practice the lack of this basic knowledge.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_93",
+    "start": 646.885,
+    "end": 654.891,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So also when you talk about the Dikpa and Gya-va, positive and negative version, also in Buddhism it's more on your intention, right?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_94",
+    "start": 654.931,
+    "end": 655.571,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Sambha-sambha.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_95",
+    "start": 656.832,
+    "end": 660.915,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "So intention directs towards positive or negative outcome.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_96",
+    "start": 664.818,
+    "end": 666.719,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Thank you very much for Rinpoche's teaching.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_97",
+    "start": 666.919,
+    "end": 669,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Toji-che used to be engaged very well.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_98",
+    "start": 669.541,
+    "end": 670.081,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "Thanks a lot.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_99",
+    "start": 671.972,
+    "end": 673.053,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "And then it's my turn.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_100",
+    "start": 673.533,
+    "end": 676.714,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Sorry, it's my partner's turn.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_101",
+    "start": 679.796,
+    "end": 682.097,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "Venerable, thank you so much for being with us here today.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_102",
+    "start": 684.278,
+    "end": 692.702,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "On the advertisement of the talk, Buddhism and its relevance to the modern world, which is the second of the two talks, will be given on the 12th of September.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_103",
+    "start": 693.722,
+    "end": 701.446,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "It was declared, Buddhism is a pragmatic science of mind, an altruistic art of living, a meaningful philosophy,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_104",
+    "start": 702.442,
+    "end": 708.004,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "Could you explain how Buddhism can be science, art and philosophy all at the same time?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_105",
+    "start": 711.825,
+    "end": 719.867,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Well, science means honest, rigorous investigation of reality.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_106",
+    "start": 721.548,
+    "end": 733.915,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So now that's the criteria of good science, not based on blind faith, not based on hearsay, not based on hypothesis, which either have not been verified or cannot be verified.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_107",
+    "start": 735.455,
+    "end": 738.257,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "You might postulate something that you can never fully verified.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_108",
+    "start": 739.377,
+    "end": 745.02,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So science has to be demonstrated on the base on empirical experience of data.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_109",
+    "start": 745.961,
+    "end": 747.922,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Now the domain of science can vary.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_110",
+    "start": 748.606,
+    "end": 753.448,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "The modern science, basically the domain is what is measurable in the outside world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_111",
+    "start": 754.749,
+    "end": 758.411,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "That is like biology, physics, and with mathematical laws.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_112",
+    "start": 760.092,
+    "end": 774.199,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So we could say here, Buddhism as well as psychology and cognitive science is about science of mind, science of emotions, science of happiness and suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_113",
+    "start": 775.098,
+    "end": 777.88,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "But the process has to be as rigorous as it can.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_114",
+    "start": 777.9,
+    "end": 780.021,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "It means make hypotheses.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_115",
+    "start": 780.041,
+    "end": 787.986,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "For instance, there's ego grasping and boosting self-esteem going to make you happy or not.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_116",
+    "start": 788.226,
+    "end": 789.767,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "You can examine that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_117",
+    "start": 790.508,
+    "end": 792.429,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And then you can examine that with your own experience.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_118",
+    "start": 792.489,
+    "end": 795.491,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And you can examine that to psychological investigation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_119",
+    "start": 795.531,
+    "end": 796.431,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And the answer is no.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_120",
+    "start": 796.972,
+    "end": 798.553,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "If it was yes, we said go for it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_121",
+    "start": 799.073,
+    "end": 801.935,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Boost your ego as much as you can and see the result.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_122",
+    "start": 802.995,
+    "end": 804.436,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Does jealousy help for happiness?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_123",
+    "start": 804.556,
+    "end": 809.298,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Okay, try for 24 hours to be jealous from morning to evening, and if the result is good, go for it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_124",
+    "start": 809.658,
+    "end": 812.839,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "If it's not, don't shoot yourself in the feet.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_125",
+    "start": 813.459,
+    "end": 814.94,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So in that way is science.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_126",
+    "start": 815.973,
+    "end": 821.918,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "basically of how the mind works and how the mind can make us can be our best friend or worst enemy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_127",
+    "start": 822.919,
+    "end": 837.25,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Now an art, in a way art means to someone who is very expert at certain art can skillfully perform his or her own art.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_128",
+    "start": 837.83,
+    "end": 851.18,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So in a way, we speak of art of happiness, art of meditation, in the sense of a Buddhist heart, in the sense of doing properly, skillfully, in the best possible way, traveling on the path.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_129",
+    "start": 851.861,
+    "end": 859.686,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Now philosophy, because it is not based only on sort of blind experience, but also it is guided by a view.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_130",
+    "start": 861.604,
+    "end": 866.085,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "The Buddhist view is crucial, especially when we deal with suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_131",
+    "start": 866.185,
+    "end": 884.211,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Because one of the biggest misunderstanding about Buddhism and also one of the most profound teachings of the Buddha is that when we speak of suffering, it's not just to take our inconvenience and sorrows that you have momentarily, because everyone knows it is suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_132",
+    "start": 884.291,
+    "end": 887.812,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "When the Buddha said the truth of suffering, he doesn't have to say that",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_133",
+    "start": 888.792,
+    "end": 891.974,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "A two-take is suffering, because everyone knows why we don't need the Buddha for that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_134",
+    "start": 892.774,
+    "end": 897.497,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "What the Buddha said is suffering as a much deeper level than that, linked with ignorance.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_135",
+    "start": 898.517,
+    "end": 901.078,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "That we don't usually recognize as suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_136",
+    "start": 901.619,
+    "end": 917.207,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And that's the problem, because as long as we think that this kind of suffering that is guided by ignorance, by the mental toxins, and anger, and hatred, and greed, and desire, and so forth,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_137",
+    "start": 917.867,
+    "end": 925.09,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "is going to bring us happiness and if we enjoy temporary happiness, we think it's ultimate happiness, that ignorance is in a way suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_138",
+    "start": 925.75,
+    "end": 927.851,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that we don't know and we don't recognize.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_139",
+    "start": 928.592,
+    "end": 936.495,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So in that sense, a philosophy in the sense of a view about what is the nature of reality, what is the nature of the self, what is the nature of phenomena,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_140",
+    "start": 937.455,
+    "end": 940.538,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "That's crucial in order to put things into practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_141",
+    "start": 941.078,
+    "end": 945.101,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Otherwise, without that view, then there's no such thing as the Four Noble Truth.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_142",
+    "start": 946.082,
+    "end": 957.01,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So to recognize the root as being ignorance and the freedom coming from wisdom and that there is a possibility to put an end to suffering, there are cause to suffering, there's a part.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_143",
+    "start": 957.491,
+    "end": 966.518,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that's we could call a philosophy in terms of the maybe the word in Sanskrit darshan, which is a view about reality.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_144",
+    "start": 969.638,
+    "end": 972.919,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "Buddhism as science, art, and philosophy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_145",
+    "start": 973.419,
+    "end": 979.721,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "Now I realize that nowhere in there, in those three words, or in those four words, is mentioned religion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_146",
+    "start": 980.381,
+    "end": 989.904,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "Now as Buddhists, even if we don't try to actively convince other people to become Buddhists, we always hope to benefit them in some way.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_147",
+    "start": 990.665,
+    "end": 997.427,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "And nowadays, as you probably well know, there are many who have given up on religion altogether.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_148",
+    "start": 998.247,
+    "end": 1005.892,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "not just their traditional religions but also simply about the idea of religion altogether.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_149",
+    "start": 1007.192,
+    "end": 1021.541,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "So do you think we can present Buddhist theory and practice as what we've just discussed as free words of philosophy, art and science in order to benefit those people who have simply, frankly speaking, no interest or have given up?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_150",
+    "start": 1022.201,
+    "end": 1028.71,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "The idea of science, art and philosophy, we don't find that in scriptures and all that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_151",
+    "start": 1031.12,
+    "end": 1035.621,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Basically, if we say Buddhism is a sense of mind, I think that's a more concise definition.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_152",
+    "start": 1035.961,
+    "end": 1039.682,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And of course, there are philosophical aspects, there are devotional aspects, there are many different aspects.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_153",
+    "start": 1040.402,
+    "end": 1045.303,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "But it is a way of transforming the mind from a state of ignorance and suffering to a state of enlightenment.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_154",
+    "start": 1045.823,
+    "end": 1050.443,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that, I think, would be completely fine in traditional perspective.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_155",
+    "start": 1051.324,
+    "end": 1053.684,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Now, religion is all depends what you mean by that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_156",
+    "start": 1053.704,
+    "end": 1058.685,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "You know, as it's honest, the Dalai Lama often says, there are taste religions.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_157",
+    "start": 1059.665,
+    "end": 1065.969,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "another three main religions of the book, like Christianity, Judaism, and Islam, believing a creator and a god.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_158",
+    "start": 1066.85,
+    "end": 1076.997,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So he said there was a non-tastic religion like Buddhism and Jainism, which based their teaching on interdependence and law cause and effect.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_159",
+    "start": 1077.437,
+    "end": 1082.66,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So it means they're beginning less universe, and everything is ruled by the law of cause and effect, including happiness and suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_160",
+    "start": 1082.681,
+    "end": 1085.502,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So you are your own creator, the diagram often says.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_161",
+    "start": 1086.623,
+    "end": 1094.968,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So you could call it religion in the sense that there are practices that looks like, you know, religious, but they're also imbued all with meaning.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_162",
+    "start": 1095.028,
+    "end": 1097.33,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "There's never a notion of blind faith comes nowhere.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_163",
+    "start": 1097.37,
+    "end": 1102.353,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "You don't have to make a leap of faith that you must believe into something that you can never verify.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_164",
+    "start": 1102.513,
+    "end": 1104.835,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "That's against Buddhism principle.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_165",
+    "start": 1105.295,
+    "end": 1111.139,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "The Buddha always said, don't accept what I said just because I mentioned it, but examine it by yourself.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_166",
+    "start": 1111.819,
+    "end": 1116.222,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So you have to, step by step, being able to recognize the truth of the Buddha's suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_167",
+    "start": 1116.902,
+    "end": 1132.991,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So this being said now, as, again, it's not that Dalai Lama often says, more than half roughly of the humanity is either not, doesn't belong to any religion, is against religion, or is nominally religious, but don't do any practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_168",
+    "start": 1133.712,
+    "end": 1138.875,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So he said, although the great religion about major contribution to the world,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_169",
+    "start": 1139.895,
+    "end": 1147.892,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "It will be a pity if some of the basic, most indispensable human values like compassion and altruism and happiness",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_170",
+    "start": 1148.878,
+    "end": 1152.339,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "When you speak of compassion, people say, oh, that's for religious people.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_171",
+    "start": 1152.419,
+    "end": 1154.28,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "I'm not interested because I'm not religious.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_172",
+    "start": 1154.74,
+    "end": 1158.641,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So he said, religion is a choice that we can make or do not make.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_173",
+    "start": 1159.501,
+    "end": 1162.862,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "But compassion is need, not this choice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_174",
+    "start": 1162.902,
+    "end": 1164.322,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "We need it from the day we born.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_175",
+    "start": 1164.442,
+    "end": 1174.445,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Otherwise, with this unidentified crying object that we call a baby, is no way to survive without the compassion of the mother, the father, those around the community.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_176",
+    "start": 1175.165,
+    "end": 1177.646,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And elderly person also cannot survive without help.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_177",
+    "start": 1178.606,
+    "end": 1182.428,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So in all the steps of our life, we need to receive and give compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_178",
+    "start": 1182.708,
+    "end": 1184.989,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that's not linked with religion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_179",
+    "start": 1185.229,
+    "end": 1186.67,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "This is a must for humanity.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_180",
+    "start": 1187.21,
+    "end": 1191.132,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So therefore, he said, it would be a pity to equate compassion with religion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_181",
+    "start": 1191.932,
+    "end": 1195.854,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "That's why he promotes this idea of basic human values and secular ethics.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_182",
+    "start": 1196.314,
+    "end": 1197.575,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "It's not a diminished religion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_183",
+    "start": 1197.655,
+    "end": 1201.017,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "It's just to make sure that those basic values can be practiced by all.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_184",
+    "start": 1201.697,
+    "end": 1207.26,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Now, if you use, like Buddhist teaching, you can enhance that and cultivate those much further.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_185",
+    "start": 1208.738,
+    "end": 1215.762,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So there are tools to do that, but it's not indispensable, but at least we should recognize that those are basic values that everyone needs.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_186",
+    "start": 1216.282,
+    "end": 1232.11,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "If you want to cultivate them through religion, that's fine, it's up to you, but we should not just exclude the secular people from the idea of becoming a better human being.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_187",
+    "start": 1234.503,
+    "end": 1245.211,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "In your travels, have you noticed any differences between traditional Tibetan Buddhism and Tibetan Buddhism as practiced in Western regions?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_188",
+    "start": 1249.435,
+    "end": 1254.579,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Well, there are many different ways that is being done.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_189",
+    "start": 1254.659,
+    "end": 1260.704,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Some are very authentic, traditional, as Karimshamusha said, based on authentic lineage.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_190",
+    "start": 1261.503,
+    "end": 1271.708,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "and by hairs of that lineage will do their best to preserve that authenticity and then to transmit the teaching in a correct way.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_191",
+    "start": 1272.469,
+    "end": 1274.77,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that's happening in the West, that's happening in the East.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_192",
+    "start": 1275.67,
+    "end": 1281.253,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And there are also people who invent their own sort of fabrications and mix a little bit with that and this.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_193",
+    "start": 1283.024,
+    "end": 1285.645,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And I'm often said I'm making kind of salad, mixed salad.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_194",
+    "start": 1286.466,
+    "end": 1288.927,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So of course then it may not be so authentic.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_195",
+    "start": 1288.947,
+    "end": 1290.288,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "But it's also happening in the East.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_196",
+    "start": 1291.608,
+    "end": 1293.369,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So it's not just for the West.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_197",
+    "start": 1293.949,
+    "end": 1301.293,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "I mean, even in Bonn, you know, sometimes it happens even with young Tibetan tisha that come out of nowhere, somewhere.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_198",
+    "start": 1302.053,
+    "end": 1309.479,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And then, you know, so that's why, as Sambri Moshe said, we need to examine according to the scriptures.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_199",
+    "start": 1309.679,
+    "end": 1329.694,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "There are many scriptures like the way of the great perfection of Patrice Moshe, and the treasury of precious quality of Jimi Limba, that explain in detail the characteristic of authentic teacher with ambience, with compassion, with wisdom, with knowledge of the scripture, with experience in the practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_200",
+    "start": 1330.515,
+    "end": 1332.157,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And this they wish from the fake teachers.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_201",
+    "start": 1332.417,
+    "end": 1342.309,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "I think many, many examples like fake teachers like a wooden mill, you know, wooden mill makes a lot of noise but doesn't make the grain become flour.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_202",
+    "start": 1342.75,
+    "end": 1348.556,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So make a lot of noise by speaking but doesn't change the disciples, sort of transform the disciples' nature.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_203",
+    "start": 1349.709,
+    "end": 1352.97,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So whatever is east or west, that's what it says.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_204",
+    "start": 1353.39,
+    "end": 1360.191,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Traditionally, we used for many years, to 12 years, we're supposed to make sure that we rely on an authentic teacher.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_205",
+    "start": 1360.271,
+    "end": 1367.992,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Likewise, the teacher also should examine the disciple if someone was committed, who has determination, who has confidence, who can perseverance.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_206",
+    "start": 1368.492,
+    "end": 1378.694,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So they're mutually examining each other before committing oneself and not jumping into anybody that comes and advertises, as Yamushi says.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_207",
+    "start": 1380.564,
+    "end": 1383.148,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "Tell me about your work with Karuna Shetchan.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_208",
+    "start": 1383.208,
+    "end": 1393.643,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "There's so much this charity does, from initiatives to empower women, to invest them in sanitation in East Tibet, and training students in India to do solar power.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_209",
+    "start": 1393.723,
+    "end": 1394.925,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "What parts are you involved with?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_210",
+    "start": 1395.586,
+    "end": 1399.57,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So, there are two aspects of activities of the room machine that I try to serve.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_211",
+    "start": 1400.271,
+    "end": 1413.545,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "One is purely spiritual, to preserve the tradition, to restoring monasteries, like we are trying to rebuild the session monastery in Tibet and the monastery colleges and retreat centers and being monks and nuns.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_212",
+    "start": 1414.267,
+    "end": 1421.57,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "in different parts of the world, like in Tibet, Bhutan, and Nepal, India, and so to preserve the tradition.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_213",
+    "start": 1422.371,
+    "end": 1427.313,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that's the core of the mission of the Kansai Moshe's lineage.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_214",
+    "start": 1428.121,
+    "end": 1441.393,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Now it's also the activity aspect of compassionate activity that is an outcome of the Dharma and that is meant to address as much as we can any suffering that we encounter.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_215",
+    "start": 1442.133,
+    "end": 1451.381,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So of course we cannot do everywhere in the world everything at the same time so we are not don't have any karma possibly to do that somewhere in Africa or somewhere because of our",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_216",
+    "start": 1452.542,
+    "end": 1454.745,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "personal sort of connections.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_217",
+    "start": 1454.965,
+    "end": 1465.376,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "It happens that we are living in those four countries I mentioned and therefore that's where we try our best to put compassion in action through those activities.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_218",
+    "start": 1465.416,
+    "end": 1471.022,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So over 10 years and the first long-term ago cancer machine inspiration and jumping machine inspiration since 2000",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_219",
+    "start": 1472.363,
+    "end": 1485.168,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "We accomplished almost 110 projects in health and education, mostly dispensaries, clinics and schools, as well as social work like helping the elderly, the orphans.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_220",
+    "start": 1485.648,
+    "end": 1488.729,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "This is an outcome of the Dharma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_221",
+    "start": 1489.593,
+    "end": 1497.116,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "to serve as much as we can, people who are in need in the areas that we know well, and we speak the language when we have connections.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_222",
+    "start": 1497.677,
+    "end": 1500.978,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And sometimes, thanks to the spiritual connection, we can work better.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_223",
+    "start": 1501.779,
+    "end": 1504,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that's our dedication.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_224",
+    "start": 1504.68,
+    "end": 1506.221,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And also, because of the",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_225",
+    "start": 1507.041,
+    "end": 1525.234,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "dedicated to the people, grassroots, and in a secular way because we are not trying, you know, covertly to promote religion to that, but just helping people who need, and so also it can be joined by people who have sinned but if are Buddhism but are not necessarily Buddhists themselves.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_226",
+    "start": 1525.454,
+    "end": 1528.376,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So which is the case, we just want to do charitable work.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_227",
+    "start": 1530.465,
+    "end": 1535.429,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "You are stopping first in Hong Kong and then in Singapore and then Mexico.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_228",
+    "start": 1536.51,
+    "end": 1539.872,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "We can all tell what's the odd one out there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_229",
+    "start": 1540.353,
+    "end": 1541.433,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "And so why Mexico?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_230",
+    "start": 1542.014,
+    "end": 1545.657,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "And how do you see the development of Buddhism in Latin America?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_231",
+    "start": 1546.277,
+    "end": 1552.141,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So we're not going to probably try to solve the drug problem in Mexico and the gangs and all that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_232",
+    "start": 1552.822,
+    "end": 1553.723,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Hope would survive.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_233",
+    "start": 1553.783,
+    "end": 1554.803,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "But basically, you know,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_234",
+    "start": 1555.584,
+    "end": 1571.454,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "that shows that the Buddha Dharma has taken roots in many places and actually this very enthusiastic community in Mexico and they are very naturally enthusiastic people, like you know, legends people.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_235",
+    "start": 1571.494,
+    "end": 1578.539,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Even in Europe, the people from the South like Portugal and Spain and Italy, they are more showing outer enthusiasm",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_236",
+    "start": 1579.179,
+    "end": 1586.601,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So, I think for many years in Mexico there have been a lot of people very keen to study Buddhism and Tibetan Buddhism.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_237",
+    "start": 1586.621,
+    "end": 1594.004,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So, since we have personal connections and now a small session center was established at the request of the Mexican people.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_238",
+    "start": 1594.804,
+    "end": 1599.065,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And Jemboche goes from time to every few years and we have also",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_239",
+    "start": 1600.826,
+    "end": 1613.315,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "teacher who graduated from a more philosophical college in Nepal who is now residing there and just trying to help people who want to study the Buddha Dharma to do it in a proper way.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_240",
+    "start": 1615.365,
+    "end": 1620.147,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "Our modern world has been irrevocably changed by social media.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_241",
+    "start": 1620.207,
+    "end": 1624.988,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "Now, many who will be listening to you talk are parents.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_242",
+    "start": 1625.709,
+    "end": 1643.875,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "And they are very curious and very interested to know what to do about their kids who are constantly on social media and on all these new platforms that have transformed the way we socially interact online and in person.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_243",
+    "start": 1645.295,
+    "end": 1654.578,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "How would you see the role of Buddhism or Buddhist teachings in advising those parents on how they can relate to their children and advise them?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_244",
+    "start": 1656.409,
+    "end": 1657.31,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "The social media is very powerful.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_245",
+    "start": 1657.35,
+    "end": 1659.671,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "It has a positive negative negative.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_246",
+    "start": 1659.892,
+    "end": 1662.754,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "The social media is very positive.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_247",
+    "start": 1679.285,
+    "end": 1683.006,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Like any powerful tools, a tool can be used in positive and negative ways.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_248",
+    "start": 1683.046,
+    "end": 1689.027,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "Hammer, you can destroy a house or build a house.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_249",
+    "start": 1700.035,
+    "end": 1715.544,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "For likewise, obviously social media is a powerful tool of communication, of linking people together that can be used for good, that can be used for either negative things or even just simply to waste one's human life in time.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_250",
+    "start": 1715.985,
+    "end": 1722.509,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Time is one of the most precious things we have and people underestimate the value of time.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_251",
+    "start": 1726.063,
+    "end": 1730.17,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "They think that they won't ask you for your watch, but they will ask you for three hours of your time.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_252",
+    "start": 1731.232,
+    "end": 1735.44,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Probably the most precious three hours of life than you watch anyway.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_253",
+    "start": 1738.442,
+    "end": 1742.484,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that's a consideration that the parents should have, not just pulling the plug.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_254",
+    "start": 1743.304,
+    "end": 1744.404,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "It's quite upset.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_255",
+    "start": 1745.145,
+    "end": 1751.007,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "But so it is difficult to make sure that this is used for the right purpose.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_256",
+    "start": 1751.447,
+    "end": 1760.551,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So in a way you can see that in any case it has been used to promote wonderful causes like democracy and things, to promote knowledge.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_257",
+    "start": 1760.931,
+    "end": 1762.872,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So all the tools for good are there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_258",
+    "start": 1764.069,
+    "end": 1766.11,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "There's also a negative effect, obviously.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_259",
+    "start": 1766.871,
+    "end": 1782.74,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And the negative effect, the studies of psychologists have shown that the biggest risk is to just increase narcissism, boosting this kind of self-esteem that's finding a window to show off when nobody else will listen to you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_260",
+    "start": 1783.48,
+    "end": 1786.562,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And also it makes the conversation very poor.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_261",
+    "start": 1786.582,
+    "end": 1789.204,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Imagine you have 3,000 friends on MySpace of Facebook,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_262",
+    "start": 1793.766,
+    "end": 1799.073,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "If you don't have a conversation with 3,000 people, you just expose yourself as again and again and again.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_263",
+    "start": 1799.693,
+    "end": 1806.481,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So especially in the United States, there has been a psychological study showing that if you ask kids,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_264",
+    "start": 1807.689,
+    "end": 1813.693,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "or a teenager or anyone actually, even adult, to spend 30 minutes updating their MySpace or Facebook page.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_265",
+    "start": 1814.614,
+    "end": 1831.085,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And if you ask them to do 30 minutes of looking for information on something on the internet or like a Google map or something, and then you measure their level of narcissism with a questionnaire, after 30 minutes, there's a significant increase of narcissistic",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_266",
+    "start": 1831.905,
+    "end": 1837.288,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "you know, ego-centered attitude even after 30 minutes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_267",
+    "start": 1838.208,
+    "end": 1854.317,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that shows that it is, that danger is one of the strongest dangers because that promotes wild individualism, which is the last thing we need, which is increasing a lot in certain countries, much less in the East so far, but it's coming.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_268",
+    "start": 1855.097,
+    "end": 1863.002,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that's the main danger, because there's nothing that can replace a real conversation between human beings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_269",
+    "start": 1863.603,
+    "end": 1871.688,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "Conversation, you can judge people's facial emotions, you can feel, you can change the course of the conversation as you interact.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_270",
+    "start": 1872.548,
+    "end": 1880.676,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "but this virtual interaction can be very brutal and sometimes used also to demean people and can be very cruel.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_271",
+    "start": 1880.696,
+    "end": 1884.92,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "There are many cases of suicides following, bullying, virtual bullying.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_272",
+    "start": 1885.541,
+    "end": 1891.647,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that aspect of dehumanizing human relations is somehow dangerous.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_273",
+    "start": 1892.027,
+    "end": 1893.068,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So how to control that?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_274",
+    "start": 1894.089,
+    "end": 1909.276,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "I think parents need to give quality time to their children, to themselves, take them to places where there is really something wonderful happening, to their visits, something to travel or even to spend time.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_275",
+    "start": 1909.977,
+    "end": 1918.661,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "I have a friend who has been studying consumerism and he said, I met him in a conference in Bangkok on Buddhism and consumerism.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_276",
+    "start": 1919.341,
+    "end": 1923.887,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "He said he spent the morning in a park in Bangkok with his son.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_277",
+    "start": 1923.907,
+    "end": 1929.573,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "It was a wonderful time watching some statues and flowers, exotic flowers and birds.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_278",
+    "start": 1930.414,
+    "end": 1933.378,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And he said, and father and son together, they had such a wonderful time.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_279",
+    "start": 1933.879,
+    "end": 1936.201,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "He said, that would have taken my son to a supermarket.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_280",
+    "start": 1936.962,
+    "end": 1938.644,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And we'd have both things that we don't need.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_281",
+    "start": 1939.265,
+    "end": 1947.673,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And then we'd have taken maybe a tuk-tuk, like a rickshaw, and then we might have an accident, and then a court case, and then taking the rickshaw driver to hospital.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_282",
+    "start": 1947.874,
+    "end": 1954.961,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "All that would be much better for the consumption and the economy, but it would be much less in terms of human relations.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_283",
+    "start": 1955.001,
+    "end": 1956.423,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So I think, in general,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_284",
+    "start": 1958.485,
+    "end": 1973.236,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "We should be very worried about, we should encourage really warm, fulfilling, enriching human relationship and those tools can be very useful for doing research, for writing useful things.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_285",
+    "start": 1973.737,
+    "end": 1980.622,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "It can also be a terrible tool of distraction and especially the violent video games.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_286",
+    "start": 1982.203,
+    "end": 2001.694,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "absolutely well established without controversy that the increase violent attitudes and violence behavior this this is not matter anymore of discussion this is entirely clear and and it has not only a short term effect of increasing aggressive behavior following",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_287",
+    "start": 2002.394,
+    "end": 2007.717,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "playing a violent game, but it has a cumulative effect and you can measure it down five years later.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_288",
+    "start": 2008.338,
+    "end": 2015.082,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "This is really something that is destructive to making a compassionate person.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_289",
+    "start": 2016.917,
+    "end": 2020.099,
+    "original_speaker": "SPEAKER_04",
+    "verified_speaker": "Rinpochoe",
+    "text": "crime rate higher than TV 10 crime rate.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_290",
+    "start": 2020.339,
+    "end": 2022.76,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And also the television is the same.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_291",
+    "start": 2022.8,
+    "end": 2030.504,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "It's not that television is bad per se, but television has a totally unnatural amount of violent images.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_292",
+    "start": 2032.125,
+    "end": 2038.189,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "By 12 years old, an European and American boy or girl have seen 12,000 crimes on TV.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_293",
+    "start": 2040.77,
+    "end": 2049.623,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So basically, even program for children, 70% of violent images, about 14 per hour, was just looking at the statistic.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_294",
+    "start": 2049.643,
+    "end": 2054.831,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "That means at the end of the year, you have seen tens of thousands of violent acts.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_295",
+    "start": 2055.692,
+    "end": 2057.654,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "This is totally unreal.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_296",
+    "start": 2058.254,
+    "end": 2059.855,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "This is nothing to do with real life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_297",
+    "start": 2060.536,
+    "end": 2066.741,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "I mean, fortunately, it's quite rare that a teenager has seen a real murder in real life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_298",
+    "start": 2067.361,
+    "end": 2070.404,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "But he has seen 20,000 by 20 years old.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_299",
+    "start": 2071.004,
+    "end": 2074.227,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that's given completely different vision of reality.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_300",
+    "start": 2074.247,
+    "end": 2076.549,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So television is not reflecting the real world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_301",
+    "start": 2076.829,
+    "end": 2081.793,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "But it makes you believe somehow that murder and crime and violence is the way of life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_302",
+    "start": 2082.593,
+    "end": 2083.754,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So therefore, studies",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_303",
+    "start": 2084.635,
+    "end": 2095.586,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "which is not anymore possible because TV is everywhere, but studies that show the difference after the introduction of television that was done in remote areas of Canada, in South Africa and in Bhutan.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_304",
+    "start": 2096.166,
+    "end": 2103.833,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "It has shown that following the years after introduction of television, because of the violent contents of many of the broadcasts,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_305",
+    "start": 2104.514,
+    "end": 2112.197,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "crime rate has increased aggressiveness as verbal aggressiveness and physical aggressiveness as something double or triple.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_306",
+    "start": 2112.878,
+    "end": 2125.343,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So that's nobody contest those results but nobody pays attention because the financial lobbies are so strong and it's a big mistake because in fact violence, people think the violent will attract more audience.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_307",
+    "start": 2126.143,
+    "end": 2127.964,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "It has been shown that also it's not true.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_308",
+    "start": 2128.644,
+    "end": 2138.088,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "There's a study, they took a violent thriller, which is a well-done story, and they took out all the 20 most violent episodes out of the film.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_309",
+    "start": 2138.689,
+    "end": 2141.51,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "But they left the storyline, which was very entertaining.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_310",
+    "start": 2142.07,
+    "end": 2147.813,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And they run that to 50 students, one with the violent content, one with the violent content taken out.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_311",
+    "start": 2148.513,
+    "end": 2160.34,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And actually, the non-violent edited thriller, which was still very engaging, the rating of 50 students was better.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_312",
+    "start": 2162.581,
+    "end": 2166.523,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So it's a mistake also to think that because of violence, you're going to attract attention.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_313",
+    "start": 2167.823,
+    "end": 2178.11,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "And most of the blockbuster movies are often very human ones that really people enjoy because it's so moving and it gives a good idea of human being.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_314",
+    "start": 2178.93,
+    "end": 2196.822,
+    "original_speaker": "SPEAKER_03",
+    "verified_speaker": "Venerable Matthieu Ricard",
+    "text": "So I think not only it's very mean for the lobbyists to impose those violent images knowing the consequences for the children, but it's also a wrong bet because in fact people do naturally prefer movies that are more inspiring, that violent movies.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_315",
+    "start": 2199.322,
+    "end": 2205.789,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Raymond Lam",
+    "text": "Your eminence and venerable, thank you so much for having us and please enjoy your stay in Hong Kong.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_316",
+    "start": 2206.85,
+    "end": 2208.031,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "Lozang Hau",
+    "text": "Also, thank you for my side.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  }
+]

@@ -1,0 +1,1722 @@
+[
+  {
+    "segment_id": "SRR_001_0",
+    "start": 0.211,
+    "end": 29.352,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Translator",
+    "text": "clear these up before one begins a kind of serious life retreat or something as such one should be able to recognize the dullness of mind similarly then a kind of a blankness kind of daydreamy state of mind similarly then lethargy etc all of these should be recognized and as such when you experience them then you should apply the respective antidote so as to clear them so as to be able to sustain or continue your your meditation practice",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_1",
+    "start": 37.316,
+    "end": 46.562,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Rinpoche, how can peace-abiding, I assume they mean shamatha meditation or single-pointed meditation, help young school children?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_2",
+    "start": 47.583,
+    "end": 49.604,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "And how can children practice meditation?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_3",
+    "start": 50.524,
+    "end": 50.925,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "How can?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_4",
+    "start": 51.285,
+    "end": 52.786,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "How can children practice?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_5",
+    "start": 55.367,
+    "end": 56.408,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "What was the first one?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_6",
+    "start": 58.987,
+    "end": 64.135,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "How can shamatha or single-pointed meditation help young school kids?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_7",
+    "start": 66.358,
+    "end": 69.282,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Oh yeah, of course, I think it's very helpful, I think.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_8",
+    "start": 76.325,
+    "end": 93.727,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I don't know how to explain properly, but Matthew Ricard, our Dharma brother, my Dharma brother, who is also a scientist, they had a lot of research done on how the children can meditate and use the one-pointedness or shamatha.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_9",
+    "start": 94.439,
+    "end": 98.921,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "by using teddy bear, small teddy bear, you know, for very young children.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_10",
+    "start": 100.161,
+    "end": 112.226,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And I think they did some research and keeping the teddy bear on the on the chest, maybe they're lying down and keeping and then the breathing in and out, the teddy bear goes up and down or something.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_11",
+    "start": 112.526,
+    "end": 114.847,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So this is a very much good result.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_12",
+    "start": 116.047,
+    "end": 116.647,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Good result.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_13",
+    "start": 116.707,
+    "end": 123.91,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And even I think once we visit one of the school in New York, I don't remember which one.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_14",
+    "start": 125.781,
+    "end": 126.101,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Okay.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_15",
+    "start": 126.782,
+    "end": 128.525,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yes, Dwight School.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_16",
+    "start": 128.545,
+    "end": 129.546,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Long time ago, I forgot.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_17",
+    "start": 130.126,
+    "end": 132.589,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So we talked a little bit to the children.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_18",
+    "start": 132.65,
+    "end": 134.732,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Of course, in America, you don't teach religion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_19",
+    "start": 135.353,
+    "end": 136.674,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But we just say, stay.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_20",
+    "start": 138.256,
+    "end": 138.877,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's okay, no?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_21",
+    "start": 142.599,
+    "end": 146.082,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "We just said like in the beginning, just stay five minutes or three minutes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_22",
+    "start": 146.382,
+    "end": 149.885,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Just stay quietly without doing anything.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_23",
+    "start": 150.266,
+    "end": 152.888,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Don't really teach like meditation, but just sit quietly.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_24",
+    "start": 153.648,
+    "end": 155.91,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And they said it was really, really cool.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_25",
+    "start": 158.853,
+    "end": 160.074,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And they said really helpful.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_26",
+    "start": 161.315,
+    "end": 165.939,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So like that, I think many people they use are very, very helpful because they",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_27",
+    "start": 170.225,
+    "end": 184.734,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "certain certain things you share up for any certain things you share up in a thing in scintilla chavagi and share a piggy which is why you are wanting to achieve",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_28",
+    "start": 187.272,
+    "end": 201.196,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Translator",
+    "text": "If one has an ethical kind of basis, thereupon the development of concentration is relatively straightforward and there within the development of wisdom within the person comes quite naturally.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_29",
+    "start": 202.057,
+    "end": 202.757,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So maybe",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_30",
+    "start": 203.772,
+    "end": 209.616,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I'm sure these days now many teachers, they talk about the science of meditation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_31",
+    "start": 210.096,
+    "end": 212.678,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I don't have, I'm sure you must have heard.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_32",
+    "start": 212.778,
+    "end": 219.262,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But one thing I can tell you is that because when we meditate or visualization or meditation,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_33",
+    "start": 219.696,
+    "end": 249.139,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "you can't really see how we are progressing because we are so used to seeing some result like a stock market up and down so we don't really see but when they test in the lab they can really see that even one week of some one-pointed meditation you really have big change in your mind so since we can't really tangible tangible then we don't see so I have a story we have a retreat center in Nepal",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_34",
+    "start": 250.022,
+    "end": 257.35,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And we sent two of the monks who had just finished the retreat to a lab in medicine for the science research.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_35",
+    "start": 258.592,
+    "end": 266.1,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then we sent a third monk who was the administrator of the monastery in a place called Bihar in Budh Gaya.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_36",
+    "start": 266.12,
+    "end": 267.802,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "There was a big mess there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_37",
+    "start": 268.623,
+    "end": 276.527,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So these three monks went to the lab, but we forgot to mention the two was the retreatant and one is not retreatant.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_38",
+    "start": 277.207,
+    "end": 281.169,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But we received an email from the scientists saying, what's wrong with the third one?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_39",
+    "start": 285.451,
+    "end": 294.215,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So it really, of course, three year definite changes, but even one week we tried meditation, tremendous changes, progress.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_40",
+    "start": 294.975,
+    "end": 297.016,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But because we can't really feel or see it,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_41",
+    "start": 297.924,
+    "end": 304.688,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And weight, you can go on a scale, you can see how much pound you lose, but here you cannot see.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_42",
+    "start": 305.609,
+    "end": 307.23,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But there's definitely big changes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_43",
+    "start": 307.43,
+    "end": 312.293,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "If you're really interested, maybe go in the lab and you will find the results.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_44",
+    "start": 312.313,
+    "end": 318.377,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think this one point in his mind, really, little bit meditation makes big changes in your mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_45",
+    "start": 320.399,
+    "end": 325.622,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "That leads to a question maybe a lot of people are asking now, which is that mindfulness meditation",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_46",
+    "start": 326.369,
+    "end": 335.575,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "mindfulness meditation has become quite popular in the West as a stand-alone, not necessarily affiliated with a complete course of Buddhist study.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_47",
+    "start": 336.275,
+    "end": 337.436,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Do you think that's a good thing?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_48",
+    "start": 337.476,
+    "end": 343.18,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "It's being practiced in corporations and sports teams, fitness centers, yoga studios?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_49",
+    "start": 346.382,
+    "end": 349.484,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "First of all, anything that helps is a good thing, I think.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_50",
+    "start": 350.664,
+    "end": 354.847,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And also with... How's that?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_51",
+    "start": 356.002,
+    "end": 356.302,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Okay.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_52",
+    "start": 362.246,
+    "end": 364.748,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But is it Buddhism then?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_53",
+    "start": 364.808,
+    "end": 365.669,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I don't know.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_54",
+    "start": 367.029,
+    "end": 377.697,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But yes, I think because it sort of opens the door to the people to",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_55",
+    "start": 379.661,
+    "end": 384.988,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "get the taste of meditation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_56",
+    "start": 386.009,
+    "end": 392.458,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So people maybe will just do that, also very useful, helpful, that's good.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_57",
+    "start": 393.019,
+    "end": 396.183,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But then maybe through that, then people want to go deeper into it,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_58",
+    "start": 396.825,
+    "end": 402.288,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "then we must go into the traditional way of practicing and all that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_59",
+    "start": 402.668,
+    "end": 422.7,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So yes, I think it's very good that it gives people the opportunity who maybe don't feel ready to go into deeper practice, but still benefit from the meditation, the technique or method from the Buddhist tradition.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_60",
+    "start": 425.585,
+    "end": 428.567,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Perhaps we should close with one final question, or how's our time?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_61",
+    "start": 430.508,
+    "end": 430.989,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "We have time?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_62",
+    "start": 432.249,
+    "end": 433.51,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Is it okay to do a few more?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_63",
+    "start": 433.85,
+    "end": 434.031,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yeah.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_64",
+    "start": 434.451,
+    "end": 434.711,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Okay.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_65",
+    "start": 435.311,
+    "end": 436.972,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "This is a very profound question.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_66",
+    "start": 438.093,
+    "end": 438.353,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Deep.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_67",
+    "start": 438.894,
+    "end": 439.414,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Okay.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_68",
+    "start": 441.736,
+    "end": 444.597,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "What advice do you have for people who get sleepy when they're sitting?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_69",
+    "start": 446.359,
+    "end": 446.699,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Coffee.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_70",
+    "start": 461.996,
+    "end": 463.597,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Maybe I can share this with you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_71",
+    "start": 463.697,
+    "end": 466.68,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's a story of my friend, Matthew.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_72",
+    "start": 468.161,
+    "end": 479.59,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "When he was a young scientist and very interested in Dharma, very enthusiast, and he came to Darjeeling to meet his first teacher, Kanjur Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_73",
+    "start": 480.61,
+    "end": 486.298,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And he was sitting there, and then he saw the monks doing prayer and falling asleep.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_74",
+    "start": 487.239,
+    "end": 488.922,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And he was so, so amazed.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_75",
+    "start": 488.942,
+    "end": 491.666,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "He said, how can they sleep during the prayer?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_76",
+    "start": 492.507,
+    "end": 495.831,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But later on, he's the number one sleeper in the puja.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_77",
+    "start": 499.387,
+    "end": 516.233,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Of course, I think most of the Buddhist practice, you can always, a way to wake yourself, you can get up and walk, walk a little bit here and there, and then sit and meditate.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_78",
+    "start": 518.454,
+    "end": 525.377,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "You can use any kind of method so that you don't feel completely like dullness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_79",
+    "start": 526.137,
+    "end": 528.158,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Even in Vinaya, for the monks,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_80",
+    "start": 529.15,
+    "end": 542.165,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "When they are meditating, then it describes that they should make a small ball and make a string, and then you throw the ball and it doesn't really hit, but it comes and then you wake.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_81",
+    "start": 543.086,
+    "end": 547.751,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So in the Vinaya, Buddha described that for the monks.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_82",
+    "start": 548.687,
+    "end": 550.748,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I'm sure you can use any method.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_83",
+    "start": 550.848,
+    "end": 558.113,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And maybe in some sacred tradition practice, you're not supposed to get up, but that according to that particular sadhana.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_84",
+    "start": 558.713,
+    "end": 561.915,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But otherwise, I think whatever it makes you feel awake.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_85",
+    "start": 561.935,
+    "end": 567.298,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And also meditation, you don't feel comfortable on the floor, you can sit on the chair.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_86",
+    "start": 570.08,
+    "end": 574.643,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So whatever is helpful to the mind to awaken oneself.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_87",
+    "start": 577.053,
+    "end": 579.916,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "In Tibet, sometimes the yogis, they have long hair.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_88",
+    "start": 580.517,
+    "end": 584.041,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "They tie the hair up in the ceiling.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_89",
+    "start": 588.106,
+    "end": 590.309,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So if someone has a ponytail, you can use that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_90",
+    "start": 591.81,
+    "end": 593.633,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "That's harder for a monk, Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_91",
+    "start": 593.653,
+    "end": 595.615,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "That would be difficult for a monk.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_92",
+    "start": 597.587,
+    "end": 608.018,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And I think a practitioner, I think it's very important to have a kind of good, especially the beginner, I think, to have a uplifting space or atmosphere.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_93",
+    "start": 610.52,
+    "end": 612.522,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I remember once H.F.G.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_94",
+    "start": 612.602,
+    "end": 620.731,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Khyentse Rinpoche was asked by a Bhutanese scholar, there is a place in Bhutan, and people say that place belongs to Longchenpa.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_95",
+    "start": 622.306,
+    "end": 624.428,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And do you think that place belongs to Longchenpa?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_96",
+    "start": 624.448,
+    "end": 627.251,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Because there's supposed to be eight places of Longchenpa in Bhutan.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_97",
+    "start": 627.871,
+    "end": 631.755,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And the first question Khyentse Rinpoche asked is that, does it have a good view?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_98",
+    "start": 633.317,
+    "end": 634.498,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Does this place have a good view?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_99",
+    "start": 635.839,
+    "end": 638.442,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And he said, no, it can't be Longchenpa's place.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_100",
+    "start": 639.994,
+    "end": 648.2,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So even great master like Longchenpa, if you look at the places he chooses to practice, it's always like high up mountain and very spacious.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_101",
+    "start": 649.441,
+    "end": 659.909,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think that's also maybe he's not falling asleep, but it helps enhance the practice of Dzogchen or nature of mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_102",
+    "start": 663.351,
+    "end": 664.132,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "We have a few more.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_103",
+    "start": 667.64,
+    "end": 675.543,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Rinpoche, isn't uncontrived also a concept when you say practice uncontrived?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_104",
+    "start": 675.923,
+    "end": 677.363,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Is that also not a concept?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_105",
+    "start": 678.003,
+    "end": 683.045,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Translator",
+    "text": "I think the",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_106",
+    "start": 696.866,
+    "end": 707.613,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Translator",
+    "text": "In the text, when it says one should rest uncontrived, free, and at ease in that state, it's not thinking about doing something in an uncontrived state.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_107",
+    "start": 707.653,
+    "end": 709.775,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Translator",
+    "text": "This is simply a way of resting.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_108",
+    "start": 710.175,
+    "end": 715.699,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Translator",
+    "text": "One just drops everything so there's no contrivance and remains within that state.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_109",
+    "start": 716.259,
+    "end": 720.842,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Translator",
+    "text": "It's not a question of thinking that one is practicing it in an uncontrived way.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_110",
+    "start": 727.573,
+    "end": 727.993,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Translator",
+    "text": ".",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_111",
+    "start": 729.493,
+    "end": 739.998,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Translator",
+    "text": "So maybe in Tibetan, when you say or in English, it's translated here as uncontrived, maybe there's a slight kind of difference.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_112",
+    "start": 740.038,
+    "end": 752.844,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Translator",
+    "text": "In the Tibetan, it simply means to drop everything and simply kind of remain without any kind of, I'll have to use the English, of course, but without any contrivance, to simply to be without that, resting in the natural state.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_113",
+    "start": 760.305,
+    "end": 763.707,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "But this one, there's a good question, but there's one word that is unintelligible.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_114",
+    "start": 763.727,
+    "end": 766.628,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "So if the person who wrote it could just maybe shout out this word.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_115",
+    "start": 766.748,
+    "end": 771.97,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Is pursuing blank incompatible with being good?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_116",
+    "start": 773.231,
+    "end": 774.171,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Do you know who wrote this?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_117",
+    "start": 774.791,
+    "end": 778.012,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Is pursuing something incompatible with being good?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_118",
+    "start": 780.233,
+    "end": 780.834,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Business.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_119",
+    "start": 781.054,
+    "end": 781.814,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "There you go.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_120",
+    "start": 782.314,
+    "end": 785.215,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Is pursuing business incompatible with dharma?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_121",
+    "start": 786.536,
+    "end": 788.837,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Translator",
+    "text": "Is pursuing",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_122",
+    "start": 790.442,
+    "end": 796.126,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "It's pursuing business, working with the business world, incompatible with the Dharma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_123",
+    "start": 797.407,
+    "end": 804.331,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Jungle.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_124",
+    "start": 809.595,
+    "end": 811.116,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Buddhism, I think, is very vast.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_125",
+    "start": 813.878,
+    "end": 817.86,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "You can completely leave all worldly things and go into mountains.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_126",
+    "start": 818.361,
+    "end": 819.962,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "That is the best, ultimate.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_127",
+    "start": 821.307,
+    "end": 835.473,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then, being in the worldly life, doing business, but you can be an honest businessman, I think being a Buddhist.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_128",
+    "start": 839.235,
+    "end": 843.177,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So it's not really contradictory.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_129",
+    "start": 843.217,
+    "end": 844.878,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "The question is, is it contradictory?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_130",
+    "start": 846.17,
+    "end": 848.531,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yes, I think so, yes, very much.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_131",
+    "start": 849.731,
+    "end": 855.313,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think during Buddha's time, many of the kings, they were kings, but still the benefactor of Buddha.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_132",
+    "start": 856.373,
+    "end": 856.914,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_133",
+    "start": 857.734,
+    "end": 869.618,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So once Lama Shon was in Bhutan, and he went to a vegetable market, and then the vegetable seller, they were selling, what was it?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_134",
+    "start": 870.85,
+    "end": 892.783,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "asparagus so he says he spoke in Tibetan which means how much it is because his Tibetan is so good she didn't realize he was a white man so she said 20 rupees and she looked up said 50 that's not so good",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_135",
+    "start": 903.19,
+    "end": 908.713,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So you can be an honest, reasonable businessman.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_136",
+    "start": 909.413,
+    "end": 915.497,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then you're doing business to gain some kind of benefit or living.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_137",
+    "start": 917.146,
+    "end": 924.851,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And also there's, of course, one special about Buddhism is that the intention is very important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_138",
+    "start": 925.831,
+    "end": 936.157,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So even when you do business, you can have, do some, accumulate some, how do you say, worldly means, so eventually I will be able to practice dharma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_139",
+    "start": 937.098,
+    "end": 938.278,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then it's also good, you know.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_140",
+    "start": 938.659,
+    "end": 940.8,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think very much intention.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_141",
+    "start": 941.881,
+    "end": 944.062,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And I sometimes say,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_142",
+    "start": 946.323,
+    "end": 947.266,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "switching off light.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_143",
+    "start": 948.248,
+    "end": 950.774,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's just the same action, you switch off light.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_144",
+    "start": 952.9,
+    "end": 955.962,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Just switch off light in order to save your electricity bill.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_145",
+    "start": 956.602,
+    "end": 959.343,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then it's switching off light, but it's selfish.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_146",
+    "start": 960.824,
+    "end": 966.067,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Switch off the light is to save the environment, same time you save electricity bill.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_147",
+    "start": 966.747,
+    "end": 970.549,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "That's a little bit greater view.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_148",
+    "start": 971.729,
+    "end": 978.092,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Save electricity bill for the sake of all sentient beings, then bodhisattva electricity.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_149",
+    "start": 979.533,
+    "end": 981.514,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think it very much depends on intention.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_150",
+    "start": 982.374,
+    "end": 996.317,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "That's why I think in Buddhism, mostly I think we have to check our intention in everything we do, even practice, even meditation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_151",
+    "start": 997.358,
+    "end": 1005.94,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "If we can add the attitude of meditation for the sake of all sentient beings, then it becomes Mahayana, Vajrayana meditation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_152",
+    "start": 1007.024,
+    "end": 1031.792,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "meditation even even that mind what was it the fashionable one mindfulness even a mindfulness fashionable one even the mindfulness for the sake of all sentient being I think it can be you know as a Buddhist practice mindfulness so that I can become a smarter businessman it's a selfish so it's very much depends on our intention",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_153",
+    "start": 1033.395,
+    "end": 1033.595,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_154",
+    "start": 1034.416,
+    "end": 1041.782,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Rinpoche, there was a follow-up question on the last one, which was, what did Lama Sean say to the 50 rupees?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_155",
+    "start": 1045.265,
+    "end": 1046.747,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "Did you give 50 or 20?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_156",
+    "start": 1047.727,
+    "end": 1048.868,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Translator",
+    "text": "I went to the next woman.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_157",
+    "start": 1055.294,
+    "end": 1056.955,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "OK, that's a skillful means.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_158",
+    "start": 1064.624,
+    "end": 1076.111,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "There are a few questions that seem related, which is how to mix the view that you've presented tonight of recognizing the nature of mind with everyday life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_159",
+    "start": 1077.151,
+    "end": 1078.792,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "So, for example, relationships.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_160",
+    "start": 1080.213,
+    "end": 1084.596,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "For example, working with other types of sadhana practices that have ritual and form.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_161",
+    "start": 1085.396,
+    "end": 1086.317,
+    "original_speaker": "SPEAKER_02",
+    "verified_speaker": "unknown",
+    "text": "How do you mix the view?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_162",
+    "start": 1090.193,
+    "end": 1096.08,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Okay, so I will answer the second question is easier first.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_163",
+    "start": 1098.222,
+    "end": 1106.712,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So any practice sadhana we do, it has ultimately at the end, the accomplishment stage.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_164",
+    "start": 1108.363,
+    "end": 1124.147,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think every practice, different layers or different levels, but somehow there is always shamatha and vipassana, shine and lakthong, development and completion stage.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_165",
+    "start": 1130.768,
+    "end": 1144.039,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "The sadhana practice, we do all these visualizations, deities, whatever, the mantra, garlands, and all this, and then everything dissolves, and then rests into the nature of mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_166",
+    "start": 1144.879,
+    "end": 1152.726,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, I think there's always, at the end of any sadhana, any practice, resting in the natural mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_167",
+    "start": 1152.886,
+    "end": 1156.769,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, I don't think it really contradicts",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_168",
+    "start": 1158.954,
+    "end": 1173.547,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then, I think the most important, I think if you receive the proper instruction and guidance, then I think it's important to work with your mind, trying to rest in the nature of mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_169",
+    "start": 1175.029,
+    "end": 1180.313,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And I don't know whether I'll be able to answer the first question clearly or not,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_170",
+    "start": 1181.585,
+    "end": 1194.061,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then naturally, when you have some kind of understanding or some experience of nature of mind, your negative emotions might naturally reduce.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_171",
+    "start": 1196.003,
+    "end": 1200.709,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then when there's less negative emotions, I think there's less to...",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  }
+]

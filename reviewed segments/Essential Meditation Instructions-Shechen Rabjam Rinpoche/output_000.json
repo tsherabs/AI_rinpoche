@@ -1,0 +1,1292 @@
+[
+  {
+    "segment_id": "SRR_001_0",
+    "start": 13.206,
+    "end": 15.167,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So good evening, everybody.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_1",
+    "start": 15.187,
+    "end": 16.608,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Very happy to be here in New York.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_2",
+    "start": 45.722,
+    "end": 72.673,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "something looks like a spaceship I've never given talk in a spaceship before so I'm really happy to be here because many people that I met before when I came with Khyentse Rinpoche",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_3",
+    "start": 74.292,
+    "end": 81.338,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "in 1975 and then a few times after, so many old friends.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_4",
+    "start": 82.539,
+    "end": 86.182,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So we are all, how do you say, getting a little bit older.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_5",
+    "start": 88.269,
+    "end": 103.776,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And here in audience I see maybe like four different generations of Buddhists in America, so I'm a little bit not sure how to talk.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_6",
+    "start": 105.297,
+    "end": 116.62,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "because some of you are maybe more senior than me in studying Buddhism, and some of you are quite new.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_7",
+    "start": 116.66,
+    "end": 124.223,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Myself, usually, I don't travel much giving teaching or lecture in the West.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_8",
+    "start": 125.163,
+    "end": 131.005,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Mostly I'm staying in Nepal and Bhutan, taking care of the monastery,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_9",
+    "start": 134.737,
+    "end": 152.198,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Well, I think I spent 20 years of my life with the previous Khyentse Rinpoche, like he mentioned, since I was three maybe, till 25 when Khyentse Rinpoche passed away.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_10",
+    "start": 153.403,
+    "end": 164.994,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then after that, searching for the reincarnation and preparing for the arrival of the Khyentse Rinpoche's reincarnation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_11",
+    "start": 165.675,
+    "end": 171.761,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And once we found the reincarnation, another 20 years serving the young Khyentse Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_12",
+    "start": 173.142,
+    "end": 194.859,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I feel very, very fortunate to be able to spend a long time with such a great master like Khyentse Rinpoche for 20 years and being with Khyentse Rinpoche that I got chance to meet so many of the great masters",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_13",
+    "start": 198.371,
+    "end": 214.101,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "like His Holiness 16th Karmapa, the 14th Dalai Lama, and many, many senior masters, they always come and visit, or Khyentse Rinpoche go and visit them, so I always feel very, very fortunate and very lucky.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_14",
+    "start": 214.961,
+    "end": 223.847,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And same, many of our friends here, many of the senior students, I think we should always not to forget that how lucky we are.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_15",
+    "start": 224.933,
+    "end": 237.895,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "to meet such great masters, realized masters who came from Tibet and then all the way to America and to teach.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_16",
+    "start": 237.955,
+    "end": 244.136,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So many of us, very, very fortunate to be able to meet them.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_17",
+    "start": 244.156,
+    "end": 252.678,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I sometimes tell Western friends that why Tibet had so many great masters",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_18",
+    "start": 254.201,
+    "end": 273.296,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's because if you look in the Tibetan situation in Tibet, out of the 6 million Tibetans, more than 10% Tibetans focus became monks and lamas and practicing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_19",
+    "start": 273.716,
+    "end": 278.019,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So out of which, then Tibet produced many, many great masters.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_20",
+    "start": 280.181,
+    "end": 282.363,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Just like Brazilian,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_21",
+    "start": 283.361,
+    "end": 288.769,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "out of so many population they come up the world's best 12 football players.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_22",
+    "start": 290.232,
+    "end": 298.044,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think in Tibet all the population is out of maybe all the population 10",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_23",
+    "start": 299.105,
+    "end": 303.891,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "more than 10% focusing on practicing, trying to achieve some kind of inner realization.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_24",
+    "start": 304.973,
+    "end": 313.204,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So therefore, Tibet produced not the world football champion, but the world kind of great spiritual masters.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_25",
+    "start": 315.373,
+    "end": 334.683,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So many of them came out of Tibet and came to come to West and we are very fortunate to meet them and receive teaching and some of you, many of you I think still continue to practice this precious lineage that we receive.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_26",
+    "start": 339.882,
+    "end": 347.812,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, to tell you a little bit about Thabji Khyentse Rinpoche, maybe some of you didn't meet him,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_27",
+    "start": 350.393,
+    "end": 355.335,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "younger people maybe heard about Rinpoche or read about Khenji Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_28",
+    "start": 356.595,
+    "end": 375.802,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So Khenji Rinpoche is one of these Tibet's great masters, among the many lamas, one of the great masters who studied with 50 different teachers from the four major schools of Tibetan Buddhism.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_29",
+    "start": 377.338,
+    "end": 387.407,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then himself, not only study, but he put into practice by staying more than 20 years in cave and retreat, like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_30",
+    "start": 388.448,
+    "end": 398.597,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So Khen Rinpoche, somehow, when he left Tibet, he brought the precious lineage and all the teachings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_31",
+    "start": 400.719,
+    "end": 401.4,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So nowadays,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_32",
+    "start": 402.573,
+    "end": 417.298,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Recently I met one Tibetan researcher, he told me about this story of one of the Khen Rinpoche's teachers from the Gelug school, a very well-known Geshe.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_33",
+    "start": 419.179,
+    "end": 429.083,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And this Geshe, he has predicted that Khen Rinpoche's dharma activity will flourish one-third of the world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_34",
+    "start": 431.453,
+    "end": 441.942,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I never heard that prediction before, it was just recently in Queens, Jackson Heights area, I heard this story.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_35",
+    "start": 442.143,
+    "end": 454.694,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So it's very true, I think everywhere we look, somehow Khyentse Rinpoche's lineage or teaching, and also Khyentse Rinpoche being a non-sectarian, I mentioned a little bit,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_36",
+    "start": 456.61,
+    "end": 461.253,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "he had a responsibility of upholding all the four schools of Tibetan Buddhist tradition.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_37",
+    "start": 462.434,
+    "end": 474.801,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So he was very much, when you travel, he travelled since 1975, wherever he travelled he always tried to transmit whatever lineage or whatever tradition they follow.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_38",
+    "start": 475.782,
+    "end": 479.624,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Either it's from Gelug tradition, Saga tradition, then of course Nyingma and Khaji.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_39",
+    "start": 481.13,
+    "end": 488.915,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "whichever tradition they follow Rinpoche will teach according to their wishes and their kind of practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_40",
+    "start": 488.955,
+    "end": 500.643,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So Rinpoche sort of, I feel that Khyentse Rinpoche is like one of the main kind of life force, can I say, of the Buddha Dharma, especially the Tibetan Buddhist tradition in the world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_41",
+    "start": 502.344,
+    "end": 509.349,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And some of, maybe for the young people, young children I see, if you like to know about Khyentse Rinpoche, he's physically very, very big.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_42",
+    "start": 510.788,
+    "end": 512.108,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Even in America, he's big.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_43",
+    "start": 513.489,
+    "end": 515.489,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Even when he comes to America, he's very tall.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_44",
+    "start": 516.409,
+    "end": 532.213,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "At one point, one young child came to Sri Rinpoche when he was a resident, and this child came with his mother, and when the child saw Khyentse Rinpoche, he was so fascinated that he told his mother, look, mummy, giant man, giant man.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_45",
+    "start": 533.948,
+    "end": 539.15,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And mother felt a little bit embarrassed because it sounds a little bit rude, you know?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_46",
+    "start": 539.81,
+    "end": 544.732,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "But she couldn't make him stop because he was so fascinated with Rinpoche's physical appearance.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_47",
+    "start": 546.513,
+    "end": 551.735,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So of course, not only inner realization, but even outer physical appearance.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_48",
+    "start": 552.195,
+    "end": 553.616,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's very, very magnificent.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_49",
+    "start": 554.276,
+    "end": 556.097,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's almost like a mountain.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_50",
+    "start": 558.632,
+    "end": 559.032,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_51",
+    "start": 559.192,
+    "end": 566.714,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And like in the movie, he's on Dala Masa, his body well built, very big, but always smiling.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_52",
+    "start": 567.634,
+    "end": 569.374,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So his presence was very, very strong.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_53",
+    "start": 569.694,
+    "end": 586.878,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So when you meet special master like that and you somehow feel spiritually connected, then I think maybe we can say kind of inner realization sort of naturally comes because the presence is so strong and many of",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_54",
+    "start": 588.522,
+    "end": 590.563,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "you, I'm sure, have an experience like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_55",
+    "start": 592.044,
+    "end": 592.585,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_56",
+    "start": 592.705,
+    "end": 603.971,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And today here, the subject is some poem that Khyentse Rinpoche composed.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_57",
+    "start": 606.633,
+    "end": 610.275,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So Khyentse Rinpoche always had a time for everybody.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_58",
+    "start": 611.462,
+    "end": 625.07,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So he would always write letters to his friends or his students, from very high lama, very high-ranking masters, lamas, to a very simple, ordinary guy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_59",
+    "start": 626.65,
+    "end": 632.634,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And he always write them, those days, no WeChat, no email.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_60",
+    "start": 633.895,
+    "end": 636.236,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Even fax was something very modern in those days.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_61",
+    "start": 637.767,
+    "end": 639.187,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So he had time to write.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_62",
+    "start": 639.547,
+    "end": 645.768,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So when you write a letter, there's always advice how to practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_63",
+    "start": 646.749,
+    "end": 652.99,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And according to that student's kind of capability, capacity.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_64",
+    "start": 653.51,
+    "end": 666.652,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think this, it doesn't really mention the name, but I think it was also written letter to somebody, I think who might have asked advice on the mind teaching, I think.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_65",
+    "start": 667.692,
+    "end": 695.116,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "like that so so of course mind teaching very important but I'm not talking from my experience but since I've been with Khyentse Rinpoche since very young age so I hear that Khyentse Rinpoche giving teaching I've seen how people practice and all that so personally no experience but I think of course mind teaching is the most important",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_66",
+    "start": 696.863,
+    "end": 708.451,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Because I think the essence of all the Buddha's teachings is to, how do you say, subdue the mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_67",
+    "start": 717.463,
+    "end": 725.205,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Since sometimes we say in Tibetan, something so close, something so near, that you won't see like your eyelashes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_68",
+    "start": 726.225,
+    "end": 734.928,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I don't know whether in the West you use this quote or not, but in Tibetan we say, because our eyelash is so close, so we don't really see that, see them.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_69",
+    "start": 735.948,
+    "end": 744.67,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So you need a kind of, in order to really get the teaching of mind normally,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_70",
+    "start": 746.093,
+    "end": 767.858,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "people will go through lots of practice, preliminary practice, ngondro practice, and from the ngondro, I think to become a really, to do a good practice or good practice, to become a good practitioner, I think that why we practice, I think that's very important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_71",
+    "start": 769.02,
+    "end": 776.142,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "not just because it's fashionable, or not just because it sounds good, or not just as kind of temporary relaxing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_72",
+    "start": 777.003,
+    "end": 788.427,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "The purpose why we want to practice Dharma has to, the reason why we want to practice has to be because of the, what we call the four changes of mind, or four thoughts.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_73",
+    "start": 790.427,
+    "end": 792.308,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Four thoughts that turn the mind into Dharma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_74",
+    "start": 793.848,
+    "end": 795.489,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then precious human life,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_75",
+    "start": 798.69,
+    "end": 801.833,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "so much potential that we have.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_76",
+    "start": 803.294,
+    "end": 824.633,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then, of course, in the traditional classic teaching, there's all this reflection of not the, now we, in the traditional teaching that Tanjong Nyepakawa, the five things,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_77",
+    "start": 827.836,
+    "end": 832.499,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Anyway, 18, I don't know how to say it in English.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_78",
+    "start": 835.74,
+    "end": 842.464,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So all these things to reflect, to see how precious human life is.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_79",
+    "start": 842.484,
+    "end": 850.168,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So sometimes we can also use from the modern kind of thinking that if you look at the evolution of the",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_80",
+    "start": 850.979,
+    "end": 863.94,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "modern science, that how the human race started from being a cell, slowly to a fish, and then slowly, slowly to, you know, I'm sure more of you study in science.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_81",
+    "start": 864.915,
+    "end": 872.558,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then when I sometimes think, there are like millions of chance that we not become a human being, that we become a mushroom or we become a tree.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_82",
+    "start": 875.299,
+    "end": 881.242,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So of course, mushroom and tree don't have the intelligence that we have.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_83",
+    "start": 883.242,
+    "end": 895.028,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think from that evolution point of view, I think we can also look at how precious human life is because we have so much intelligence, so much potential.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_84",
+    "start": 897.068,
+    "end": 907.513,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then also people who have this precious human life, how many of us really utilize it properly?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_85",
+    "start": 911.772,
+    "end": 915.713,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Many people somehow take it for granted.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_86",
+    "start": 916.833,
+    "end": 930.458,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "There's a kind of a joke, one Tibetan Lama was teaching this precious human life to a Chinese student, and he said, oh, the precious human life is very rare, and the Chinese student said, the Lama, you've never been to China.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_87",
+    "start": 937.183,
+    "end": 938.604,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So it's not like that, I think.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_88",
+    "start": 938.905,
+    "end": 943.949,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Not just being a human, but someone who wants to give some meaning to one's life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_89",
+    "start": 945.13,
+    "end": 945.631,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Very rare.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_90",
+    "start": 946.351,
+    "end": 949.654,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And those who want to give meaning to one's life, finding the right path.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_91",
+    "start": 952.218,
+    "end": 961.226,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think those things, by contemplating on those things, then we feel how precious human life is.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_92",
+    "start": 961.286,
+    "end": 962.246,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So this is number one.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_93",
+    "start": 962.667,
+    "end": 972.535,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And number two, I think what we call the impermanence, contemplating on impermanence, everything changes, nothing is permanent.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_94",
+    "start": 974.438,
+    "end": 983.896,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And impermanence is not always bad news, because many people think impermanence is bad news, but impermanence is the natural of how things are.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_95",
+    "start": 984.818,
+    "end": 986.681,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Rich become poor, poor become rich.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_96",
+    "start": 988.1,
+    "end": 991.602,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "lazy become diligent, diligent become lazy, everything changes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_97",
+    "start": 991.622,
+    "end": 993.543,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that is how the things are.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_98",
+    "start": 993.563,
+    "end": 1005.009,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So contemplating on impermanence, I think even in sutras and many teachings it says that one of the most important and especially for the people who wants to practice dharma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_99",
+    "start": 1006.39,
+    "end": 1009.892,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then believing in understanding law of the cause and effect.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_100",
+    "start": 1013.379,
+    "end": 1016.481,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Everything has a cause, everything has an effect.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_101",
+    "start": 1016.521,
+    "end": 1017.122,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So believing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_102",
+    "start": 1017.202,
+    "end": 1017.462,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Trust.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_103",
+    "start": 1017.822,
+    "end": 1020.004,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then the suffering of the samsara.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_104",
+    "start": 1020.284,
+    "end": 1022.606,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So all those things.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_105",
+    "start": 1033.15,
+    "end": 1045.457,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think the suffering of samsara we all gathered here, we have some sense of understanding of that, then we look for some kind of way to be out of the suffering of the samsara.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_106",
+    "start": 1046.037,
+    "end": 1056.783,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think those four changes of mind, even though we heard this so many times, or even though it sounds quite kind of easy intellectually,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_107",
+    "start": 1057.867,
+    "end": 1062.918,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think we really have to put into our heart and it has to come from our heart.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_108",
+    "start": 1066.328,
+    "end": 1082.752,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Like this story in Batur Rinpoche, a story where when he was teaching the Four Thoughts to his student, and Batur Rinpoche is one of the great Tibetan, what's it called?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_109",
+    "start": 1082.852,
+    "end": 1092.674,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yogi, master, who's like the best example of the practitioner who lived in Samanya Dzogchen Monastery.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_110",
+    "start": 1093.895,
+    "end": 1098.911,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And Rinpoche would stay in the cave, and students would also stay in the cave.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_111",
+    "start": 1100.307,
+    "end": 1108.231,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then when there is no appointment or there is no timing, when the time is right, the master would come out and call for the student, hey, where you are?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_112",
+    "start": 1108.952,
+    "end": 1113.755,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And the student will come up from the bush or wherever he was meditating.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_113",
+    "start": 1115.516,
+    "end": 1122.039,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "If you've been to Tibet or you have seen the Tibetans, then you can imagine, especially in Shechen area.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_114",
+    "start": 1122.059,
+    "end": 1124.621,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's a big cloud like that coming out.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_115",
+    "start": 1125.621,
+    "end": 1126.902,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And they would sit on the rock.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_116",
+    "start": 1128.897,
+    "end": 1133.14,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And Bhadur Rinpoche would say one sentence.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_117",
+    "start": 1136.322,
+    "end": 1138.663,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Precious human life is very rare.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_118",
+    "start": 1140.684,
+    "end": 1144.867,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then teacher would cry, and the student would cry.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_119",
+    "start": 1145.687,
+    "end": 1148.029,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So then they cry, cry, cry, the teaching finish.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_120",
+    "start": 1153.492,
+    "end": 1157.835,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So then next day again, the lama calls and student comes, so like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_121",
+    "start": 1158.708,
+    "end": 1161.149,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So sometimes we don't need too much blah blah blah talking.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_122",
+    "start": 1162.21,
+    "end": 1166.892,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think the main thing, I think it has to come really from the heart.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_123",
+    "start": 1168.573,
+    "end": 1168.933,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_124",
+    "start": 1170.254,
+    "end": 1172.055,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So these things I think are very important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_125",
+    "start": 1175.936,
+    "end": 1179.798,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "In order to root the dharma into ourselves.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_126",
+    "start": 1179.838,
+    "end": 1180.579,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Can we say root?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_127",
+    "start": 1181.239,
+    "end": 1183.04,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Rooting the dharma into ourselves.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_128",
+    "start": 1183.923,
+    "end": 1196.725,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And I think in the West now, it's not really new, maybe almost 50 years since Buddha Dharma came to the West, and I'm sure now the Dharma is really rooted in the Western students' mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  }
+]

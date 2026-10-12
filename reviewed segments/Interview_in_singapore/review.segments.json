@@ -1,0 +1,4212 @@
+[
+  {
+    "segment_id": "SRR_001_0",
+    "start": 2.342,
+    "end": 3.203,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So good afternoon.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_1",
+    "start": 5.224,
+    "end": 8.686,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I'm very happy to be here today with you all.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_2",
+    "start": 11.829,
+    "end": 20.515,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "This is my first Dharma talk in Singapore.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_3",
+    "start": 26.2,
+    "end": 31.542,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Wonderful to be here in this beautiful environment, beautiful temple.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_4",
+    "start": 34.042,
+    "end": 42.585,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think I'm supposed to say a little bit about cultivating, meditating on compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_5",
+    "start": 44.945,
+    "end": 53.828,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So these days, as you all know, I think in the world that Buddha Dharma is spreading.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_6",
+    "start": 58.708,
+    "end": 67.394,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I remember in 1970s when I traveled with my grandfather who is also my teacher to the west.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_7",
+    "start": 74.564,
+    "end": 77.425,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "People don't know much about Tibetan Buddhism.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_8",
+    "start": 79.426,
+    "end": 86.689,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Since we all shaved head and wearing robes, when we came to airport, many people says, oh, Hare Krishna.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_9",
+    "start": 89.69,
+    "end": 96.773,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Sometimes, since Khyentse Rinpoche physically very big, so people say, oh, big Hare Krishna, like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_10",
+    "start": 99.118,
+    "end": 104.125,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And sometime in the street, the children, they look at you and say, oh, Tin Tin in Tibet.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_11",
+    "start": 108.735,
+    "end": 124.669,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And also audience, when the teachings are given, and in the audience also many kind of hippies, hippies and things like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_12",
+    "start": 125.87,
+    "end": 127.531,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think in the gradual change,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_13",
+    "start": 130.213,
+    "end": 158.118,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "more well known nowadays of course wherever we travel people we always meet people who know about His Holiness Dalai Lama and also in audience people are more like educated people scholars and also many students so like I mentioned in the world I think people are",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_14",
+    "start": 158.888,
+    "end": 164.553,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "really getting to know more and more about Buddhism in general.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_15",
+    "start": 164.754,
+    "end": 170.899,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I thought of a story that I heard.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_16",
+    "start": 172.121,
+    "end": 182.871,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Once there was a rishi meditating in the forest and one hunter passed by and he asked the rishi, he was sort of curious,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_17",
+    "start": 183.91,
+    "end": 185.51,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "about the forest and all that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_18",
+    "start": 188.031,
+    "end": 194.092,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So Rishi said, well if you go deep into this forest, there are lots of wealth you can find.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_19",
+    "start": 195.133,
+    "end": 202.074,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So the hunter went and he found lots of wealth, very happy, came back and again hunter comes back to the Rishi.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_20",
+    "start": 202.914,
+    "end": 205.335,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And Rishi said, if you go a little bit deeper inside,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_21",
+    "start": 206.255,
+    "end": 211,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "you will find lots of like gold and lots of silver and all that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_22",
+    "start": 211.46,
+    "end": 224.853,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So the hunter did went in and found all this gold and silver again went back very happy and again came and the rishi said if you go deeper into it you will find diamonds and all the precious stones.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_23",
+    "start": 225.594,
+    "end": 230.579,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So again hunter went in and back and forth but then suddenly the hunter realized",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_24",
+    "start": 231.219,
+    "end": 235.824,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "But this rishi knows all those things, but why he is just sitting there and doing nothing?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_25",
+    "start": 236.164,
+    "end": 245.914,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then he came back and asked the rishi, but you know all those wealth there, but still you are just sitting here meditating, what are you doing?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_26",
+    "start": 247.476,
+    "end": 251.24,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And rishi said, well, if I tell you before, you wouldn't pay attention.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_27",
+    "start": 255.197,
+    "end": 270.706,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think the modern developed world, you have reached a certain level of outer conditions for well-being, for happiness, and then now you look for some kind of internal well-being.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_28",
+    "start": 273.448,
+    "end": 275.049,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I just thought of that story.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_29",
+    "start": 277.21,
+    "end": 281.853,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So especially in modern world, I think outer, how do you say, development,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_30",
+    "start": 283.26,
+    "end": 291.766,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think like Singapore and Switzerland, all that we have reached to ultimate what human beings can live comfortably and happily.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_31",
+    "start": 293.347,
+    "end": 304.695,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So it's interesting to develop inner happiness because outer happiness does not, there is a limitation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_32",
+    "start": 306.375,
+    "end": 307.336,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "does not go beyond.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_33",
+    "start": 308.696,
+    "end": 316.179,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So when you look into inner happiness, then I think that's where the meditation and practice comes in.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_34",
+    "start": 318.56,
+    "end": 328.744,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So now we are going to, in order to practice altruistic mind or compassion, bodhicitta,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_35",
+    "start": 333.472,
+    "end": 335.212,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Very important, I think, is attitude.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_36",
+    "start": 341.134,
+    "end": 351.395,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Not just because this sort of meditation is sort of fashionable or is just for temperamental kind of comfort.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_37",
+    "start": 353.056,
+    "end": 358.917,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think it's practicing bodhicitta or generating compassion",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_38",
+    "start": 361.394,
+    "end": 366.275,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "not just because those reasons, but with much deeper reasons.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_39",
+    "start": 367.575,
+    "end": 386.22,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "In order to do that, I think we have to develop proper attitude and with really understanding this is way to give meaning to one's life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_40",
+    "start": 387.7,
+    "end": 388.42,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "This is way to",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_41",
+    "start": 393.302,
+    "end": 394.443,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "get some meaningful life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_42",
+    "start": 395.924,
+    "end": 410.495,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So this kind of attitude, I think, if we have, I think our practice will be more stable and tharchimba, complete.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_43",
+    "start": 411.756,
+    "end": 412.476,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Where to complete?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_44",
+    "start": 413.557,
+    "end": 414.958,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "We will go to the ultimate.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_45",
+    "start": 415.879,
+    "end": 416.459,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So in order to",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_46",
+    "start": 419.424,
+    "end": 433.35,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "have a proper attitude that traditionally we explain a lot about for changes of mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_47",
+    "start": 437.932,
+    "end": 442.454,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "First start with contemplating on precious human life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_48",
+    "start": 444.568,
+    "end": 453.475,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, traditionally they are given lots of classic examples, eight freedoms and ten favorable conditions and so forth.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_49",
+    "start": 454.876,
+    "end": 466.105,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So these are given quite detailed in the scriptures, but if we sort of think",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_50",
+    "start": 468.882,
+    "end": 475.827,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "about evolution, I think we human race came from very far.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_51",
+    "start": 480.089,
+    "end": 497.281,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Most of you already educated and studied in the science world, so you must know already that first through the evolution and then the volcano time and slowly slowly cells and then kind of",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_52",
+    "start": 498.825,
+    "end": 500.685,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "trying to survive and fish.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_53",
+    "start": 502.81,
+    "end": 513.299,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And eventually, slowly, slowly, kind of what you call mammoth, and then to something a little bit similar to monkey.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_54",
+    "start": 514.92,
+    "end": 521.026,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "But there are lots of chances that we will not become human beings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_55",
+    "start": 522.327,
+    "end": 524.489,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "The genes and cells develop.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_56",
+    "start": 526.01,
+    "end": 529.233,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think lots of possibilities that we end up becoming mushrooms,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_57",
+    "start": 531.873,
+    "end": 543.09,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "or tree you know so if you think of human evolution is not just a fluke it's so like millions and millions of years to become what we are now",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_58",
+    "start": 545.037,
+    "end": 549.48,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think when you look at that perspective, I think it makes perfectly sense.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_59",
+    "start": 550.241,
+    "end": 571.075,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "In the classic teachings, when you talk about all this precious human life, quite often it's given an example like a tortoise being in the sea, coming up once in a hundred years, and then there's kind of, what you call, yoke, with a hole, and then meeting the tortoise head and the yoke.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_60",
+    "start": 571.675,
+    "end": 573.676,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's like almost impossible case.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_61",
+    "start": 575.197,
+    "end": 588.364,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So if you look in the modern science way, from evolution, from being a cell up to what we are now, there's so many chance of we not manage to become a human being.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_62",
+    "start": 589.544,
+    "end": 596.808,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that really shows how small chance that to become what we are now.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_63",
+    "start": 598.738,
+    "end": 617.822,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And also, if you think in one's own life, from very young age, not knowing how to walk, not knowing how to speak, and gradually to become to this state, it's not easy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_64",
+    "start": 617.962,
+    "end": 625.184,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's lots of effort and lots of slowly, slowly, then we manage to become what we are now.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_65",
+    "start": 629.309,
+    "end": 635.711,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So when you think like that, it sort of makes more clear what does it mean by a precious human life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_66",
+    "start": 637.132,
+    "end": 645.615,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "All these potentials we have, all the intelligence that we have.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_67",
+    "start": 646.395,
+    "end": 656.639,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So this is number one when we talk about precious human life, to really to think and to appreciate",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_68",
+    "start": 657.911,
+    "end": 658.772,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "that what we are now.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_69",
+    "start": 660.534,
+    "end": 683.975,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Small recap I think that I was talking about importance of having a proper attitude in order to do prepare for the altruistic mind compassion and not just do compassion meditation for sort of like it's fashionable or in some kind of",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_70",
+    "start": 684.728,
+    "end": 686.009,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "new exotic idea.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_71",
+    "start": 686.53,
+    "end": 700.063,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So this kind of attitude is not good enough and with this kind of attitude, the practice will not go deep enough and it will not go all the way to the ultimate purpose.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_72",
+    "start": 700.504,
+    "end": 706.77,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So therefore, in all the teachings and all the great masters in the past, they always, always, always emphasize",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_73",
+    "start": 707.51,
+    "end": 709.651,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "on always beginning before you practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_74",
+    "start": 710.172,
+    "end": 712.113,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "We always have to check our attitude.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_75",
+    "start": 712.293,
+    "end": 713.313,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "What is our attitude?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_76",
+    "start": 714.013,
+    "end": 715.934,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Why we want to practice compassion?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_77",
+    "start": 715.994,
+    "end": 717.515,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Why we want to practice bodhicitta?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_78",
+    "start": 718.116,
+    "end": 725.119,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So in order to bring oneself into the right track or right motivation, so there are many different kind of teachings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_79",
+    "start": 725.359,
+    "end": 731.922,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "One quite common teaching, it is understanding on four changes of mind we say.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_80",
+    "start": 733.083,
+    "end": 735.824,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "The first one is to focus on precious human life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_81",
+    "start": 738.766,
+    "end": 747.95,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So there are many ways to look at and classic example is like eight favorable conditions and ten favorable conditions and free from eight worldly occupants and things like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_82",
+    "start": 749.09,
+    "end": 763.956,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So first of all to really not just intellectually understand by reading books or something but sort of sitting and thinking and how precious and how much potential we have",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_83",
+    "start": 766.177,
+    "end": 772.539,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "to be reborn as a human-born and how much potential we have in this life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_84",
+    "start": 773.259,
+    "end": 779.12,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And the second part, normally we focus on impermanence.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_85",
+    "start": 779.96,
+    "end": 787.522,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So even though we have all this potential in this life, but our life is very short, everything is impermanent.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_86",
+    "start": 790.903,
+    "end": 801.908,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And also in the Buddha's teaching quite a lot of the time quote saying that thinking on impermanence brings our mind into dharma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_87",
+    "start": 802.648,
+    "end": 808.831,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Thinking on impermanence helps us put diligence into practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_88",
+    "start": 809.551,
+    "end": 813.653,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Thinking of impermanence helps us bring to the result.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_89",
+    "start": 814.874,
+    "end": 816.935,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think if you really think",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_90",
+    "start": 818.195,
+    "end": 829.82,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Many people they turn their mind into Dharma because some tragic impermanent happened in their life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_91",
+    "start": 830.96,
+    "end": 834.842,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "But also sometimes people think impermanent is always a bad news.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_92",
+    "start": 836.342,
+    "end": 837.203,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Not necessarily.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_93",
+    "start": 837.323,
+    "end": 844.006,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Because of impermanence, some poor people become in better condition, some rich become poor.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_94",
+    "start": 844.686,
+    "end": 851.869,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Because of impermanence that we get together here, it's impermanence that we are going to go around, go back to once.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_95",
+    "start": 852.25,
+    "end": 854.33,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So everything has impermanence.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_96",
+    "start": 854.351,
+    "end": 864.115,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So contemplating on impermanence is the second thing to meditating or contemplating in impermanence.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_97",
+    "start": 867.573,
+    "end": 877.303,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "The third one is the law of the undiversting karmic legend, luwa mepa.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_98",
+    "start": 879.825,
+    "end": 880.566,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Causing effect.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_99",
+    "start": 884.97,
+    "end": 887.413,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Unescapable causing effect of karma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_100",
+    "start": 894.992,
+    "end": 901.996,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think believing in law of the karma, understanding of law of the karma is number three.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_101",
+    "start": 903.897,
+    "end": 906.378,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And everybody wish to be happy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_102",
+    "start": 908.84,
+    "end": 910.681,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Nobody wish to be suffer.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_103",
+    "start": 912.162,
+    "end": 919.205,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So how to bring sort of happiness in one's life for the future?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_104",
+    "start": 921.046,
+    "end": 923.468,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Can we bring happiness into one's life in the future?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_105",
+    "start": 924.089,
+    "end": 926.43,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So because of the law of karma, we have a choice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_106",
+    "start": 927.731,
+    "end": 935.515,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "By doing virtuous acts, then brings positive in the future, one's life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_107",
+    "start": 937.596,
+    "end": 941.898,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then by doing negative actions, then brings suffering into one's life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_108",
+    "start": 943.639,
+    "end": 950.262,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So by thinking on this and understanding how the law of cause and effect works,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_109",
+    "start": 954.26,
+    "end": 959.105,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So nothing is just pre, how do you say, planned.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_110",
+    "start": 961.207,
+    "end": 966.272,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So there's a kind of a joke I heard from one of my friend professor.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_111",
+    "start": 968.014,
+    "end": 972.739,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's quite interesting, so I'll share with you about Buddha and the God.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_112",
+    "start": 976.362,
+    "end": 997.909,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Also I think his story is from some Pali Sutra and they say when Buddha was Bodhisattva and he heard so much about the God creating this and God creating that and he wanted to meet the God and ask how he created everything.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_113",
+    "start": 999.669,
+    "end": 1004.731,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So because he is Bodhisattva he can travel to God realm and went to see the God.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_114",
+    "start": 1006.231,
+    "end": 1011.433,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And God sitting up there on the big chair was surrounded with all the other gods.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_115",
+    "start": 1012.373,
+    "end": 1016.115,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So Buddha went and asked God, how did you create this world?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_116",
+    "start": 1016.195,
+    "end": 1017.675,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "How did you create this universe?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_117",
+    "start": 1018.455,
+    "end": 1021.597,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "How did you create earth, wind and fire and all human beings so forth?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_118",
+    "start": 1023.297,
+    "end": 1028.379,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then God looked at the Buddha quite furious and says, how dare you come here without appointment?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_119",
+    "start": 1032.085,
+    "end": 1033.966,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I don't have time to answer all those questions.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_120",
+    "start": 1035.007,
+    "end": 1037.288,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So Buddha said, oh, I'm so sorry to disturb you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_121",
+    "start": 1037.848,
+    "end": 1038.488,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So he left.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_122",
+    "start": 1038.949,
+    "end": 1046.773,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And just before Buddha descended down to our earth, and there's someone from the corner calling the Buddha saying, psst, psst, come here.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_123",
+    "start": 1048.354,
+    "end": 1053.757,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And there was a god hiding in one corner and said, actually, I have no idea how everything came about.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_124",
+    "start": 1055.655,
+    "end": 1064.662,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I one day appeared in this god realm and slowly all the other gods appeared and they all looked at me and said, Papa, Creator.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_125",
+    "start": 1064.682,
+    "end": 1067.945,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I didn't want to upset them so I just kept quiet.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_126",
+    "start": 1070.747,
+    "end": 1076.492,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then he said, with my omniscience I can see that in the future you are going to get enlightened and you will have all the answers.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_127",
+    "start": 1077.489,
+    "end": 1080.771,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I want you to tell me how everything came about.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_128",
+    "start": 1081.812,
+    "end": 1088.917,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And not only that, in the world, with human beings, always something goes wrong, most of the time.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_129",
+    "start": 1089.858,
+    "end": 1091.259,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And all the people blame me.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_130",
+    "start": 1091.319,
+    "end": 1093,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "They say, oh God, how can you do this?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_131",
+    "start": 1094.344,
+    "end": 1096.746,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So please tell everyone it's not my fault.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_132",
+    "start": 1097.106,
+    "end": 1101.67,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I thought it was quite interesting story I heard from.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_133",
+    "start": 1102.05,
+    "end": 1107.574,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "But I little bit exaggerated but I think there's something like similar in the Pali story.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_134",
+    "start": 1108.916,
+    "end": 1112.498,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So everything is like law of cause and effect.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_135",
+    "start": 1114.7,
+    "end": 1121.666,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's due to one's own karma and one's karma we all have a choice to take right, to take left.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_136",
+    "start": 1122.546,
+    "end": 1123.227,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So if we want",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_137",
+    "start": 1124.132,
+    "end": 1124.697,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Good future.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_138",
+    "start": 1126.107,
+    "end": 1126.752,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Happy future.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_139",
+    "start": 1127.722,
+    "end": 1138.311,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think from now onwards, we have to act accordingly, try to avoid negative karma, negative consequences, and try to act virtuously.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_140",
+    "start": 1139.131,
+    "end": 1144.156,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So this is number three, the law of cause and effect.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_141",
+    "start": 1146.057,
+    "end": 1155.465,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And the number fourth is what we call mind of Kaurvinyami, mind of renunciation, or the defaults of the samsaric world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_142",
+    "start": 1156.282,
+    "end": 1156.602,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Isn't it?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_143",
+    "start": 1157.522,
+    "end": 1158.803,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Default of the samsara world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_144",
+    "start": 1161.683,
+    "end": 1170.326,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Understanding that in samsara world there is not much meaning to it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_145",
+    "start": 1172.926,
+    "end": 1182.429,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think that I think most people who come here has some kind of sense of that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_146",
+    "start": 1185.509,
+    "end": 1211.231,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "because samsaric world if you feel everything is perfect and I don't think we'll end up here meditating in front of Buddha so there's little bit kind of sense of this or maybe some of you have maybe more but I think that's very important to realize and also think about them the samsaric world",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_147",
+    "start": 1212.732,
+    "end": 1224.86,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So many things we do, it doesn't really bring us happiness in life, or doesn't really bring us, gives meaning to one's life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_148",
+    "start": 1227.382,
+    "end": 1234.026,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And sometimes people really dedicate their life for something so, not so much meaningful.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_149",
+    "start": 1235.927,
+    "end": 1241.371,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Sometimes it's quite interesting to, I think in Singapore you have quite lots of Formula One race,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_150",
+    "start": 1243.788,
+    "end": 1251.113,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "driving as fast as you can but going nowhere and quite often put your life to a danger.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_151",
+    "start": 1252.374,
+    "end": 1257.217,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So things like that we sometimes do in the samsaric world which doesn't really give meaning.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_152",
+    "start": 1258.966,
+    "end": 1259.607,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "to one's life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_153",
+    "start": 1259.927,
+    "end": 1261.389,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So this kind of renunciation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_154",
+    "start": 1261.409,
+    "end": 1273.406,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So these four things, the precious human life, impermanence, law and cause and effect, and understanding of the samsaric kind of renunciation,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_155",
+    "start": 1274.988,
+    "end": 1288.052,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "feeling, these are the reasons that bring oneself into doing more proper meditation or practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_156",
+    "start": 1288.492,
+    "end": 1300.415,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "These are the things that bring one's mind into proper attitude or proper reason to practice compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_157",
+    "start": 1307.268,
+    "end": 1314.41,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think by doing some meditation and cultivating compassion, it's the only way to give meaning to one's life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_158",
+    "start": 1315.751,
+    "end": 1327.955,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And I think average people, maybe around 30, 40 or above or below, but average 30, 40 years, I think mostly, when we are here.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_159",
+    "start": 1330.136,
+    "end": 1333.677,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "If we look back in our life, all those years,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_160",
+    "start": 1337.215,
+    "end": 1340.1,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "mostly we don't even remember",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_161",
+    "start": 1343.38,
+    "end": 1344.481,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "from childhood till now.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_162",
+    "start": 1345.881,
+    "end": 1351.723,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Maybe 90% of things what we have done, what we do, everything is forgotten.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_163",
+    "start": 1353.263,
+    "end": 1357.925,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Maybe sometime when you look in the album, you say, oh, I went to this place, I met this person.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_164",
+    "start": 1358.845,
+    "end": 1359.945,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "But everything is gone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_165",
+    "start": 1361.305,
+    "end": 1362.246,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Not even like a dream.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_166",
+    "start": 1363.786,
+    "end": 1370.068,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Little things maybe we have studied in school or some practice you have done that we still have.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_167",
+    "start": 1371.087,
+    "end": 1375.83,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So everything did really sort of give some kind of meaning to one's life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_168",
+    "start": 1376.11,
+    "end": 1378.592,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Is there something very, very useful did we do?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_169",
+    "start": 1379.912,
+    "end": 1381.173,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think it's important to think.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_170",
+    "start": 1382.774,
+    "end": 1385.456,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And if not, if you feel that not so much",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_171",
+    "start": 1386.597,
+    "end": 1403.819,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "meaning for the past all those years given to one's life, then I think it's time to look forward how to rest of the life what we have, how to use them in the best way to give some meaning to one's life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_172",
+    "start": 1405.3,
+    "end": 1416.124,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "How to improve our inner loving kindness, compassion, which has infinite qualities that we can develop.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_173",
+    "start": 1418.244,
+    "end": 1421.465,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Outer world, up to certain level, there is nowhere to go.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_174",
+    "start": 1422.486,
+    "end": 1426.247,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "But inner development, there is so far we can go.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_175",
+    "start": 1427.736,
+    "end": 1441.839,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So by cultivating compassion, loving kindness, developing inner mindfulness and all those things, way to give meaning to one's life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_176",
+    "start": 1442.539,
+    "end": 1456.002,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So with this kind of attitude, so these are the attitudes or the proper attitude we call it, to have, to do meditation or practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_177",
+    "start": 1458.215,
+    "end": 1475.441,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So then when you meditate, there are some different traditions, different methods, there are some different methods, but in our particular tradition we have called seven posture.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_178",
+    "start": 1477.041,
+    "end": 1500.191,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "which correspond with the right posture correspond with right channel with right channel correspond with flow of air we call it air so and then with proper posture and proper what you say proper channel then I think we can have",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_179",
+    "start": 1503.132,
+    "end": 1509.115,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "better or more clear understanding of mind or control over mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_180",
+    "start": 1513.757,
+    "end": 1522.882,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "In some teachings it is said that there are lots of arhats meditating in the forest and some monkeys they like to imitate.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_181",
+    "start": 1524.362,
+    "end": 1531.886,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So when the arhats are meditating and monkeys are also meditating like this and they said they also achieve some kind of inner bliss.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_182",
+    "start": 1532.53,
+    "end": 1533.751,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "even though they couldn't think much.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_183",
+    "start": 1534.411,
+    "end": 1539.894,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So it shows how important even outer posture is, correspond with our inner meditation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_184",
+    "start": 1541.955,
+    "end": 1544.316,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So there's what we call seven posture.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_185",
+    "start": 1544.577,
+    "end": 1555.983,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "The number one is to have a straight spine, sometimes given like an arrow or sometimes given like the coins pile up, spine straight.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_186",
+    "start": 1561.097,
+    "end": 1563.178,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Cross leg or lotus or vajra leg.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_187",
+    "start": 1564.038,
+    "end": 1566.779,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "The lotus posture is a little bit like what we are sitting now.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_188",
+    "start": 1569.26,
+    "end": 1575.862,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And if vajra posture is too not comfortable, I think normally we recommend this kind of posture.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_189",
+    "start": 1576.503,
+    "end": 1577.023,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Cross leg.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_190",
+    "start": 1579.043,
+    "end": 1585.786,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then eyes not up, not right, left, but sort of gazing a little bit down towards your nose.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_191",
+    "start": 1586.746,
+    "end": 1588.687,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Natarpab, sort of level of your nose.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_192",
+    "start": 1592.563,
+    "end": 1597.609,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "then putting your hands sort of falls together like the Amitabha Buddha.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_193",
+    "start": 1598.77,
+    "end": 1600.673,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Economical Mudra we call this.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_194",
+    "start": 1602.373,
+    "end": 1606.637,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "and then tongue sort of putting up, what you call?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_195",
+    "start": 1606.698,
+    "end": 1607.158,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Palate.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_196",
+    "start": 1608.279,
+    "end": 1609.741,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Palate, tongue up like this.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_197",
+    "start": 1610.942,
+    "end": 1611.322,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Tongue up.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_198",
+    "start": 1613.004,
+    "end": 1616.087,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then putting a shoulder a little bit like this.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_199",
+    "start": 1616.948,
+    "end": 1623.394,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Sometimes we say a little bit like an eagle's posture or a little bit like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_200",
+    "start": 1624.835,
+    "end": 1626.057,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Vultures, sorry, vultures.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_201",
+    "start": 1627.778,
+    "end": 1632.802,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then head a little bit bent down like that so it's easy to breathe.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_202",
+    "start": 1632.862,
+    "end": 1637.486,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So this kind of posture is called the seven postures.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_203",
+    "start": 1638.767,
+    "end": 1639.808,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "Seven point postures.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_204",
+    "start": 1655.413,
+    "end": 1659.315,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "So then we go into meditation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_205",
+    "start": 1659.375,
+    "end": 1661.976,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think I will ask Matthew to take over.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_206",
+    "start": 1667.359,
+    "end": 1680.446,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So actually before doing the meditation, say a few words about what we will meditate upon to give you the background.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_207",
+    "start": 1682.225,
+    "end": 1697.157,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So once, as Tempoche mentioned, we have changed a little bit our mind and attitude to appreciate the extraordinary opportunity we have to engage in the practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_208",
+    "start": 1698.578,
+    "end": 1710.327,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "But this time now, we have this human life, we're still alive, we're not too much subject to impermanence so far, it hasn't hit us too hard, and we",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_209",
+    "start": 1710.909,
+    "end": 1737.682,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "get the right karmic condition that we could meet the dharma and then we feel some kind of lassitude towards the worldly preoccupation and these endless circles and that like ripples on the surface of the ocean that never end and our teacher Khyentse Rinpoche said as far as the worldly activities are concerned",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_210",
+    "start": 1739.828,
+    "end": 1765.879,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "the idea that it could one day we could finally complete all of them is completely an illusion it's never any end to those that the waves on the ocean the only way is to sometime at some point decide to drop them otherwise they will never stop by themselves and so",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_211",
+    "start": 1767.542,
+    "end": 1783.731,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "having to somehow disengage our mind from those preoccupations and focus it on the Dharma, then we should realize that, yes, we want to get rid of suffering, but what's the point if we just think of ourself?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_212",
+    "start": 1784.771,
+    "end": 1793.976,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It's a bit like all our friends, our family, and we are all together prisoners in a terrible sort of labor camp.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_213",
+    "start": 1795.577,
+    "end": 1797.238,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And then we sort of manage to escape.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_214",
+    "start": 1798.55,
+    "end": 1827.725,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "we find a way to escape but will we feel comfortable if we escape all alone leaving everyone who are dear to us behind so obviously once we find there is a way to escape and then our first thought is how could we all escape together or should be so that's the motivation of the great vehicle there are also different levels",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_215",
+    "start": 1830.176,
+    "end": 1833.999,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "depending on how much concerned we are with others.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_216",
+    "start": 1835.279,
+    "end": 1838.542,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "There are three main examples.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_217",
+    "start": 1838.622,
+    "end": 1840.563,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Sort of the lesser one is like the king.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_218",
+    "start": 1841.864,
+    "end": 1847.108,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "The king first establishes his kingdom, makes everything safe, and then he takes care of his subjects.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_219",
+    "start": 1847.188,
+    "end": 1854.153,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So it's like the person who wants first to achieve liberation from samsara, then takes care of the others.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_220",
+    "start": 1855.094,
+    "end": 1857.936,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "The second one, which is a higher motivation,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_221",
+    "start": 1858.774,
+    "end": 1860.074,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "is like the ferryman.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_222",
+    "start": 1860.795,
+    "end": 1869.098,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "The ferryman and the person he ferries across the river or the ocean, they all cross together.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_223",
+    "start": 1870.258,
+    "end": 1880.701,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "But they said the best or the most dedicated type of altruistic mind is like a shepherd.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_224",
+    "start": 1881.642,
+    "end": 1887.184,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "The shepherd will be the last to enter the coral or the place where the sheep",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_225",
+    "start": 1888.994,
+    "end": 1912.672,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "kept in safety and until the last one is in complete safety and then he will be looking after them and enter the last so this is the kind of courage and determination that we should have now in order to be able to finally generate",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_226",
+    "start": 1914.09,
+    "end": 1939.337,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "what we call the Bodhicitta, that is the wish to achieve enlightenment for the sake of all sentient beings, we need to prepare our mind through cultivating in a limitless way four fundamental qualities which are attuned to compassion and altruistic mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_227",
+    "start": 1941.237,
+    "end": 1943.338,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And traditionally we call the four boundless",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_228",
+    "start": 1944.368,
+    "end": 1950.97,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "They are boundless because they apply to boundless sentient beings, infinite number of sentient beings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_229",
+    "start": 1951.83,
+    "end": 1954.491,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And therefore, the need for it is boundless.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_230",
+    "start": 1954.711,
+    "end": 1958.212,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "The merit accrued from having this thought is boundless.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_231",
+    "start": 1961.393,
+    "end": 1973.837,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And so these are mainly boundless loving-kindness, boundless compassion, boundless rejoicing, and boundless impartiality.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_232",
+    "start": 1975.026,
+    "end": 1977.268,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "so what are they?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_233",
+    "start": 1978.069,
+    "end": 2000.087,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "boundless loving-kindness is the root of all of them it's the unconditional benevolence and it's defined as the wish that may all sentient beings without any exception achieve happiness and the cause of happiness now",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_234",
+    "start": 2001.785,
+    "end": 2005.106,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "That is why we need to make it boundless.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_235",
+    "start": 2005.526,
+    "end": 2009.148,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "People might say, oh, this is really unrealistic.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_236",
+    "start": 2009.228,
+    "end": 2010.308,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It's too difficult.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_237",
+    "start": 2011.849,
+    "end": 2018.011,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It doesn't make even sense to decide that we want to bring happiness to the infinity of sentient beings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_238",
+    "start": 2018.051,
+    "end": 2020.312,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Why don't we just start at least by our neighbors?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_239",
+    "start": 2021.332,
+    "end": 2029.235,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And some people say, sometimes rightly so, it's easier to pray for all beings, but it's more difficult to take care of your neighbor and those you meet every day.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_240",
+    "start": 2031.014,
+    "end": 2034.615,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Because those are real people that you encounter, and it's more challenging.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_241",
+    "start": 2035.255,
+    "end": 2037.516,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It's easy to say, oh, may all sentient beings be happy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_242",
+    "start": 2038.396,
+    "end": 2039.957,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And usually you think, except my neighbor.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_243",
+    "start": 2041.717,
+    "end": 2045.838,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So, the idea, why we start so big?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_244",
+    "start": 2046.279,
+    "end": 2050.86,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "You could say, well, let me start with two people, and then I will see if I can make it, and I will increase.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_245",
+    "start": 2052.22,
+    "end": 2057.302,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Well, the reason is that if we set the limit from the start, it's like any journey.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_246",
+    "start": 2058.281,
+    "end": 2061.562,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "then you probably get to there, but not much farther away.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_247",
+    "start": 2062.323,
+    "end": 2069.126,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "If you say, my only ambition in life is to get to Changi Airport, well, you'll get there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_248",
+    "start": 2069.646,
+    "end": 2070.226,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "But that's all.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_249",
+    "start": 2071.447,
+    "end": 2076.429,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Now, if you say, I want to go to Tahiti, well, if you manage to get there, that's great.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_250",
+    "start": 2076.489,
+    "end": 2079.09,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And on the way, you will get to Changi Airport for sure.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_251",
+    "start": 2079.71,
+    "end": 2081.271,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So, the first step will be included.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_252",
+    "start": 2082.411,
+    "end": 2083.151,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So, if you...",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_253",
+    "start": 2083.812,
+    "end": 2086.793,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "There's no reason from the start to already...",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_254",
+    "start": 2087.805,
+    "end": 2117.343,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "limit yourself concede sort of defeat that you will never be able to help all sentient beings so it's better to go for the maximum number and then it would not make sense to say just hundred and it would not make sense even to say hundred million why stop there and also it certainly doesn't make sense to say all sentient beings except one hundred that I cannot stand so there's precisely those that you need to include otherwise",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_255",
+    "start": 2117.937,
+    "end": 2133.906,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It's still mixed with a deluded mind that clings to the notion of friend, enemy as being intrinsic qualities of a sentient being.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_256",
+    "start": 2135.607,
+    "end": 2141.61,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So in that sense, it should be independent on the way the beings behave.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_257",
+    "start": 2143.451,
+    "end": 2147.233,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Loving kindness and compassion are not reward for good behavior.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_258",
+    "start": 2148.635,
+    "end": 2177.988,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "the withdrawal of loving kindness and compassion cannot be a punishment for bad behavior morality and karma is something else it will take care of that but your compassion should be for your wish of happiness should be for any kind of happiness and likewise the second one compassion that is the wish that may all beings may be free from suffering so it is love applied to suffering it is",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_259",
+    "start": 2178.448,
+    "end": 2191.675,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "the compassion for any kind of suffering, wherever it is, whatever it is, and not just the suffering of those who are dear to me, or whom I know, and not care about strangers, and certainly not about enemies.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_260",
+    "start": 2192.495,
+    "end": 2203.821,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Because if you think about it, since it's not a moral judgment, but it's getting at the root of suffering, even the worst dictator, the compassion is not wishing him good,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_261",
+    "start": 2204.948,
+    "end": 2226.447,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "wishing that you have a nice holiday somewhere in the Adamant Islands or somewhere, but simply to wish may the hatred, the indifference, the cruelty that had made that person behave in such way, which are the causes of suffering for countless beings and for himself as well, may that be eradicated.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_262",
+    "start": 2226.587,
+    "end": 2228.869,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "That's the division of compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_263",
+    "start": 2229.57,
+    "end": 2230.03,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So it is",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_264",
+    "start": 2230.891,
+    "end": 2234.574,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "not based on the way people behave and the way they treat us.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_265",
+    "start": 2234.755,
+    "end": 2238.338,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "That's why we can include all, we can extend it to all beings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_266",
+    "start": 2239.519,
+    "end": 2243.663,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So then, therefore, the second one is this boundless compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_267",
+    "start": 2245.084,
+    "end": 2250.269,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "The third one is the boundless rejoicing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_268",
+    "start": 2251.19,
+    "end": 2254.533,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It is a very altruistic act, in fact, to rejoice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_269",
+    "start": 2255.596,
+    "end": 2272.086,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Like if you rejoice in the wonderful activities of someone in the past, like Gandhi, or anyone who has had a tremendous benefit to certain beings, to others, this is pure joy of appreciation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_270",
+    "start": 2272.867,
+    "end": 2274.548,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "There's nothing you can gain in return.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_271",
+    "start": 2275.528,
+    "end": 2277.73,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Nobody is going to blame you if you don't do it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_272",
+    "start": 2277.83,
+    "end": 2282.933,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Nobody is going to praise you if you rejoice in someone's good deeds.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_273",
+    "start": 2283.7,
+    "end": 2292.663,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It's really a full appreciation that makes you in a way share the quality of what that person has done.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_274",
+    "start": 2293.523,
+    "end": 2300.746,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And also it is something that gives us an encouragement instead of being depressed because there's so much suffering everywhere.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_275",
+    "start": 2300.786,
+    "end": 2303.827,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "There are good things also in which we can rejoice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_276",
+    "start": 2305.007,
+    "end": 2308.008,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So the fourth one is impartiality.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_277",
+    "start": 2308.288,
+    "end": 2312.81,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And it's just to come back about what I was just saying that",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_278",
+    "start": 2313.967,
+    "end": 2326.517,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Those three, loving-kindness, compassion and rejoicing, cannot be partial, cannot just be for those who we feel very close to.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_279",
+    "start": 2328.498,
+    "end": 2342.049,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It has to be extended to all, to strangers, to those difficult cases, for the very reason that I've mentioned, is that the purpose of these is to bring happiness and remove suffering,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_280",
+    "start": 2342.884,
+    "end": 2349.97,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And in whichever form that suffering might be, including the causes of suffering like hatred and so forth.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_281",
+    "start": 2350.49,
+    "end": 2356.735,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So anyway, those apply to every single being, no matter what they do.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_282",
+    "start": 2358.717,
+    "end": 2363.961,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And that impartiality is the only way that it can be really extended and universal.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_283",
+    "start": 2365.182,
+    "end": 2367.324,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And it's not just a vague sort of",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_284",
+    "start": 2368.695,
+    "end": 2397.38,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "deluded thing that has this sort of disembodied because of course it takes all sentient beings it's hard to represent ourselves all sentient beings but it is also something that creates a readiness that we can apply to any being that comes in the focus of our attention that means that we encounter in life and then because of this vast attitude",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_285",
+    "start": 2398.217,
+    "end": 2404.54,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "then we'll be ready to embrace that sentient being and not say, oh, this one is not from my group.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_286",
+    "start": 2405.641,
+    "end": 2407.482,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "He's someone else.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_287",
+    "start": 2408.442,
+    "end": 2409.723,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "He belongs to another.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_288",
+    "start": 2410.323,
+    "end": 2412.864,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So this is not my world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_289",
+    "start": 2414.165,
+    "end": 2416.306,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It's not my job to take care of that person.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_290",
+    "start": 2417.086,
+    "end": 2424.73,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And so that will happen if you have only a very biased and partial loving kindness or compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_291",
+    "start": 2425.562,
+    "end": 2438.913,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "But once you have extended it to this meditation, then no matter what that person or that being is, when it comes into your attention, that being is suffering, you will wish to remove it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_292",
+    "start": 2439.814,
+    "end": 2444.457,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And if you just see that being not particularly suffering, you will wish happiness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_293",
+    "start": 2445.438,
+    "end": 2452.184,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So those are very crucial four points, because that's on the basis of that,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_294",
+    "start": 2452.794,
+    "end": 2474.265,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "that we get a truly benevolent mind and that truly benevolent mind will then lead to the bodhicitta that is the wish may all beings may I gain the capacity to free all beings from suffering and bring them to enlightenment why that leads to bodhicitta?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_295",
+    "start": 2474.345,
+    "end": 2481.329,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "because it makes us appreciate the fact that right now we don't have such capacity so we need to develop it",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_296",
+    "start": 2482.272,
+    "end": 2487.995,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Otherwise, we cannot practice this fully, this loving-kindness, compassion, and so forth.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_297",
+    "start": 2488.955,
+    "end": 2496.518,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So then, since we have, before we do the little break, we have a 20 minutes meditation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_298",
+    "start": 2497.359,
+    "end": 2502.681,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So we'll try to, one by one, practice on those four.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_299",
+    "start": 2503.602,
+    "end": 2510.845,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And also, at the end, we'll say a few words how to do a permutation of those four",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_300",
+    "start": 2511.536,
+    "end": 2515.898,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "so as not to fall into possible deviations.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_301",
+    "start": 2517.098,
+    "end": 2522.801,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So let's begin with the first one, that is loving kindness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_302",
+    "start": 2524.141,
+    "end": 2540.928,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So even though ultimately we want that to be again extended to all beings, as beginners we need to kindle that in our mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_303",
+    "start": 2541.592,
+    "end": 2543.753,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "you need to bring that alive.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_304",
+    "start": 2544.954,
+    "end": 2567.268,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And so for that, it is really much easier to begin with someone for whom it is natural and very spontaneous and easy to let flow this loving-kindness, unconditional love, like it could be a child, it could be a companion, it could be a parent, a good friend,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_305",
+    "start": 2567.814,
+    "end": 2595.996,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "animal whoever you feel like you don't have any difficulty to feel this unconditional love so although later we'll extend that more sort of towards all being as an unconditional feeling of love but in the beginning let's to in order to make that state of mind very vivid and very clear and intense in our mind let's first",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_306",
+    "start": 2596.718,
+    "end": 2625.735,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "visualize or imagine someone who is very dear to us or whoever you might want to choose but for the sake of having an image let's take the example that mostly people feel comfortable with it's like of a one of our child or a young relative and with a sort of beautiful innocent also vulnerable in a way small child",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_307",
+    "start": 2626.341,
+    "end": 2649.972,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "that comes towards us with like eyes trusting eyes with a big smile and then we sort of hug that child and there is nothing in us except like unconditional love that means may that child be happy may that child be safe may that child be healthy may that child progress and free",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_308",
+    "start": 2651.005,
+    "end": 2653.025,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "himself or herself from all suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_309",
+    "start": 2653.765,
+    "end": 2659.707,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So this unconditional wish that made the child find the happiness and the cause of happiness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_310",
+    "start": 2660.607,
+    "end": 2668.088,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And why do we so let's remember also that the causes of happiness is not just temporary comfort.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_311",
+    "start": 2669.128,
+    "end": 2673.529,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It's also finding a path to freedom.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_312",
+    "start": 2674.549,
+    "end": 2675.689,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It's finding wisdom.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_313",
+    "start": 2676.229,
+    "end": 2679.55,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It's finding the meaning in one's life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_314",
+    "start": 2680.412,
+    "end": 2686.036,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "and ultimately finding freedom from this cycle of existence.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_315",
+    "start": 2687.156,
+    "end": 2695.942,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And so deeper loving wishes than simply be well in the moment that will come.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_316",
+    "start": 2697.022,
+    "end": 2701.845,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So let's try to visualize that for a few moment.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_317",
+    "start": 2702.846,
+    "end": 2708.91,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Again, whoever you might choose as object of arousing loving kindness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_318",
+    "start": 2838.385,
+    "end": 2847.691,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Now, when that feeling is quite vivid, let's make so that it really pervades the whole mental landscape.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_319",
+    "start": 2847.991,
+    "end": 2850.653,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "There's nothing but loving kindness in our mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_320",
+    "start": 2852.334,
+    "end": 2861.961,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And then, thanks to that all-pervading feeling of loving kindness, now let's try to embrace other Satan beings as well.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_321",
+    "start": 2863.141,
+    "end": 2865.663,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Strangers and even difficult people.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_322",
+    "start": 2866.768,
+    "end": 2874.334,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "and then limitless beings that we don't even, we cannot even represent ourselves.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_323",
+    "start": 2874.374,
+    "end": 2882.921,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So because this unconditioned love has no reason to be limited just to few, and it has the capacity to embrace all sentient beings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_324",
+    "start": 2885.063,
+    "end": 2890.067,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Actually, it's even, we could almost say it's easier",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_325",
+    "start": 2892.118,
+    "end": 2897.882,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Because the quality of this loving kindness is so much greater if it embraces all without exception.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_326",
+    "start": 2898.823,
+    "end": 2917.316,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And if we try to limit just a few beings, then it immediately loses in strength and quality, like a sun that will cease to shine upon everything, and suddenly it narrows and narrows and narrows, and just a few miserable beings that shine on a few plants or something.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_327",
+    "start": 2917.877,
+    "end": 2919.778,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So the sun will lose its sort of",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_328",
+    "start": 2920.59,
+    "end": 2949.216,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "brightness and magnificence so there's no need and actually it's diminishing to just try to reduce loving kindness so let it shine like a sun that shines equally on everything whether it's the sun shines equally on a beautiful place on heap of garbage on good people on people that commit harm the sun doesn't discriminate and so likewise this loving kindness should be in this way",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_329",
+    "start": 3074.55,
+    "end": 3077.511,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Now the second one is the boundless compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_330",
+    "start": 3078.992,
+    "end": 3089.455,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So in a way, it is the way loving kindness transforms when it encounters with suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_331",
+    "start": 3090.675,
+    "end": 3096.197,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It stems from the same wish to do good, to be concerned by others.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_332",
+    "start": 3097.998,
+    "end": 3103.78,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "But when it's suffering that it meets, then of course, it naturally becomes the wish may",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_333",
+    "start": 3104.499,
+    "end": 3132.899,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "suffering and its cause be alleviated so here the fact of mentioning the causes leads us much deeper that we might initially think because when the Buddha spoke about the truth of suffering he was not simply referring to obvious suffering",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_334",
+    "start": 3134.242,
+    "end": 3161.528,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "if you have a deep wound, if you have a strong toothache if we just lost a very very dear person it's obvious, obviously we know all its suffering in a way we don't need the Buddha to tell this is the truth of suffering but it's obvious to everyone so what why the Buddha was putting so much strength",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_335",
+    "start": 3162.327,
+    "end": 3164.788,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "on the need to recognize suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_336",
+    "start": 3165.748,
+    "end": 3169.549,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It seems that we meet so much suffering that we don't need any teaching about that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_337",
+    "start": 3171.049,
+    "end": 3181.851,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "He was referring to something much more far-reaching than simply a toothache or a great sadness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_338",
+    "start": 3184.212,
+    "end": 3190.373,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "First of all, he was referring to the fact that what we usually consider as happiness",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_339",
+    "start": 3191.703,
+    "end": 3221.135,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "as already imbued with suffering because it will change like our youth our enjoyments particular circumstances those are subject to change very fast and something is very joyful reunion and a tragic event occurs or we take something that is very pleasant like a drug",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_340",
+    "start": 3222.199,
+    "end": 3228.124,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And it seems that we're ecstatic, but there's so much suffering that will follow.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_341",
+    "start": 3231.046,
+    "end": 3248.901,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And more even than that, he was referring to the fact that something that we have hard time to even conceive, and we sometimes miss altogether, is that as long as we have a distorted view of reality,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_342",
+    "start": 3250.075,
+    "end": 3279.53,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "that we take for permanent what is not that we believe that there is a separate autonomous self within ourselves when it's just a stream a dynamic stream of experience of consciousness when we make all those basic misconceptions about nature of reality that is not just an intellectual mistake it is a mistake or ignorance that will have",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_343",
+    "start": 3280.48,
+    "end": 3308.212,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "dramatic consequences because it leads to suffering again and again and again if you grasp the thing as solid and existing attraction and repulsion will take place then that will follow by hatred and craving and jealousy and arrogance and all those poisons that create suffering so that's really what the Buddha was saying about that's what we need to recognize",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_344",
+    "start": 3309.265,
+    "end": 3328.742,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And that extends our compassion from an emotional compassion to the immediate suffering that can be very, very moving to a cognitive suffering that is linked with wisdom and a compassion that is based on understanding the root cause of suffering and wishing that the beings may be free from those.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_345",
+    "start": 3330.364,
+    "end": 3334.147,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "But for the first one, at least the obvious suffering,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_346",
+    "start": 3335.074,
+    "end": 3341.599,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "This is the easiest way to generate compassion as we generated loving kindness earlier.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_347",
+    "start": 3343.12,
+    "end": 3350.546,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So then we need for that to think of the unbearable suffering that are affecting so many sentient beings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_348",
+    "start": 3353.048,
+    "end": 3363.236,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Mothers that die while giving birth, though it was supposed to be one of the happiest moments of their lives,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_349",
+    "start": 3364.678,
+    "end": 3381.387,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "elderly people who suffer terribly from the degenerations of their faculties, their body, their organs that one by one give way, persecutions, massacres.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_350",
+    "start": 3383.669,
+    "end": 3389.772,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "We can see so much of this in the images that the media deliver to us day after day.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_351",
+    "start": 3391.727,
+    "end": 3418.511,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "of children in the refugee camp looking desperately for their mothers, mothers looking desperately for their children the suffering of separation with dear ones, the suffering of being confronted with those who do harm to us the mental suffering of being held in contempt",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_352",
+    "start": 3419.367,
+    "end": 3445.452,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "of being harmed by harsh words and the suffering of all satan beings of all kinds day after day millions and millions of animals are killed for our consumption some of them die in traps some of them die asphyxiated in nets some of them are stunned by electric",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_353",
+    "start": 3446.271,
+    "end": 3472.885,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "some of them are decapitated, this is endless stream of like ocean of blood and it's only the little bit one can see the great master Nagarjuna said that if we could pile up if we look from the Buddhist perspective of all past lives just the number of bodies that we had and suffered in as just being small ants",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_354",
+    "start": 3474.124,
+    "end": 3482.488,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Just that, it will make a heap bigger than Mount Meru, the big mountain that's said to be at the center of the universe.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_355",
+    "start": 3483.608,
+    "end": 3494.113,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So that's to say, that if we are to generate compassion, there's certainly an unlimited store of objects of compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_356",
+    "start": 3495.294,
+    "end": 3497.895,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So let's try to visualize some of those.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_357",
+    "start": 3498.956,
+    "end": 3501.357,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Not just to fall into some kind of distress,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_358",
+    "start": 3503.4,
+    "end": 3508.104,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "and sort of empathic distress that makes us feel powerless and discouraged.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_359",
+    "start": 3509.025,
+    "end": 3516.571,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "But rather, as His Holiness the Dalai Lama says, to generate the compassionate courage that comes with compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_360",
+    "start": 3517.172,
+    "end": 3527.42,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Because if we relate the suffering of others to the impact they have on us, I feel so distressed, I cannot bear to see those images, then it's not compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_361",
+    "start": 3528.101,
+    "end": 3530.343,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Compassion is like the doctor on the battlefield.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_362",
+    "start": 3531.62,
+    "end": 3539.425,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "He sees so much suffering, but he's one after the other one trying to address and cure and take care of the wounded people.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_363",
+    "start": 3539.445,
+    "end": 3543.427,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "He's not going to cry and cry each time he sees someone who is suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_364",
+    "start": 3544.968,
+    "end": 3560.198,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So, if we react to the other suffering with compassion, not with just empathic distress, then, as His Holiness said, that the part of the Bodhisattva does the courage of compassion and not the",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_365",
+    "start": 3560.793,
+    "end": 3566.345,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "discouragement of feeling upset because of the suffering of others.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_366",
+    "start": 3566.405,
+    "end": 3569.953,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So let's try to do that for a few moments.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_367",
+    "start": 3729.736,
+    "end": 3758.201,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "now the third one is rejoicing because of course there are not only terrible things in this world there are also wonderful accomplishments they can be relative accomplishments of people succeeding in their endeavor of which provided is of course it's a positive and constructive it's a virtuous endeavor people manifesting extraordinary qualities of",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_368",
+    "start": 3759.433,
+    "end": 3769.021,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "being wise, intelligent, compassionate, dedicating themselves to others, or achieving great goals that free many beings from suffering.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_369",
+    "start": 3769.862,
+    "end": 3786.515,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Again, take the example of Gandhi and Martin Luther King, Nelson Mandela, and besides all the great sages of the past, and those who created major changes in the world for good.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_370",
+    "start": 3787.796,
+    "end": 3788.417,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And simply,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_371",
+    "start": 3789.038,
+    "end": 3817.482,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "around ourselves people who do simple act of goodness of generosity of kindness people who benefit others to sharing their knowledge and their wisdom and teaching others and people who help those in need people who give moral support to those who are in distress and actually our daily life is much more filled",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_372",
+    "start": 3818.414,
+    "end": 3846.673,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "with those act of kindnesses that nobody notices that doesn't make the first page of the newspaper or the evening news as a atrocious crime will immediately do but that's more what makes the texture of our daily life than acts of violence and and barbary and so forth so we should really truly appreciate that",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_373",
+    "start": 3847.257,
+    "end": 3848.318,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Rejoice in that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_374",
+    "start": 3849.379,
+    "end": 3858.246,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Wish that if somebody also finds happiness, may that person keep that happiness, may that happiness increase further.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_375",
+    "start": 3859.247,
+    "end": 3868.915,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "If that person has some special qualities that are beneficial for that person and for others, may those qualities never decline but increase further.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_376",
+    "start": 3870.016,
+    "end": 3873.719,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And so, in short, it's rejoicing in others' qualities",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_377",
+    "start": 3874.648,
+    "end": 3886.035,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "wishing that those qualities of achievement or happiness never decline, but continue to increase and flourish further.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_378",
+    "start": 3887.615,
+    "end": 3893.339,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "And do so without sort of... Rejoicing is the opposite of envy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_379",
+    "start": 3894.259,
+    "end": 3899.903,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It means feeling uncomfortable because other people have qualities and other people are happy and so forth.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_380",
+    "start": 3899.923,
+    "end": 3903.485,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So it's like entirely accepting and rejoicing",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_381",
+    "start": 3904.817,
+    "end": 3908.898,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "others, whatever, goodness, enjoyments, qualities, and so forth.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_382",
+    "start": 3919.241,
+    "end": 3922.142,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It also includes gratitude, appreciation,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_383",
+    "start": 4021.974,
+    "end": 4027.637,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Now the fourth and last of these four immeasurables is impartiality.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_384",
+    "start": 4027.738,
+    "end": 4030.979,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So we already explained a little bit what it is.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_385",
+    "start": 4033.081,
+    "end": 4037.663,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "It is to gradually extend the three former ones to all.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_386",
+    "start": 4039.224,
+    "end": 4051.632,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Realizing that once again this is not we are not casting moral judgment about those who deserve or not deserve our compassion or loving kindness.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_387",
+    "start": 4053.593,
+    "end": 4064.476,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "But that since our ultimate goal is that all beings find happiness, all beings be free from suffering, so we are actually going at the root of that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_388",
+    "start": 4065.117,
+    "end": 4073.239,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So if there's any cause that brings suffering, whether it's the hatred of a dictator or something, that is the cause.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_389",
+    "start": 4074.099,
+    "end": 4078.661,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Hate is the enemy, not the person who has fallen prey to hate.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_390",
+    "start": 4079.221,
+    "end": 4082.082,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Otherwise, there will be never any end",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_391",
+    "start": 4082.617,
+    "end": 4083.717,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "to the cycle of hate.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_392",
+    "start": 4085.198,
+    "end": 4098.263,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So Shantideva gives the example in the Bodhicaryavatara, if someone beats you with a stick maybe almost no one except a really silly person will get angry at the stick.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_393",
+    "start": 4099.203,
+    "end": 4103.125,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Because we immediately know that the stick has been set in motion by someone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_394",
+    "start": 4103.745,
+    "end": 4105.106,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So we get angry at the person.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_395",
+    "start": 4106.146,
+    "end": 4108.187,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "But here we stop one step too early.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_396",
+    "start": 4109.265,
+    "end": 4113.388,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "We should not be angry at the person because the person has been motivated by hatred.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_397",
+    "start": 4114.449,
+    "end": 4126.857,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So it is the hatred which is like a sickness that momentarily affects the person that is the true enemy, not the person who is fallen prey to hatred.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_398",
+    "start": 4129.775,
+    "end": 4141.303,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "The hatred doesn't define the person, it defines certain circumstances, certain moments, certain conditions in the long history of that person.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_399",
+    "start": 4142.523,
+    "end": 4151.95,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Like when you go to see a doctor because you have a sickness, you don't tell the doctor, doctor, I am the flu.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_400",
+    "start": 4152.83,
+    "end": 4154.491,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "You tell doctor, I have the flu.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_401",
+    "start": 4154.992,
+    "end": 4158.454,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "You make the distinction between your sickness and what you are.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_402",
+    "start": 4159.45,
+    "end": 4169.538,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So hatred can be like a long-term sickness for some, but it's still an aberration, a deviation, a sickness of the mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_403",
+    "start": 4170.138,
+    "end": 4171.399,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So it is that we should treat.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_404",
+    "start": 4171.66,
+    "end": 4185.13,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So with this in mind, we can impartially extend loving kindness and compassion without discrimination and without sort of restraint to all sentient beings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_405",
+    "start": 4185.631,
+    "end": 4187.292,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So that's the fourth step.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_406",
+    "start": 4251.902,
+    "end": 4274.097,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Now, just to conclude, in one of the teachings that Khyentse Rinpoche would often give, the treasure of precious quality, or the Yonten Tzu in Tibetan, there is a way to combine those four, and especially a way that prevents one from falling into some kind of deviation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_407",
+    "start": 4274.878,
+    "end": 4277.38,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "There are possible deviations to each of those four.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_408",
+    "start": 4278.2,
+    "end": 4280.902,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Loving kindness can stray into attachment.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_409",
+    "start": 4282.783,
+    "end": 4301.092,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So if that happens then you should when that happens you should shift to impartiality because impartiality makes that we cannot be biased with attachment to someone in particular at the exclusion of others.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_410",
+    "start": 4302.612,
+    "end": 4312.537,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Then you shift to impartiality but if you continue to meditate on impartiality if it lacks sort of",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_411",
+    "start": 4313.372,
+    "end": 4317.273,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "clarity and wisdom, it may fall in indifference.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_412",
+    "start": 4318.294,
+    "end": 4326.296,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Instead of equally caring for everyone, you equally don't care for anyone, whether they are friends, enemies, or strangers.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_413",
+    "start": 4327.117,
+    "end": 4329.517,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So then you must wake up from that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_414",
+    "start": 4329.657,
+    "end": 4335.799,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "If that happens, if you sink in a kind of vague indifference, then you will shift to compassion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_415",
+    "start": 4335.9,
+    "end": 4343.162,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "Because compassion, the contemplation of intense suffering, cannot but wake up your mind",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_416",
+    "start": 4343.787,
+    "end": 4370.118,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "into a compassionate mind now if you keep meditating on compassion and do so again and again focusing on suffering it might be that while contemplating the immensity of suffering you might feel overwhelmed there's no way I could make any change there's so much suffering again and again so it's kind of falling into a kind of deep",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_417",
+    "start": 4371.403,
+    "end": 4397.767,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "discouragement that come from being overwhelmed so then is the time when that sort of deviation occurs instead of courage you feel discouraged to shift to rejoicing and because there are good things that lift up your spirits and so you can keep on meditating for a while on rejoicing now if rejoicing becomes sort of too like a",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_418",
+    "start": 4398.79,
+    "end": 4412.881,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "seeing everything, the whole world, through tinted glasses, like everything is rosy and nice, which is not quite the case, then you can go again to compassion, or to loving kindness, or to etc., etc.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_419",
+    "start": 4413.462,
+    "end": 4426.252,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "So by permuting those four, they will, each other will enhance each other, plus we will avoid to fall into some kind of...",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_420",
+    "start": 4427.571,
+    "end": 4457.177,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Ven. Matthieu Ricard ",
+    "text": "sort of stagnating into some kind of side track so that's in short the how we can practice these four immeasurable ideas or meditations and so I think we have planned to have a short break and then after that Rinpoche will speak of the absolute bodhicitta so maybe 10-15 minute breaks",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  }
+]

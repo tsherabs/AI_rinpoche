@@ -1,0 +1,1342 @@
+[
+  {
+    "segment_id": "SRR_001_0",
+    "start": 3.692,
+    "end": 15.84,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "Rinpoche, thank you so much for seeing us this morning and on behalf of the Chronicles of Chögyam Trungpa Rinpoche and all of his students, we're so pleased that you have some time to talk with us today.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_1",
+    "start": 15.86,
+    "end": 20.143,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "It's so wonderful to see you back here in North America.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_2",
+    "start": 20.724,
+    "end": 21.824,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "Very nice to see you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_3",
+    "start": 25.126,
+    "end": 31.591,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "The return of Khyentse Rinpoche to the West is a great event for all of Chögyam Trungpa Rinpoche's students",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_4",
+    "start": 32.47,
+    "end": 38.151,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "And we wondered if you would say something about the significance of this visit for our viewers.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_5",
+    "start": 40.211,
+    "end": 49.333,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Thank you for giving me the opportunity to talk to Dharma friends.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_6",
+    "start": 52.714,
+    "end": 59.475,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yes, the main idea of this Centennial celebration, I always say, is these two aspects.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_7",
+    "start": 60.298,
+    "end": 65.281,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Another one is in order to commemorate previous Khyentse Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_8",
+    "start": 66.422,
+    "end": 74.727,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So wherever we have the celebration, we always have like one day offering and remembering of Khyentse Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_9",
+    "start": 75.528,
+    "end": 78.129,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then the movie with movie and stories.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_10",
+    "start": 78.87,
+    "end": 86.795,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So somehow the people who met Khyentse Rinpoche has very strong impact on their life by meeting Khyentse Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_11",
+    "start": 91.354,
+    "end": 115.13,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "previous Khyentse Rinpoche and another aspect is to introduce now we have this wonderful Khyentse Rinpoche so introduce Khyentse Rinpoche to his previous life student and something which I didn't think but it happened is that now that he could really see that how much people really loved Khyentse Rinpoche and how much",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_12",
+    "start": 116.036,
+    "end": 121.3,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "people really effected in their life what his balance is and did this something, his soho.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_13",
+    "start": 122.161,
+    "end": 123.882,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think that was wonderful.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_14",
+    "start": 125.403,
+    "end": 138.913,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "Could you help to say something about the relationship or the kinship between, in your experience, between the His Holiness Dilgo Khyentse Rinpoche and now the new Khyentse Rinpoche?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_15",
+    "start": 143.517,
+    "end": 143.777,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Well,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_16",
+    "start": 149.12,
+    "end": 156.485,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Of course, the previous Khyentse Rinpoche and the young Khyentse Rinpoche, the physical appearance is different.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_17",
+    "start": 158.086,
+    "end": 160.608,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Like himself says that I am much smaller and all that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_18",
+    "start": 161.868,
+    "end": 172.395,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And of course, there is still very much something about him that really reminds us of the previous Khyentse Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_19",
+    "start": 173.296,
+    "end": 176.078,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And for me it is very interesting because it is like the first time",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_20",
+    "start": 177.777,
+    "end": 180.458,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "meeting somebody who's in the past life and this life.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_21",
+    "start": 181.259,
+    "end": 183.019,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's not a very common experience.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_22",
+    "start": 184.24,
+    "end": 192.703,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, of course, Yangsi Rinpoche has to go through all the studies and all that, because that's how the bodhisattvas do.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_23",
+    "start": 193.604,
+    "end": 200.987,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "That's how, so in order for us to engage into practice and study, so they give this message that they also have to go through.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_24",
+    "start": 202.367,
+    "end": 215.872,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But as a normal child, when he studies, where he understands the things that are different from the other children, that's how I could have seen him.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_25",
+    "start": 217.672,
+    "end": 219.013,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Of course, for memorizing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_26",
+    "start": 220.532,
+    "end": 229.478,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "then, how do you say, the oral exam and all that are done equally with other monks and other turkus who are studying with him.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_27",
+    "start": 230.299,
+    "end": 235.903,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But somehow Rinpoche's understanding that I could see is much deeper compared to the other turkus.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_28",
+    "start": 236.824,
+    "end": 241.887,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "The way Rinpoche thinks is different from among these other turkus.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_29",
+    "start": 241.987,
+    "end": 245.47,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that's something, something I think very special quality.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_30",
+    "start": 251.747,
+    "end": 266.412,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "You had said the other evening that he also you were surprised when he did certain things like the first one that surprised you but I don't know that that's true.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_31",
+    "start": 266.8,
+    "end": 269.661,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yeah, there are many things, many small things.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_32",
+    "start": 270.941,
+    "end": 274.502,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I said a few things like pulling Matthew's cheek when he was four years old.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_33",
+    "start": 275.523,
+    "end": 277.203,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Okay, that's maybe a possibility.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_34",
+    "start": 277.283,
+    "end": 279.744,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But for Matthew, only two persons have done that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_35",
+    "start": 280.524,
+    "end": 283.505,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Taking a photograph of Anne Jimba.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_36",
+    "start": 283.565,
+    "end": 284.405,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "There's another story.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_37",
+    "start": 284.565,
+    "end": 289.347,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "That is the last visit to Europe, just before she left from Europe.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_38",
+    "start": 290.122,
+    "end": 294.483,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "where quite lots of people gathered there and then everybody was taking photo of Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_39",
+    "start": 294.503,
+    "end": 297.264,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And Rinpoche took Jinpa's camera and took a photo of her.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_40",
+    "start": 297.644,
+    "end": 299.685,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that scene is there, we have videotape.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_41",
+    "start": 300.385,
+    "end": 306.867,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And when Jinpa went to see young Khyentse Rinpoche, first thing he asks is for her camera and took a photo.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_42",
+    "start": 307.007,
+    "end": 309.268,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So things like that, you know, certain things.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_43",
+    "start": 309.348,
+    "end": 314.45,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But of course, again, when he's back to normal, when he was young, he's a normal child.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_44",
+    "start": 314.47,
+    "end": 318.331,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But certain thing he does really, sort of connects to him.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_45",
+    "start": 319.571,
+    "end": 328.479,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And I don't know whether I mentioned about that, but one thing when I took him to Goa, it's that beach in India, during his holiday season.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_46",
+    "start": 329.56,
+    "end": 333.963,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So he's in the front, I was in the front seat, and then he's in the back seat.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_47",
+    "start": 334.624,
+    "end": 341.589,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And every time we'd go through some kind of Indian small town, he'd always tag me at the back and say, what's the name of this town?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_48",
+    "start": 342.65,
+    "end": 354.799,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, Previous Khyentse Rinpoche used to do that, and sometimes I would sort of think that why Rinpoche wants to know that, because Rinpoche don't know the area anyway, so why Rinpoche wants to know the name of the place?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_49",
+    "start": 355.499,
+    "end": 358.741,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But when he did that, it was a little bit like shock for me.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_50",
+    "start": 359.822,
+    "end": 361.543,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So subtle things like that, many things.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_51",
+    "start": 361.623,
+    "end": 366.345,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And it's not only me, but I think many of my friends had this kind of experience.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_52",
+    "start": 367.086,
+    "end": 380.512,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I'm sure with, I don't really, didn't much talk with the senior ones, but like my classmates, friends, like, you know, contrary patients also, you can say, and especially when I'm talking about all those, had some kind of thing that,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_53",
+    "start": 381.601,
+    "end": 383.243,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yeah, interesting.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_54",
+    "start": 383.663,
+    "end": 385.165,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And that's something that's very interesting.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_55",
+    "start": 385.726,
+    "end": 388.328,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Something I didn't really expect or I wasn't really looking for.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_56",
+    "start": 388.389,
+    "end": 391.872,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But when it happens, it's like a bit shocking.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_57",
+    "start": 391.892,
+    "end": 392.173,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "I bet.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_58",
+    "start": 397.304,
+    "end": 411.216,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "The logo or the symbol for this visit that we keep seeing is the rabbit and that's interesting and I wondered if you would explain how that was chosen.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_59",
+    "start": 413.986,
+    "end": 419.588,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Rinpoche is a good artist and when I was very small he always used to draw rabbit for me.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_60",
+    "start": 420.248,
+    "end": 422.269,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "He draws flower, rabbit and butterfly.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_61",
+    "start": 423.449,
+    "end": 429.791,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And also Rinpoche has his logo with a brilliant moon with a rabbit in the middle.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_62",
+    "start": 430.952,
+    "end": 434.793,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So when I was thinking of this centenary celebration",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_63",
+    "start": 436.023,
+    "end": 439.867,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I wanted something that the logo sort of remembers.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_64",
+    "start": 440.708,
+    "end": 445.133,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "As soon as you see the logo, somehow it remembers some Khyentse Rinpoche, some connection.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_65",
+    "start": 446.154,
+    "end": 451.479,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So many people actually who receive letter from Khyentse Rinpoche has this logo, rabbit.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_66",
+    "start": 451.699,
+    "end": 452.981,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "Oh yes, yes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_67",
+    "start": 453.061,
+    "end": 453.641,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "His logo.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_68",
+    "start": 454.765,
+    "end": 480.614,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "and i thought that's my thing is somehow people when they see that even in bhutan i even let it fly oh with uh yeah so that's why we have the rapid we would say it's a kind of ties the room together like a rug in a nice house something like that it brings everything",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_69",
+    "start": 488.768,
+    "end": 509.367,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "You've spent almost 20 years accomplishing the wishes of His Holiness Dilgo Khyentse Rinpoche, and I wondered if you would say something about the things that needed to be done or that he had asked you to do after, or that you knew needed to be done after he passed away, and also are you a little bit...",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_70",
+    "start": 509.938,
+    "end": 510.579,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "freer now?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_71",
+    "start": 510.639,
+    "end": 513.04,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "Will we be able to do other things now?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_72",
+    "start": 515.962,
+    "end": 522.087,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Well, of course Rinpoche would definitely want all of us to be a good practitioner.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_73",
+    "start": 522.687,
+    "end": 526.65,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "That is, I'm sure, to fulfill his wishes, to become a great practitioner.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_74",
+    "start": 527.651,
+    "end": 533.655,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "On, how do you say, material, like work level, I think we will finish everything.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_75",
+    "start": 534.336,
+    "end": 536.958,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "That is also for me another celebration.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_76",
+    "start": 538.316,
+    "end": 541.538,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Because I was telling Matthew that everything needs time.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_77",
+    "start": 541.839,
+    "end": 543.52,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "You cannot just go on.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_78",
+    "start": 543.86,
+    "end": 545.181,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Everything needs a time limit.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_79",
+    "start": 545.501,
+    "end": 548.524,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I said 2010 is our time limit.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_80",
+    "start": 548.584,
+    "end": 550.305,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So there we should finish everything.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_81",
+    "start": 551.546,
+    "end": 556.15,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So now I cannot think of anything that is really left there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_82",
+    "start": 556.81,
+    "end": 560.113,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Even if somebody wants to do something, I don't think we'll be able to find.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_83",
+    "start": 560.593,
+    "end": 564.336,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "And for you, that's great because we saw in Kathmandu,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_84",
+    "start": 566.41,
+    "end": 569.093,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "that you paid attention to every, every detail.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_85",
+    "start": 569.213,
+    "end": 574.137,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "So if you can't find anything that still needs doing, then you must really have done it all.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_86",
+    "start": 575.379,
+    "end": 575.639,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "Yeah.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_87",
+    "start": 577.581,
+    "end": 589.032,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I feel very, how do you say, happy that, that I think that, which is, which is, besides the practice, which all of, which owns all of us,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_88",
+    "start": 589.822,
+    "end": 593.063,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think that what you call material work, I think everything is done.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_89",
+    "start": 594.244,
+    "end": 596.584,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that's why I'm very happy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_90",
+    "start": 597.825,
+    "end": 600.746,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "Do you think that you will spend time traveling?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_91",
+    "start": 601.286,
+    "end": 606.348,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "Will you have more time to travel, or do you think you'll stay more in Bhutan and Kathmandu?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_92",
+    "start": 608.769,
+    "end": 614.831,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think that, of course, still, number one priority is to serve Yangtze rinpoche if he needs.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_93",
+    "start": 616.349,
+    "end": 619.59,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "whatever he needs in his unfolding, his activating.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_94",
+    "start": 620.57,
+    "end": 623.951,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then second, I would like to do some retreat.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_95",
+    "start": 624.751,
+    "end": 629.512,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And since I've been traveling so much, I don't think right away I can do very strict retreat.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_96",
+    "start": 629.612,
+    "end": 630.712,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I'm a bit spoiled.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_97",
+    "start": 631.873,
+    "end": 634.753,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But I try to put a little bit practice.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_98",
+    "start": 635.434,
+    "end": 637.634,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then of course, relax a little bit.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_99",
+    "start": 638.234,
+    "end": 640.475,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_100",
+    "start": 640.555,
+    "end": 641.135,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "Many of",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_101",
+    "start": 642.34,
+    "end": 664.998,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "Trungpa Rinpoche senior students are very excited about this event but not all of them will be able to attend the visit and they will be looking for news and I wonder if you would have anything to say to Trungpa Rinpoche students if you have this opportunity to say anything to to his students what you might say any advice",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_102",
+    "start": 668.55,
+    "end": 678.115,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I always feel, you know, like being a Khyentse Rinpoche student, you feel, how do you say, very easy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_103",
+    "start": 678.675,
+    "end": 684.718,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Wherever you go, most of the Dhamma centers, somehow you feel at home.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_104",
+    "start": 684.958,
+    "end": 687.539,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "That is like one of Khyentse Rinpoche's special qualities.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_105",
+    "start": 688.599,
+    "end": 696.063,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think when we visit from, let's say, from Dodong to here, the Khyentse Rinpoche Center, everything is different.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_106",
+    "start": 697.96,
+    "end": 702.125,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Doton they have their own way of doing Dharma activities.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_107",
+    "start": 702.585,
+    "end": 703.366,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Totally different.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_108",
+    "start": 704.027,
+    "end": 705.769,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Not so much showing out the emotion.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_109",
+    "start": 707.371,
+    "end": 714.139,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But still they are very much connected to Khyentse Rinpoche and I could see their love and everything towards Khyentse Rinpoche but totally different.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_110",
+    "start": 714.92,
+    "end": 715.941,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then next is Lera Rin.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_111",
+    "start": 718.043,
+    "end": 726.253,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Again I could see that Jagarabhusha's devotion, his love is no different, but again totally different.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_112",
+    "start": 727.374,
+    "end": 733.521,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Very exciting, even the pujas and everything, very exciting, very entertaining.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_113",
+    "start": 736.624,
+    "end": 738.926,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I don't know exactly where, but very, very fast.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_114",
+    "start": 738.986,
+    "end": 746.429,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then when he went to Rinpoche, again, same thing I could see, like, his really love and his devotion to Khyentse Rinpoche is very, very strong.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_115",
+    "start": 746.989,
+    "end": 748.61,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But again, it's totally different.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_116",
+    "start": 748.73,
+    "end": 752.292,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Here I found very emotional, connected with Khyentse Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_117",
+    "start": 752.952,
+    "end": 758.295,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So this, I think that Khyentse Rinpoche's specialty is that all his heart-sons or all his disciples",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_118",
+    "start": 759.135,
+    "end": 762.538,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's not like, I don't know, the McDonald's, everything is not identical.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_119",
+    "start": 762.718,
+    "end": 769.823,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "He would guide them, he would help them, he would give them love, but he would let them grow in their own way.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_120",
+    "start": 771.945,
+    "end": 772.245,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Isn't it?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_121",
+    "start": 772.885,
+    "end": 778.309,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's not all identical, but everybody is doing different in their own fault.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_122",
+    "start": 778.43,
+    "end": 780.811,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I mean, let them grow by themselves.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_123",
+    "start": 782.074,
+    "end": 786.939,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "unfold the activities in their way, but yet they still connect to Khyentse Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_124",
+    "start": 788.601,
+    "end": 789.182,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Does it make sense?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_125",
+    "start": 789.222,
+    "end": 790.723,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "Yes, yes, yes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_126",
+    "start": 791.004,
+    "end": 795.408,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So same thing with the student of Trungpa Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_127",
+    "start": 795.969,
+    "end": 799.793,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I feel this connection with Khyentse Rinpoche from their own way.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_128",
+    "start": 800.514,
+    "end": 802.116,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It doesn't have to be totally same.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_129",
+    "start": 803.797,
+    "end": 806.598,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "which is a very unique tradition and style.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_130",
+    "start": 807.419,
+    "end": 811.04,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And still, I could feel this strong connection with the Khyentse Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_131",
+    "start": 811.1,
+    "end": 814.482,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I feel it's still one family, but in a different style.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_132",
+    "start": 815.763,
+    "end": 816.963,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Organizer",
+    "text": "We noticed yesterday how",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_133",
+    "start": 820.529,
+    "end": 841.419,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "exuberant you were when we sang the anthem and i think that meant a lot to a lot of people to feel that family connection and still i always feel very strong connection with jayam trombone because i know how much he loved him and how much stronger connection is but yesterday i thought it was a little bit like flashback yeah that was wonderful",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  }
+]

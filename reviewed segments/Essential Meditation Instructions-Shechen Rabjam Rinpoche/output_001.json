@@ -1,0 +1,1452 @@
+[
+  {
+    "segment_id": "SRR_001_0",
+    "start": 3.453,
+    "end": 10.277,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "When we first came with the ropes, walking around in New York, more people think we are Hare Krishna.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_1",
+    "start": 12.398,
+    "end": 20.804,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And when Khyentse Rinpoche was coming out, I remember the immigration officer says, look, big Hare Krishna is coming.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_2",
+    "start": 21.604,
+    "end": 25.226,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So those days, Buddha Dharma not well known, not much known in the West.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_3",
+    "start": 26.627,
+    "end": 29.429,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And now maybe the Hare Krishna people might say, oh, Buddhist monk.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_4",
+    "start": 31.593,
+    "end": 33.514,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So like that, so gradually.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_5",
+    "start": 33.854,
+    "end": 44.18,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "In those days, of course, many of the senior students, you might remember that many kind of people looking for some kind of Asian, exotic, you know, things like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_6",
+    "start": 44.28,
+    "end": 51.684,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And many students are hippies, don't want to do much, looking for some kind of, I don't know, levitation or something like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_7",
+    "start": 51.804,
+    "end": 52.825,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that's how it started.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_8",
+    "start": 52.905,
+    "end": 58.008,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And masters, our senior masters really work hard, really work hard.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_9",
+    "start": 60.129,
+    "end": 61.51,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "to bring the Dharma in.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_10",
+    "start": 62.611,
+    "end": 75.259,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I was joking with my friend, one of the Rinpoche who came around the same time of Chögyam Trungpa Rinpoche and those Chime Rinpoche, I said, those days you have advantage and disadvantage.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_11",
+    "start": 75.399,
+    "end": 80.943,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Disadvantage is you have to teach from zero to the Western students because they really don't know anything.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_12",
+    "start": 82.024,
+    "end": 85.306,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And the advantage is you could have said anything, nobody would have known.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_13",
+    "start": 88.863,
+    "end": 91.784,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And now it's not like that, everybody can Google and then say.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_14",
+    "start": 94.485,
+    "end": 105.808,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So like that, now I think dharma is in the West for a long time and I think that really the Buddha dharma is not just kind of superficial, many of the students really serious.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_15",
+    "start": 107.348,
+    "end": 114.59,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So many of you really I think this kind of four changes, the purpose, giving way to give meaning to life,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_16",
+    "start": 115.327,
+    "end": 121.768,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "really is rooted into your heart, and then now we already have second, third generation Buddhist followers.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_17",
+    "start": 123.888,
+    "end": 144.312,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then mind teaching is given to sometimes some people who would ask, who don't, who like, too old to go through the nyondros, or too, how do you say, did long time retreat, and then like, now they want kind of final advice,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_18",
+    "start": 146.03,
+    "end": 149.352,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "from teacher, then they would ask just simple mind teaching like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_19",
+    "start": 150.954,
+    "end": 157.98,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then teacher would say a few words and then the student would go and practice, come back.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_20",
+    "start": 159.46,
+    "end": 162.743,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "report and again like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_21",
+    "start": 164.304,
+    "end": 168.547,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Again a few words and go and practice and come back and report.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_22",
+    "start": 170.549,
+    "end": 187.703,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that's how normally taught the mind teaching and it is also the introduction to the mind is not really kind of hidden somewhere that only give to some students.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_23",
+    "start": 188.747,
+    "end": 203.727,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "The teaching is always there in the teachings, even like there are certain texts that we recite, Guru Rinpoche's Sondep aspiration, supplication prayer.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_24",
+    "start": 205.001,
+    "end": 215.653,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And there's a very, very clearly mentioned this kind of practice, but only sometimes then we sort of just read it through, we don't really pay attention, or maybe we are not ready to understand.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_25",
+    "start": 216.654,
+    "end": 224.562,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Like example in the seven branch, seven chapter Guru Rinpoche prayer,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_26",
+    "start": 230.453,
+    "end": 236.259,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So whatever appearance appears, just let it appear without clinging to it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_27",
+    "start": 236.959,
+    "end": 240.262,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Let it subside.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_28",
+    "start": 240.622,
+    "end": 242.324,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So this prayer is always there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_29",
+    "start": 243.065,
+    "end": 247.829,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And also many of you receive the empowerment during the fourth empowerment.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_30",
+    "start": 248.209,
+    "end": 251.571,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "There's always introduction to the mind, always there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_31",
+    "start": 252.211,
+    "end": 271.12,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think this is not something that it is only given to some people, it's always given, but I think the special kind of what we call the peace instruction or whatever, when the time is right, and I think master says a few things and then you somehow",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_32",
+    "start": 272.341,
+    "end": 274.206,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "actualize or get it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_33",
+    "start": 274.627,
+    "end": 279.178,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "There are some stories again with the Patrul Rinpoche, connected with Patrul Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_34",
+    "start": 280.142,
+    "end": 289.19,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "that some incidents that Patrul Rinpoche's teacher, he sort of hit him on the head and call him a mad dog and then that sort of wake him up.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_35",
+    "start": 291.652,
+    "end": 295.315,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Not always hitting, some other cases no hitting also.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_36",
+    "start": 297.397,
+    "end": 306.225,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Patrul Rinpoche and his student Nyoshulungtok, sitting in the meadow of Dzogchen, near this snow mountain.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_37",
+    "start": 307.545,
+    "end": 313.506,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And Patrul Rinpoche, I think it must be in the evening, he said, can you see the stars in the sky?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_38",
+    "start": 314.466,
+    "end": 315.567,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then his students, yes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_39",
+    "start": 317.307,
+    "end": 320.008,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Can you hear the dogs barking in the village?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_40",
+    "start": 320.968,
+    "end": 321.988,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Students says yes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_41",
+    "start": 323.068,
+    "end": 324.668,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So what is the nature of your mind?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_42",
+    "start": 326.109,
+    "end": 327.649,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And that's all it takes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_43",
+    "start": 329.509,
+    "end": 332.09,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think a lot of maturation, maturation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_44",
+    "start": 333.842,
+    "end": 337.104,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "preparation, preparation, maturation, I think.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_45",
+    "start": 337.984,
+    "end": 343.107,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then we will kind of actualize or realize this kind of thing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_46",
+    "start": 344.048,
+    "end": 349.271,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So speaking too much I think doesn't really make much difference.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_47",
+    "start": 349.311,
+    "end": 352.652,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's like maybe I'm telling you how to ride a bicycle.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_48",
+    "start": 352.672,
+    "end": 357.655,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So here in the poem that Khyentse Rinpoche wrote,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_49",
+    "start": 367.857,
+    "end": 374.701,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So here I will ask Sean to translate so if I make a mistake I can blame him.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_50",
+    "start": 392.648,
+    "end": 397.469,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "When we think of the human experience, we are a composite of body, mind and speech running between the two.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_51",
+    "start": 418.218,
+    "end": 423.419,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "From within these three, body, speech and mind, mind is the most important.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_52",
+    "start": 424.419,
+    "end": 430.781,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "And with regard to subduing of the mind or the subjugation of the unruly emotions and thoughts etc.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_53",
+    "start": 430.821,
+    "end": 435.242,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "that run wild in our mind, the Buddha gave numerous teachings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_54",
+    "start": 441.797,
+    "end": 443.479,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "If you don't want to do it, don't do it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_55",
+    "start": 443.539,
+    "end": 444.84,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "If you want to do it, don't do it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_56",
+    "start": 444.9,
+    "end": 447.042,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "If you don't want to do it, don't do it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_57",
+    "start": 447.102,
+    "end": 448.764,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "If you want to do it, don't do it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_58",
+    "start": 448.804,
+    "end": 450.245,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "If you don't want to do it, don't do it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_59",
+    "start": 465.74,
+    "end": 476.953,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "So as I mentioned, the Buddha gave innumerable teachings, all of which have the sole purpose of subduing or subjugating the unruly mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_60",
+    "start": 478.852,
+    "end": 493.341,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Now, if one were to kind of put all of these together or to combine all of these in a very simple way, then one shouldn't look outside of oneself for a method or a means, independence upon which one can subdue the mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_61",
+    "start": 493.421,
+    "end": 495.863,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Rather, one should look within oneself.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_62",
+    "start": 496.884,
+    "end": 506.47,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "So here then, the first line of the poem reads, when mind is watching mind, as such, rather than looking outside of oneself, one must choose to look within.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_63",
+    "start": 507.694,
+    "end": 514.619,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "One will find then that mind and the one who is supposedly watching mind are not separate, rather they are one and the same.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_64",
+    "start": 515.92,
+    "end": 518.622,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So when one kind of looks within,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_65",
+    "start": 538.937,
+    "end": 541.918,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Then, looking at the mind, there is nothing to see.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_66",
+    "start": 543.078,
+    "end": 543.958,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "It is vividly clear.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_67",
+    "start": 545.118,
+    "end": 553.5,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "So when one tries to look at mind, there is nothing, there is no color, neither is there a shape upon which to focus.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_68",
+    "start": 554.14,
+    "end": 557.121,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Rather, when mind is watching mind, there is nothing to see.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_69",
+    "start": 558.121,
+    "end": 561.942,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "But it isn't that there is something obscured or that there is something hidden away.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_70",
+    "start": 562.122,
+    "end": 566.183,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Rather, the nature of one's mind is something that is vividly clear.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_71",
+    "start": 567.938,
+    "end": 575.582,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "In Tibetan, there is a saying that if you don't know how to be a good person, you can't be a good person.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_72",
+    "start": 589.053,
+    "end": 589.954,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "So how to do that?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_73",
+    "start": 590.715,
+    "end": 596.362,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "How to then kind of rest within the nature of mind and see then this natural luminosity of mind?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_74",
+    "start": 597.163,
+    "end": 603.41,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "We were advised then in the third line that one should rest naturally and how should that rest occur?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_75",
+    "start": 603.971,
+    "end": 605.312,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "It should be uncontrived.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_76",
+    "start": 605.953,
+    "end": 614.237,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Here then, one shouldn't confuse oneself, nor should one kind of stir up the mind, but rather one should simply allow things to settle.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_77",
+    "start": 614.797,
+    "end": 623.601,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "One shouldn't give rise to an emotion, neither should one give rise to a chain of thoughts, but rather remain without contriving the mind, free and at ease.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_78",
+    "start": 636.337,
+    "end": 645.339,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "As such, when one allows thought to rest naturally and everything becomes still, becomes quiet then, one should be alert.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_79",
+    "start": 646.24,
+    "end": 663.184,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "If distraction occurs, if one becomes distracted, if thought arises that would ruin one's meditation, one should recognize that and simply let it go and remain, as is written here, resting naturally and without distraction.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_80",
+    "start": 665.782,
+    "end": 671.061,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think when we do this kind of looking into your mind,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_81",
+    "start": 672.118,
+    "end": 677.781,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think first thing I think we have to forget about all the intellectual understanding of what is mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_82",
+    "start": 678.722,
+    "end": 682.003,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Or philosophical ideas that we have put into our brain.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_83",
+    "start": 682.544,
+    "end": 687.006,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Or even scientific ideas of how the brain and all the cells work.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_84",
+    "start": 687.706,
+    "end": 693.97,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So because this thing, this intellectual understanding can affect the actual understanding of the mind, I think.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_85",
+    "start": 694.57,
+    "end": 699.953,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So therefore you should be a little bit like a young child or forget all these things.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_86",
+    "start": 701.642,
+    "end": 710.468,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I didn't realize, but I was told by Chabji Thimken Rinpoche to get the mind instruction from his son, his 16th Karmapa.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_87",
+    "start": 711.669,
+    "end": 715.472,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And I was only about seven years old, or seven or six years old.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_88",
+    "start": 716.473,
+    "end": 724.439,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And they would sit next to each other, and then Karmapa would tell me, okay, tomorrow you have to tell me what your minds look like.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_89",
+    "start": 725.619,
+    "end": 730.403,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then I go and think all night, oh, my mind is like a mountain.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_90",
+    "start": 731.733,
+    "end": 733.575,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I go back and I report next day.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_91",
+    "start": 734.155,
+    "end": 735.756,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And both of them, ah, ha, ha, ha.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_92",
+    "start": 739.259,
+    "end": 743.262,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, they're sort of waiting for my next reply.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_93",
+    "start": 744.463,
+    "end": 746.465,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Every time I come with very strange ideas.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_94",
+    "start": 748.306,
+    "end": 752.149,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think, like child's mind, we don't have so much concept.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_95",
+    "start": 753.11,
+    "end": 754.511,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Sort of just pure.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_96",
+    "start": 755.391,
+    "end": 756.492,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then look, look back.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_97",
+    "start": 762.49,
+    "end": 774.32,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "SHARVE SHILA, SHARVE SHILA MATIPAR, CHUNG NA SHARGYEN THEGALE, NAMDOG CHOK SHARWA THI NAMDOG THI, THA THEN GOM CHENG NAMDOG THANGWA SHARWA THA, THEN NGON ZIN THUG WUG WUG YORIS.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_98",
+    "start": 778.377,
+    "end": 785.201,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Whatever thought occurs from that state, without stopping or analyzing, watch its very nature.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_99",
+    "start": 786.161,
+    "end": 789.003,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Its arising doesn't obscure the absolute nature.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_100",
+    "start": 789.863,
+    "end": 792.824,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Whatever occurs, relax right there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_101",
+    "start": 794.145,
+    "end": 810.43,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Here then, when we are trying to remain within the natural state, the uncontrived natural state, then if thought occurs, if emotion erupts, if you will, at that time it is imperative to initially recognize that thought occurrence.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_102",
+    "start": 821.943,
+    "end": 828.85,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "When the thought arises, as you read in the second line, one shouldn't stop it, neither should one analyze it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_103",
+    "start": 829.651,
+    "end": 832.954,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Rather, when the thought arises, one should recognize it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_104",
+    "start": 833.735,
+    "end": 837.499,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Recognizing the thought then, one should turn one's attention towards its nature.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_105",
+    "start": 838.38,
+    "end": 843.362,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "And as such, relax or rest then within the empty nature of mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_106",
+    "start": 843.462,
+    "end": 847.563,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "As such, without stopping or analysing, watch the thought's very nature.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_107",
+    "start": 869.241,
+    "end": 879.409,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "So the arising of thought within the experience of resting within the uncontrived nature then, the arising of thought doesn't obscure the absolute nature of mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_108",
+    "start": 880.95,
+    "end": 882.892,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "By recognizing thought,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_109",
+    "start": 884.871,
+    "end": 900.625,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "looking into its nature then, whatever occurs, whatever thought manifests, whatever emotion it might be, recognizing the nature of that thought or emotion then, one should simply relax into its nature and naturally the thought will subside.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_110",
+    "start": 901.946,
+    "end": 908.411,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, quite often Khyentse Rinpoche used to give example of throwing stone at the dog.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_111",
+    "start": 908.751,
+    "end": 912.373,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "If you throw a stone at a dog, then dog will chase the stone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_112",
+    "start": 913.114,
+    "end": 916.816,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So when dog chases a stone, you can throw many more stones at the dog.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_113",
+    "start": 918.337,
+    "end": 922.44,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then if you throw a stone at a lion, the lion will look back at you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_114",
+    "start": 923.741,
+    "end": 925.482,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then you cannot throw the second stone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_115",
+    "start": 926.843,
+    "end": 936.909,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So like that, I think when one thought arises, if you follow the thought, then one thought will chain reaction, lead to another thought, like many, many thoughts.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_116",
+    "start": 937.65,
+    "end": 944.074,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So when the one thought, like one stone to the lion, the lion look back, and then the thought will sort of dissolve, disappear.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_117",
+    "start": 946.275,
+    "end": 946.496,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_118",
+    "start": 950.844,
+    "end": 953.665,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Don't follow thoughts about the past.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_119",
+    "start": 954.346,
+    "end": 957.107,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Don't anticipate thoughts about the future.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_120",
+    "start": 980.424,
+    "end": 982.627,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "directly transcend the external world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_121",
+    "start": 983.768,
+    "end": 985.851,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "That is called the four parts without three.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_122",
+    "start": 990.282,
+    "end": 997.985,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "As such, one shouldn't dwell in the past, thinking about things that one has done in whatever form that may take.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_123",
+    "start": 998.965,
+    "end": 1009.169,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Similarly then, one shouldn't anticipate the future, thinking about making too many plans and reflecting on what one should or shouldn't do at a particular time in the future, etc.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_124",
+    "start": 1009.849,
+    "end": 1011.55,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "One is advised to avoid these two.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_125",
+    "start": 1015.452,
+    "end": 1022.782,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "In this way, you will be able to get rid of all the negative karma, and you will be able to get rid of all the negative karma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_126",
+    "start": 1031.902,
+    "end": 1034.824,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "and to then directly transcend the external world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_127",
+    "start": 1035.504,
+    "end": 1045.751,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "So here when we reflect using the three times, we've spoken about not dwelling in the past and similarly then about anticipating the future.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_128",
+    "start": 1046.872,
+    "end": 1053.336,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Directly transcending the external world means to not become involved in that which is in front of us at the very moment.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_129",
+    "start": 1054.714,
+    "end": 1055.894,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "in any given time.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_130",
+    "start": 1055.914,
+    "end": 1060.736,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "As such, we think about overcoming the thoughts of the three times.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_131",
+    "start": 1061.236,
+    "end": 1063.697,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "This then is the fourth part without three.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_132",
+    "start": 1086.142,
+    "end": 1093.833,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "If you maintain the recognition of thoughts, you will feel that they do not truly begin, remain or end.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_133",
+    "start": 1094.875,
+    "end": 1098.199,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Though you notice them, they have no effect on your true nature.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_134",
+    "start": 1099.321,
+    "end": 1102.005,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "That is the bare natural state, the way it is.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_135",
+    "start": 1103.483,
+    "end": 1113.085,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "As such, when we think about the recognition of thoughts, here then, it's essential that we recognize the kind of empty nature of thoughts.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_136",
+    "start": 1113.205,
+    "end": 1119.427,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "As such, really when we look at a thought, it doesn't truly begin or come into existence.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_137",
+    "start": 1131.892,
+    "end": 1134.175,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "If you don't do this, you won't be able to do this.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_138",
+    "start": 1138.597,
+    "end": 1148.444,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "So, for example, if we take a crystal and we put it in sunlight, for example, then almost instantaneously rainbow colors will reflect from the stone.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_139",
+    "start": 1149.645,
+    "end": 1158.591,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "Similarly, then, when we think about a mind, when it is put before various objects, etc., it is almost as if instantaneously thoughts arise.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_140",
+    "start": 1159.132,
+    "end": 1163.235,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "However, when the condition for their arisal, in the example of the crystal, the light,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_141",
+    "start": 1163.935,
+    "end": 1169.397,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "is absent, the rainbow-colored light is naturally absent as well.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_142",
+    "start": 1169.477,
+    "end": 1180.3,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "So similarly when the object that gives rise, or the idea to give rise to a continuity of thought is missing, then it is as if the thought was never there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_143",
+    "start": 1180.56,
+    "end": 1184.141,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Other guru",
+    "text": "It's not an inherent or integral part of the nature of one's mind.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_144",
+    "start": 1192.239,
+    "end": 1197.417,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "DANG PO TZAM NI CHE MA NYONG BA YIN DI KHAO SOG DE NI THAR MA CHE BA JI NGAG BAR BYA MA YIN DUY NGAG PA ME BA.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  }
+]

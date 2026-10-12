@@ -1,0 +1,1102 @@
+[
+  {
+    "segment_id": "SRR_001_0",
+    "start": 2.332,
+    "end": 10.921,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Welcome to Prajna Cafe, a space where East meets West and we discuss on the challenges of authentic spiritual traditions in the modern world.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_1",
+    "start": 12.042,
+    "end": 19.63,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "This is a haven of discussion in the form of a podcast where we share our ideas on Buddhism in the modern world with fellow Buddhist practitioners.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_2",
+    "start": 20.797,
+    "end": 28.039,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I'm your host, Orguyen, and today we're welcoming our first special guest, who many of you met just a few weeks ago in L'Arabli.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_3",
+    "start": 28.659,
+    "end": 37.602,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So today we're joined with Tashi Tsepal, who is the head of the Nygma lineage of Tibetan Buddhism.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_4",
+    "start": 39.123,
+    "end": 45.885,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And we don't have much time today, so we'll make some quick questions and we'll see.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_5",
+    "start": 47.305,
+    "end": 51.669,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So right now you're giving the whole cycle of the Ning-Tik-Tsape in the South of France.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_6",
+    "start": 53.69,
+    "end": 57.513,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And there's this quote from Dzongsar Khyentse Rinpoche.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_7",
+    "start": 57.553,
+    "end": 60.315,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "He often says, Vajrayana is custom made for the West.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_8",
+    "start": 61.536,
+    "end": 70.583,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So I wanted to know a little bit about your opinion, if it's so appropriate Vajrayana for the West and how do you see the Volvo also?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_9",
+    "start": 73.217,
+    "end": 77.922,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, thank you for having an opportunity to talk with you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_10",
+    "start": 81.105,
+    "end": 85.29,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "As you know, I didn't travel that much in the West.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_11",
+    "start": 87.252,
+    "end": 93.198,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "As you know, I spent most of the time with the ChabjeDilgo KhyentseRinpoche, but when you travel, I went around.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_12",
+    "start": 93.978,
+    "end": 98.36,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But I never went as an independent teacher giving teaching in the West.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_13",
+    "start": 100.301,
+    "end": 107.565,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Now, since a few years I've been traveling a little bit, so I get to know West a little bit.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_14",
+    "start": 109.806,
+    "end": 110.347,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "What I see in the",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_15",
+    "start": 113.008,
+    "end": 124.715,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "In the past, let's say, maybe 40 years, because when I first came to West West, with everything which is Rinpoche, that is 1970s, something like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_16",
+    "start": 124.775,
+    "end": 125.835,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I was only 8 years old.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_17",
+    "start": 127.056,
+    "end": 128.917,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I was just accompanying him.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_18",
+    "start": 129.017,
+    "end": 130.898,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "He was so kind to take me wherever he goes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_19",
+    "start": 132.359,
+    "end": 146.75,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I see the audience at that time were a lot of the kind of hippies and then people who are looking for some kind of exotic Asian kind of things like that, you know.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_20",
+    "start": 149,
+    "end": 152.303,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But also a lot of serious people also at that time.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_21",
+    "start": 152.943,
+    "end": 155.945,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Some of them are still alive now, very good practitioner.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_22",
+    "start": 156.846,
+    "end": 162.21,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But I've seen general audience, I've seen the changes this past many years.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_23",
+    "start": 163.311,
+    "end": 172.218,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And I was also thinking like today, you know, some of the Rinpoche, they sort of live their second home in India and come and settle in the West.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_24",
+    "start": 173.178,
+    "end": 175.02,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And they're teaching, teaching, teaching, teaching.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_25",
+    "start": 176.161,
+    "end": 187.732,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, I think they have really managed to kind of really, I think we can say the root, not only Buddhism but especially Tibetan Vajrayana Buddhism kind of rooted in the West.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_26",
+    "start": 191.195,
+    "end": 194.679,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I mean like, here we have more than 800 people attending.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_27",
+    "start": 195.16,
+    "end": 197.923,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "For the whole Sangha, this is almost unbelievable.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_28",
+    "start": 199.044,
+    "end": 203.91,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "If you think back like 25 years ago, or maybe 30 years ago, it's almost unbelievable.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_29",
+    "start": 203.97,
+    "end": 209.316,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Even someone like Travjitthi Mujhinsa Rinpoche, a great master like Karmapa, not that many people there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_30",
+    "start": 210.397,
+    "end": 227.127,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that we can see the change and also among the audience, a lot of intellectuals, you know, the background Western intellectuals, like scientists, doctors, engineers, and then also like yourself, a lot of young people.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_31",
+    "start": 227.167,
+    "end": 228.468,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So this is very encouraging.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_32",
+    "start": 229.609,
+    "end": 237.874,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think there must be some reason for those students to say it's a custom made for West.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_33",
+    "start": 237.954,
+    "end": 238.174,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_34",
+    "start": 238.474,
+    "end": 238.714,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yes.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_35",
+    "start": 240.633,
+    "end": 251.219,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So yes, to elaborate a little bit on that also, if we go into Vajrayana and skillful means, maybe how would you translate that?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_36",
+    "start": 252.76,
+    "end": 257.002,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "It's always hard to translate Tibetan terms into English terms and what they mean.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_37",
+    "start": 258.383,
+    "end": 262.546,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And what do you think it means for Westerners, or for you maybe?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_38",
+    "start": 269.123,
+    "end": 279.106,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Generally, what I think, generally in Buddhism, it's really like I said the other day, it doesn't have an expiry date.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_39",
+    "start": 280.386,
+    "end": 289.229,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It is made for sentient beings as long as we have suffering due to our negative emotions.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_40",
+    "start": 289.849,
+    "end": 291.63,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So it is to deal with negative emotions.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_41",
+    "start": 292.69,
+    "end": 311.148,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So, as we have so many different mindsets, each one has almost different kinds of mindsets, so therefore there are so many varieties of teachings from Hinayana, Mahayana, Vajrayana, depends on up to their different faculties.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_42",
+    "start": 313.408,
+    "end": 340.334,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think the Buddhism is always kind of relevant to whatever century we live in, or whatever we call these days, Gen Z, or Gen Millennium, or Gen Alpha, Gen Beta, even future Gen Betas will also benefit from this teaching.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_43",
+    "start": 341.674,
+    "end": 359.849,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "The most important thing is that the main teaching, the main kind of the message should not be lost in kind of modernizing or so-called modernizing or new age, all this kind of thing.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_44",
+    "start": 360.509,
+    "end": 374.061,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Of course we can, these things can be like a door, but when it really comes to the practice then I think, I don't know, that's my view, it's like, I think it's important to keep it to the real tradition.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_45",
+    "start": 376.69,
+    "end": 389.1,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "So maybe to bounce on that, would you have some hard advice to give maybe on aspiring Vajrayana practitioners or people who knew on the past or even older people on the past?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_46",
+    "start": 389.58,
+    "end": 391.702,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "How do they keep it authentic?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_47",
+    "start": 391.742,
+    "end": 395.004,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "How do any message you'd like to maybe share?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_48",
+    "start": 401.533,
+    "end": 417.94,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think, like I say, it has to be a little bit better when teachers or students, both sides, have to see exactly what teaching is that really fits your kind of mindset.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_49",
+    "start": 417.98,
+    "end": 426.044,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Sometimes, even someone who cannot really accept Vajrayana, suddenly jump into Vajrayana, then they could have wrong views and misunderstandings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_50",
+    "start": 426.985,
+    "end": 433.29,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then some people are ready to practice a very open mind and ready to practice Vajrayana, but it doesn't get the opportunity.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_51",
+    "start": 434.21,
+    "end": 439.835,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think very importantly is that to see that, like I mentioned, the Buddhism is very vast.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_52",
+    "start": 439.975,
+    "end": 441.977,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "There are so many different methods, so many teachings.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_53",
+    "start": 442.657,
+    "end": 446.06,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So we have to try to see which one really fits your mindset.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_54",
+    "start": 446.881,
+    "end": 451.064,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And then once we get into it, then we have to go all the way.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_55",
+    "start": 452.75,
+    "end": 454.091,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that's what I feel.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_56",
+    "start": 457.374,
+    "end": 459.576,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I don't know whether that answers your question or not.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_57",
+    "start": 460.637,
+    "end": 463.759,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Sorry, we didn't prepare the questions.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_58",
+    "start": 463.879,
+    "end": 470.165,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But maybe one last one would be that you often talk about dual-consumption, of course.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_59",
+    "start": 472.026,
+    "end": 476.23,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And you love showing stories about this great master.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_60",
+    "start": 477.07,
+    "end": 479.292,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And maybe has he ever told you anything about",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_61",
+    "start": 482.255,
+    "end": 493.411,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "I mean is there any story you'd like to share but also did he ever tell you about how he sees Dharma kind of evolving and how you know we have to also keep that grounded in some way.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_62",
+    "start": 495.926,
+    "end": 505.351,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Yeah, I still always feel that even now it's like 40 years, more than 40 years since he passed away.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_63",
+    "start": 506.272,
+    "end": 510.094,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I still feel so lucky, I was so lucky to be able to be with him.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_64",
+    "start": 511.415,
+    "end": 513.016,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Because in him, the whole Dharma is there.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_65",
+    "start": 515.437,
+    "end": 524.404,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Just being with him, even if he doesn't speak, just being with him and his life, it is the kind of perfect example of Dharma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_66",
+    "start": 525.245,
+    "end": 529.148,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Example, the way he looks at the situations.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_67",
+    "start": 530.328,
+    "end": 534.832,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And no matter what situation, he is always, I think the simple language, we can always come.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_68",
+    "start": 536.752,
+    "end": 542.313,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Even at one point we were travelling in a helicopter and there was a bad weather and the plane was shaking.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_69",
+    "start": 542.393,
+    "end": 547.014,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Even the pilot's face was kind of nervous and I'm chicken, I'm so scared.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_70",
+    "start": 547.495,
+    "end": 551.035,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "But he was just smiling and reciting his mantra and looking at us.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_71",
+    "start": 551.535,
+    "end": 555.996,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "He's sort of more worried about we getting worried and he was not worried.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_72",
+    "start": 557.036,
+    "end": 557.657,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Things like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_73",
+    "start": 557.757,
+    "end": 564.878,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And also, so that kind of shows that the freedom, the freedom inside and these things being with him really inspires.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_74",
+    "start": 566.681,
+    "end": 573.312,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And Khyentse Rinpoche really cared so much about Dharma, you know, after he left.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_75",
+    "start": 573.733,
+    "end": 578.521,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Actually this little bit long story, but I think when he left Tibet, he felt",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_76",
+    "start": 580.827,
+    "end": 596.615,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "kind of a little bit of hopelessness, kind of, because many masters couldn't make it out, and there are many books that have been lost, the teachings within, especially when you heard Jamaican's past, that was really, really hard for him, I think.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_77",
+    "start": 598.816,
+    "end": 615.282,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then, when he went back to seek him, and he met somebody who was very close to Jamyang Khyentse Chokyi Lodroe, and that person was told the story when he met Jamyang Khyentse Chokyi Lodroe before he passed away.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_78",
+    "start": 616.542,
+    "end": 620.663,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So this person went to see Jamyang Khyentse Chokyi Lodroe, and Chokyi Lodroe was bedridden.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_79",
+    "start": 621.764,
+    "end": 625.585,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think it was his last kind of bedridden, and then he cried in front of him.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_80",
+    "start": 626.445,
+    "end": 628.547,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And Chokyi Lodroe just sort of got up and said, why are you crying?",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_81",
+    "start": 628.907,
+    "end": 631.288,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And he said, well, now this is the end of it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_82",
+    "start": 631.388,
+    "end": 634.17,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "You know, you are in very bad situation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_83",
+    "start": 634.19,
+    "end": 641.235,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I mean, you are like passing into Paranirvana and many Lamas couldn't make it and we lost, I think this is the end of the Dharma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_84",
+    "start": 642.595,
+    "end": 645.597,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "And Chokyi Lodroe just sort of pulled himself up and he said, don't worry.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_85",
+    "start": 645.858,
+    "end": 647.459,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I heard Dingu Chen said, made it to Bhutan.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_86",
+    "start": 648.159,
+    "end": 649.1,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "He will take care of it.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_87",
+    "start": 650.22,
+    "end": 656.167,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So when this story was told to Khyentse Rinpoche by this gentleman, he said, before Khyentse should have passed away, I hid this story.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_88",
+    "start": 656.608,
+    "end": 659.951,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Then Khyentse Rinpoche sort of regored in courage, I think.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_89",
+    "start": 660.051,
+    "end": 662.414,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I felt, oh, my guru really entrusted me.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_90",
+    "start": 662.834,
+    "end": 663.815,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I must do something.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_91",
+    "start": 664.396,
+    "end": 668.34,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So from there onwards, he non-stop teaching and wherever he was invited,",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_92",
+    "start": 669.181,
+    "end": 671.144,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Actually he never said no to any teaching.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_93",
+    "start": 672.225,
+    "end": 681.077,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "No matter what time, early morning, late evening, no matter how big the tax is, and no matter how many people there, he always continued giving teaching.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_94",
+    "start": 681.838,
+    "end": 683.921,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So that's how he really cared about Dharma.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_95",
+    "start": 685.688,
+    "end": 686.788,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "A bit like you now.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_96",
+    "start": 688.769,
+    "end": 690.89,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I have to have a massage and I have to relax.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_97",
+    "start": 691.25,
+    "end": 692.01,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "It's not like that.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_98",
+    "start": 694.911,
+    "end": 700.052,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But I didn't know maybe we don't have much time for your next audience.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_99",
+    "start": 700.913,
+    "end": 703.414,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "But thank you so much for sharing a little bit.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_100",
+    "start": 703.994,
+    "end": 705.454,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "We're really grateful to have you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_101",
+    "start": 706.514,
+    "end": 708.315,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "And more the time.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_102",
+    "start": 709.475,
+    "end": 713.957,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Yes, thank you again for the cycle of empowerment and coming on this podcast.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_103",
+    "start": 715.327,
+    "end": 716.008,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Okay, thank you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_104",
+    "start": 716.288,
+    "end": 720.611,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "I think we have to use this modern platform, you know, to encourage people.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_105",
+    "start": 721.371,
+    "end": 732.779,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "Of course, I don't mean to convert people, but you know, make it make it teachings available because there are so many people who really thirst for this kind of teaching, authentic teachings, so they don't get the opportunity.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_106",
+    "start": 732.899,
+    "end": 744.527,
+    "original_speaker": "SPEAKER_01",
+    "verified_speaker": "Rinpochoe",
+    "text": "So I think we are using modern platform and then the young people like yourself really has to work hard to make this teaching valuable and then keep it for the future generation.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_107",
+    "start": 745.37,
+    "end": 746.012,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Yes, definitely.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_108",
+    "start": 746.032,
+    "end": 746.995,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Happy.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  },
+  {
+    "segment_id": "SRR_001_109",
+    "start": 747.296,
+    "end": 747.617,
+    "original_speaker": "SPEAKER_00",
+    "verified_speaker": "Interviewer",
+    "text": "Thank you.",
+    "include_in_corpus": null,
+    "exclusion_reason": null
+  }
+]
