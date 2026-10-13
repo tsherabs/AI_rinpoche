@@ -1,8 +1,10 @@
 {
+  "source_id": "SRR_001", 
   "source": "Ambrosia for the Mind with His Holiness Rabjam Rinpoche",
   "language": "English",
   "duration": "01:06:01",
   "model": "whisper-large-v3",
   "diarization": true, 
-  "url": "https://youtu.be/HFyQ6Ir7Vrk?si=Y3mzNVX2lJK9i_Hx"
+  "url": "https://youtu.be/HFyQ6Ir7Vrk?si=Y3mzNVX2lJK9i_Hx", 
+  "verified": true
 }
