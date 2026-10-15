@@ -39,7 +39,7 @@ for(let i = 0; i < chunks.length; i++){
     pooling: 'cls', 
     normalize: true
     }); 
-
+    
     const vector = Array.from(output.data)
 
     const reviewedChunks = {
