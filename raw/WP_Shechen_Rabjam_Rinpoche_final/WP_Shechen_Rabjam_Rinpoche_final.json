@@ -1,50 +1,6 @@
 {
     "segments": [
         {
-            "start": 4.279,
-            "end": 6.246,
-            "text": " This is the Wisdom Podcast.",
-            "words": [
-                {
-                    "word": "This",
-                    "start": 4.279,
-                    "end": 4.54,
-                    "score": 0.838,
-                    "speaker": "SPEAKER_00"
-                },
-                {
-                    "word": "is",
-                    "start": 4.922,
-                    "end": 5.002,
-                    "score": 0.553,
-                    "speaker": "SPEAKER_00"
-                },
-                {
-                    "word": "the",
-                    "start": 5.042,
-                    "end": 5.142,
-                    "score": 0.715,
-                    "speaker": "SPEAKER_00"
-                },
-                {
-                    "word": "Wisdom",
-                    "start": 5.203,
-                    "end": 5.564,
-                    "score": 0.759,
-                    "speaker": "SPEAKER_00"
-                },
-                {
-                    "word": "Podcast.",
-                    "start": 5.604,
-                    "end": 6.246,
-                    "score": 0.957,
-                    "speaker": "SPEAKER_00"
-                }
-            ],
-            "avg_logprob": -0.12378430739045143,
-            "speaker": "SPEAKER_00"
-        },
-        {
             "start": 12.66,
             "end": 15.802,
             "text": " Khyentse Rinpoche and Kamapa, when they meet, they will spend the whole day together.",

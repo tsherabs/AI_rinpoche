@@ -1,11 +1,11 @@
 {
-  "source_id": "PCP01",
+  "source_id": "SRR_009",
   "source": "SRR 4th Edit -H.264 for Video Podcasting",
   "language": "English",
   "duration": "00:12:30",
   "model": "whisper-small",
   "diarization": true,
-  "speaker_map": {"SPEAKER_00": "Host", "SPEAKER_01": "Rinpoche"}, 
+  "speaker_map": {"SPEAKER_00": "Interviewer", "SPEAKER_01": "Shechen Rabjam Rinpoche"}, 
   "url": "https://prajnaonline.org/compilation/prajna-cafe-podcast-1-with-shechen-rabjam-rinpoche/video/prajna-cafe-podcast-1with-shechen-rabjam-rinpoche",
   "verified": true
 }

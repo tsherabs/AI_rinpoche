@@ -5,6 +5,9 @@
 {
   "type": "object",
   "properties": {
+    "source_id": {
+      "type": "string" 
+    }, 
     "source": {
       "type": "string"
     },
@@ -29,6 +32,13 @@
     }, 
     "verified": {
       "type": "boolean"
+    }
+    "speaker_map":{
+      "type": "object", 
+      "SPEAKER_N": {
+        "type": "string", 
+        "enum": ["Shechen Rabjam Rinpoche", "Translator", "Interviewer"]
+      }
     }
   }
 }

@@ -1,8 +1,11 @@
 {
+  "source_id": "SRR_014",
+  "verified": true,
   "source": "WP_Shechen_Rabjam_Rinpoche_final",
   "language": "English",
   "duration": "00:54:00",
   "model": "whisper-large-v3",
   "diarization": true, 
-  "url": "https://wisdomexperience.org/wisdom-podcast/shechen-rabjam-rinpoche/"
+  "url": "https://wisdomexperience.org/wisdom-podcast/shechen-rabjam-rinpoche/", 
+  "speaker_map": {"SPEAKER_00": "Shechen Rabjam Rinpoche", "SPEAKER_01": "Interviewer"}
 }

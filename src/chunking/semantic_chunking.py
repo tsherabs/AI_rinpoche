@@ -1,14 +1,14 @@
 """
 AI Rinpoche - semantic chunking.
 
-Splits Rinpoche's speech where the topic changes, using sentence embeddings,
-while keeping the same safeguards as make_passages.py:
-  - only segments mapped to "Rinpoche" in source.json -> speaker_map are used
+Splits each speaker's speech where the topic changes, using sentence embeddings:
+  - speaker names come from each source.json -> speaker_map
+  - unmapped speakers remain Unknown, with their original IDs retained
   - chunks never cross a speaker turn (one answer is never mixed with another)
   - timestamps and URL are kept for citation
 
 How it works:
-  1. Each Rinpoche segment becomes a unit (long segments are split into sentences).
+  1. Each segment becomes a unit (long segments are split into sentences).
   2. Each unit is embedded together with its neighbours (a small window smooths noise).
   3. The cosine distance between neighbouring units is computed.
   4. A new chunk starts where the distance is in the top (100 - PERCENTILE)% for that video.
@@ -19,25 +19,29 @@ Install once:
     pip install sentence-transformers numpy
 
 Run from the project root (the folder that contains raw/):
-    python semantic_chunking.py prajna_cafe_podcast      # one video folder
-    python semantic_chunking.py                          # all folders + raw/*.txt
+    python src/chunking/semantic_chunking.py prajna_cafe_podcast
+    python src/chunking/semantic_chunking.py "raw/prajna_cafe_podcast/SRR 4th Edit -H.264 for Video Podcasting.json"
+    python src/chunking/semantic_chunking.py "raw/teaching.txt" --output processed/teaching.jsonl
+    python src/chunking/semantic_chunking.py             # all folders + raw/*.txt
 
-Output: processed/passages_semantic[_<folder>].jsonl
+Input paths may be absolute, relative to the working directory, or relative to
+the repository's raw/ directory. Default output is in src/chunking/processed/.
 """
 
+import argparse
 import json
 import re
-import sys
 from pathlib import Path
 
 import numpy as np
-from sentence_transformers import SentenceTransformer
 
-RAW_DIR = Path("raw")
-OUT_DIR = Path("processed")
+ROOT = Path(__file__).resolve().parents[2]
+RAW_DIR = ROOT / "raw"
+OUT_DIR = Path(__file__).resolve().parent / "processed"
 
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"  # small and fast; units are short
-RINPOCHE = "Rinpoche"
+RINPOCHE_NAMES = {"rinpoche", "shechen rabjam rinpoche"}
+QUESTION_SPEAKERS = {"host", "interviewer"}
 BUFFER = 1              # neighbours on each side combined when embedding a unit
 PERCENTILE = 85         # higher -> fewer, longer chunks; lower -> more, shorter chunks
 MIN_WORDS = 80          # merge chunks smaller than this
@@ -80,8 +84,31 @@ def timestamped_url(url, seconds):
 
 
 def find_transcript(folder):
-    files = [p for p in folder.glob("*.json") if p.name != "source.json"]
+    files = sorted(p for p in folder.glob("*.json") if p.name != "source.json")
     return files[0] if files else None
+
+
+def resolve_input(value):
+    """Accept a file, a full folder path, or the original short raw-folder name."""
+    supplied = Path(value).expanduser()
+    candidates = [supplied] if supplied.is_absolute() else [supplied, ROOT / supplied, RAW_DIR / supplied]
+    for candidate in candidates:
+        if candidate.exists():
+            target = candidate.resolve()
+            if target.name == "source.json":
+                raise ValueError("source.json is metadata; select the transcript JSON beside it.")
+            if target.is_dir() or (target.is_file() and target.suffix.lower() in {".json", ".txt"}):
+                return target
+            raise ValueError(f"Expected a transcript .json, a document .txt, or a source folder: {target}")
+    raise ValueError(f"Input not found: {value}. Supply a path such as raw/<folder>/<transcript>.json.")
+
+
+def source_folder(transcript):
+    """Split recordings can keep their source.json in a parent directory."""
+    for folder in transcript.parents:
+        if (folder / "source.json").is_file():
+            return folder
+    raise ValueError(f"No source.json found beside or above {transcript}.")
 
 
 def load_segments(path):
@@ -180,47 +207,57 @@ def semantic_ranges(units, d, threshold):
 
 # ---------- sources ----------
 
-def video_passages(model, folder, meta):
-    tpath = find_transcript(folder)
+def video_passages(model, folder, meta, transcript_path=None):
+    tpath = transcript_path if transcript_path is not None else find_transcript(folder)
     if not tpath:
         print(f"skip {folder.name}: no transcript JSON")
         return [], 0.0
 
     segs = load_segments(tpath)
-    smap = meta.get("speaker_map") or {}
-    single = not meta.get("diarization") or not smap
-    if not single:
-        unknown = {s["speaker"] for s in segs} - set(smap)
-        if unknown:
-            print(f"  warning {folder.name}: unmapped speakers {sorted(map(str, unknown))} are excluded")
+    smap = meta.get("speaker_map", {})
+    if not isinstance(smap, dict) or any(
+        not isinstance(label, str) or not label.strip() for label in smap.values()
+    ):
+        raise ValueError(f"{folder.name}: speaker_map must map speaker IDs to nonempty names.")
+    unknown = {s["speaker"] for s in segs if s["speaker"] is None or s["speaker"] not in smap}
+    if unknown:
+        print(f"  warning {folder.name}: unmapped speakers {sorted(map(str, unknown))} are labelled Unknown")
     for s in segs:
-        s["speaker"] = RINPOCHE if single else smap.get(s["speaker"], "Unknown")
+        s["original_speaker"] = s["speaker"]
+        s["speaker"] = smap.get(s["original_speaker"], "Unknown")
 
     runs = []
     for s in segs:
-        if runs and runs[-1][0] == s["speaker"]:
+        # Different diarization IDs must stay separate even if their labels match.
+        if runs and runs[-1][0] == s["original_speaker"]:
             runs[-1][1].append(s)
         else:
-            runs.append((s["speaker"], [s]))
+            runs.append((s["original_speaker"], [s]))
 
-    # pass 1: units and distances for every Rinpoche answer
+    # pass 1: units and distances for every speaker turn
     prepared, question = [], ""
-    for speaker, run in runs:
-        if speaker != RINPOCHE:
-            question = " ".join(" ".join(s["text"] for s in run).split()[-MAX_QUESTION_WORDS:])
-            continue
+    for original_speaker, run in runs:
+        speaker = run[0]["speaker"]
+        name = speaker.strip().casefold()
         units = make_units(run)
-        prepared.append((units, distances(model, units), question))
-        question = ""
+        context = question if name in RINPOCHE_NAMES else ""
+        prepared.append((units, distances(model, units), context, speaker, original_speaker))
+        question = (" ".join(" ".join(s["text"] for s in run).split()[-MAX_QUESTION_WORDS:])
+                    if name in QUESTION_SPEAKERS else "")
 
     # one threshold per video, from all its distances
-    all_d = np.concatenate([d for _, d, _ in prepared if len(d)]) if prepared else np.array([])
+    nonempty_distances = [d for _, d, _, _, _ in prepared if len(d)]
+    all_d = np.concatenate(nonempty_distances) if nonempty_distances else np.array([])
     threshold = float(np.percentile(all_d, PERCENTILE)) if len(all_d) else float("inf")
 
     # pass 2: build passages
     source_id = meta.get("source_id") or slug(folder.name)
     passages, secs = [], 0.0
-    for units, d, q in prepared:
+    for units, d, q, speaker, original_speaker in prepared:
+        name = speaker.strip().casefold()
+        attribution = ("unknown" if original_speaker is None or original_speaker not in smap
+                       or name == "unknown" else
+                       "rinpoche_own" if name in RINPOCHE_NAMES else "other_speaker")
         secs += sum(u["end"] - u["start"] for u in units)
         for s, e in semantic_ranges(units, d, threshold):
             text = " ".join(units[i]["text"] for i in range(s, e + 1))
@@ -230,8 +267,9 @@ def video_passages(model, folder, meta):
                 "source_id": source_id,
                 "title": meta.get("title") or meta.get("source") or folder.name,
                 "source_type": meta.get("type", "video"),
-                "speaker": "Shechen Rabjam Rinpoche",
-                "attribution": "rinpoche_own",
+                "speaker": speaker,
+                "original_speaker": original_speaker,
+                "attribution": attribution,
                 "language": meta.get("language", "English"),
                 "date": meta.get("date", ""),
                 "start": hms(start),
@@ -264,8 +302,8 @@ def document_passages(model, path):
             "source_id": source_id,
             "title": path.stem,
             "source_type": "document",
-            "speaker": "Shechen Rabjam Rinpoche",
-            "attribution": "rinpoche_own",
+            "speaker": "Unknown",
+            "attribution": "unknown",
             "language": "English",
             "date": "",
             "location": f"sentences {s + 1}-{e + 1}",
@@ -279,18 +317,33 @@ def document_passages(model, path):
     return passages
 
 
-def main(only=None):
-    folders = sorted(p for p in RAW_DIR.iterdir() if p.is_dir())
-    if only:
-        folders = [p for p in folders if p.name == only]
-        if not folders:
-            sys.exit(f"folder raw/{only} not found (run this from the folder that contains raw/)")
+def main(only=None, output_path=None):
+    selected = resolve_input(only) if only else None
+    if selected is None:
+        if not RAW_DIR.is_dir():
+            raise ValueError(f"Raw directory not found: {RAW_DIR}")
+        videos = [(folder, None) for folder in sorted(RAW_DIR.iterdir()) if folder.is_dir()]
+        documents = sorted(RAW_DIR.glob("*.txt"))
+        suffix = ""
+    elif selected.is_dir():
+        videos, documents = [(selected, None)], []
+        suffix = f"_{selected.name}"
+    elif selected.suffix.lower() == ".json":
+        folder = source_folder(selected)
+        videos, documents = [(folder, selected)], []
+        suffix = f"_{slug(folder.name)}_{slug(selected.stem)}"
+    else:
+        videos, documents = [], [selected]
+        suffix = f"_{slug(selected.stem)}"
+
+    # Resolve paths before loading the model so CLI errors and --help are quick.
+    from sentence_transformers import SentenceTransformer
 
     print(f"loading embedding model {MODEL_NAME} ...")
     model = SentenceTransformer(MODEL_NAME)
 
     all_passages, total_secs = [], 0.0
-    for folder in folders:
+    for folder, transcript_path in videos:
         meta_path = folder / "source.json"
         meta = json.loads(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else {}
         if not meta.get("verified", False):
@@ -299,19 +352,22 @@ def main(only=None):
         if str(meta.get("permission", "")).lower() in {"no", "pending"}:
             print(f"skip {folder.name}: permission {meta['permission']}")
             continue
-        passages, secs = video_passages(model, folder, meta)
+        passages, secs = video_passages(model, folder, meta, transcript_path)
         all_passages += passages
         total_secs += secs
         print(f"{folder.name}: {len(passages)} passages")
 
-    if not only:
-        for doc in sorted(RAW_DIR.glob("*.txt")):
-            passages = document_passages(model, doc)
-            all_passages += passages
-            print(f"{doc.name}: {len(passages)} passages (document)")
+    for doc in documents:
+        passages = document_passages(model, doc)
+        all_passages += passages
+        print(f"{doc.name}: {len(passages)} passages (document)")
 
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
-    output = OUT_DIR / (f"passages_semantic_{only}.jsonl" if only else "passages_semantic.jsonl")
+    output = Path(output_path).expanduser().resolve() if output_path else OUT_DIR / f"passages_semantic{suffix}.jsonl"
+    if selected is not None and selected.is_file() and output.resolve() == selected:
+        raise ValueError("Output must not overwrite the input file.")
+    if output.resolve() in {(folder / "source.json").resolve() for folder, _ in videos}:
+        raise ValueError("Output must not overwrite source.json.")
+    output.parent.mkdir(parents=True, exist_ok=True)
     with output.open("w", encoding="utf-8") as f:
         for p in all_passages:
             f.write(json.dumps(p, ensure_ascii=False) + "\n")
@@ -321,9 +377,16 @@ def main(only=None):
     print(f"passages         : {len(all_passages)}")
     print(f"total words      : {sum(counts)}")
     print(f"words / passage  : min {min(counts)}, avg {sum(counts) // len(counts)}, max {max(counts)}")
-    print(f"Rinpoche speech  : {total_secs / 3600:.2f} hours")
+    print(f"included speech  : {total_secs / 3600:.2f} hours")
     print(f"written to       : {output}")
 
 
 if __name__ == "__main__":
-    main(sys.argv[1] if len(sys.argv) > 1 else None)
+    parser = argparse.ArgumentParser(description="Create semantic passages from a raw transcript, document, or source folder.")
+    parser.add_argument("input", nargs="?", help="JSON/TXT path or raw-folder name; omit to process all sources")
+    parser.add_argument("--output", type=Path, help="Output JSONL path (relative paths use the working directory)")
+    args = parser.parse_args()
+    try:
+        main(args.input, args.output)
+    except (OSError, ValueError) as error:
+        parser.error(str(error))
