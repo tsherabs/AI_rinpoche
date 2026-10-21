@@ -11,7 +11,7 @@ const serverRespond = await client.heartbeat();
 console.log(serverRespond); 
 
 const collection = await client.getOrCreateCollection({
-    name: "srr_bge_small_cls_v1",
+    name: "srr_bge_small_cls_v2",
     embeddingFunction: null,
     configuration: {
         hnsw: {
@@ -20,4 +20,4 @@ const collection = await client.getOrCreateCollection({
     }
 }); 
 
-console.log(collection.name)
+

@@ -27,7 +27,7 @@ console.log(embeddedQuery.length)
 
 
 const collection = await client.getCollection({
-    name: "srr_bge_small_cls_v1", 
+    name: "srr_bge_small_cls_v2", 
     embeddingFunction: null, 
 }); 
 
