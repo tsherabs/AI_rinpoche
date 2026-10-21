@@ -34,7 +34,7 @@ COLLECTION = "rinpoche_passages"
 EMBED_MODEL = "BAAI/bge-small-en-v1.5"
 QUERY_PREFIX = "Represent this sentence for searching relevant passages: "
 
-LLM_MODEL = "qwen2.5:7b"          # change to "llama3.1:8b" or "qwen2.5:3b"
+LLM_MODEL = "qwen2.5:3b"          # change to "llama3.1:8b" or "qwen2.5:3b"
 OLLAMA_URL = "http://localhost:11434/api/chat"
 TEMPERATURE = 0.2                 # low = stays close to the sources
 
