@@ -5,6 +5,7 @@
   "language": "English",
   "duration": "01:07:00",
   "model": "whisper-large-v3",
-  "diarization": false, 
+  "diarization": true,
+  "speaker_map": {"SPEAKER_00": "Rinpoche"},
   "url": "https://prajnacdn.org/TeachingEvents/Rabjam_Rinpoche_2024/20241106LL0935RR_20241112ED.mp4"
 }

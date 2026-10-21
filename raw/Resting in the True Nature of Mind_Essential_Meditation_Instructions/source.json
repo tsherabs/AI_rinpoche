@@ -3,8 +3,9 @@
 "source":"Resting in the True Nature of Mind_Essential_Meditation_Instructions",
   "language": "English",
   "duration": "01:28:46",
-  "model": "whisper-large",
+  "model": "whisper-large-v3",
   "diarization": true, 
-  "url": "",
+  "url": "https://youtu.be/mR4lmIxa3js?si=YfQaS91S6p74fXlM",
+  "speaker_map": {"SPEAKER_00": "host", "SPEAKER_01": "rinpoche", "SPEAKER_03": "Interviewer"},
   "verified": true
 }

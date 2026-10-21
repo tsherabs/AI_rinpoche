@@ -4,6 +4,9 @@
   "source": "Heart advice in 4 lines - Shechen Rabjam Rinpoche",
   "language": "English",
   "duration": "01:21:56",
-  "model": "whisper-large",
-  "diarization": true
+  "model": "whisper-large-v3",
+  "diarization": true,
+  "speaker_map": {"SPEAKER_00": "rinpochoe"},
+  "url": "https://prajnaonline.org/compilation/heart-advice-in-four-lines-with-shechen-rabjam-rinpoche-from-london/video/heart-advice-in-4-lines"
+
 }

@@ -6,5 +6,6 @@
   "duration": "01:23:00",
   "model": "whisper-small",
   "diarization": true, 
-  "url": ""
+  "speaker_map": {"SPEAKER_00": "", "SPEAKER_01": ""},
+  "url": "https://youtu.be/o9fJjshiDhY?si=_dhH0RoR--PwoRLt"
 }
