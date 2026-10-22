@@ -8,6 +8,13 @@
  * Every passage gets its metadata from source.json; the transcript only supplies
  * text, timestamps and speaker IDs (mapped to names via source.json -> speaker_map).
  *
+ * Speaker handling (both modes in one script):
+ *   1. Labelled transcript   -> each speaker ID is mapped through speaker_map
+ *                               (unmapped IDs become "Unknown").
+ *   2. Unlabelled transcript -> if NO segment has a speaker label (no "speaker 00" /
+ *                               "speaker 01" etc.), the whole file is treated as
+ *                               spoken by Rinpoche.
+ *
  * Install:  npm install js-tiktoken
  * Run:
  *   node chunk_transcript.js                                  # asks for both files
@@ -26,6 +33,7 @@ const { getEncoding } = require("js-tiktoken");
 const enc = getEncoding("cl100k_base");
 
 const RINPOCHE_NAMES = new Set(["rinpoche", "shechen rabjam rinpoche"]);
+const DEFAULT_SPEAKER = "Shechen Rabjam Rinpoche";
 const QUESTION_SPEAKERS = new Set(["host", "interviewer"]);
 const MAX_UNIT_WORDS = 40;
 const MAX_QUESTION_WORDS = 80;
@@ -92,12 +100,16 @@ function loadSegments(file) {
       "Transcript must be an array or an object with a 'segments' array.",
     );
   return raw
-    .map((s) => ({
-      start: Number(s.start),
-      end: Number(s.end),
-      speaker: s.speaker ?? null,
-      text: clean(s.text ?? ""),
-    }))
+    .map((s) => {
+      // Empty / blank / missing speaker labels all count as "no label"
+      const label = s.speaker == null ? "" : String(s.speaker).trim();
+      return {
+        start: Number(s.start),
+        end: Number(s.end),
+        speaker: label || null,
+        text: clean(s.text ?? ""),
+      };
+    })
     .filter((s) => s.text);
 }
 
@@ -247,20 +259,37 @@ function buildPassages(segments, meta, fallbackName) {
   const smap = meta.speaker_map ?? {};
   const isMapped = (id) => id !== null && Object.hasOwn(smap, id);
 
-  const unmapped = new Set(
-    segments.filter((s) => !isMapped(s.speaker)).map((s) => String(s.speaker)),
-  );
-  if (unmapped.size) {
-    console.warn(
-      `warning: unmapped speakers [${[...unmapped].sort()}] are labelled Unknown`,
-    );
-  }
+  // MODE 2: no speaker labels anywhere -> the whole file is Rinpoche speaking
+  const noSpeakerLabels =
+    segments.length > 0 && segments.every((s) => s.speaker === null);
 
-  for (const s of segments) {
-    s.original_speaker = s.speaker;
-    s.speaker = isMapped(s.original_speaker)
-      ? smap[s.original_speaker]
-      : "Unknown";
+  if (noSpeakerLabels) {
+    console.log(
+      `note: no speaker labels found; attributing the whole file to ${DEFAULT_SPEAKER}`,
+    );
+    for (const s of segments) {
+      s.original_speaker = null;
+      s.speaker = DEFAULT_SPEAKER;
+    }
+  } else {
+    // MODE 1: labelled transcript -> map IDs through speaker_map
+    const unmapped = new Set(
+      segments
+        .filter((s) => !isMapped(s.speaker))
+        .map((s) => (s.speaker === null ? "(no label)" : String(s.speaker))),
+    );
+    if (unmapped.size) {
+      console.warn(
+        `warning: unmapped speakers [${[...unmapped].sort()}] are labelled Unknown`,
+      );
+    }
+
+    for (const s of segments) {
+      s.original_speaker = s.speaker;
+      s.speaker = isMapped(s.original_speaker)
+        ? smap[s.original_speaker]
+        : "Unknown";
+    }
   }
 
   // One run per speaker turn (diarization IDs stay separate even if names match)
@@ -283,8 +312,9 @@ function buildPassages(segments, meta, fallbackName) {
     const speaker = segs[0].speaker;
     const name = speaker.trim().toLowerCase();
     const units = makeUnits(segs);
-    const attribution =
-      !isMapped(original) || name === "unknown"
+    const attribution = noSpeakerLabels
+      ? "rinpoche_own"
+      : !isMapped(original) || name === "unknown"
         ? "unknown"
         : RINPOCHE_NAMES.has(name)
           ? "rinpoche_own"
