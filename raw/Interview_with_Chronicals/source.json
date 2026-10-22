@@ -5,7 +5,7 @@
   "duration": "00:14:13",
   "model": "whisper-large",
   "diarization": true,
-  "speaker_map": {"SPEAKER_00": "Interviewer", "SPEAKER_01": "Rinpoche"},
+  "speaker_map": {"SPEAKER_00": "Interviewer", "SPEAKER_01": "Shechen Rabjam Rinpoche"},
   "url": "https://www.chronicleproject.com/an-interview-with-shechen-rabjam-rinpoche/",
   "verified": true
 }

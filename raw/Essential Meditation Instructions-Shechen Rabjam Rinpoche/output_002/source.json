@@ -6,6 +6,6 @@
   "duration": "00:20:03",
   "model": "whisper-large",
   "diarization": true, 
-  "speaker_map": {"SPEAKER_00": "Rinpochoe", "SPEAKER_01": "Translator"},
+  "speaker_map": {"SPEAKER_00": "Shechen Rabjam Rinpoche", "SPEAKER_01": "Translator"},
   "url": "https://youtu.be/o9fJjshiDhY?si=_dhH0RoR--PwoRLt"
 }

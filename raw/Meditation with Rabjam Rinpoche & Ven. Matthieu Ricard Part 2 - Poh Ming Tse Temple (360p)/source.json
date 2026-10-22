@@ -5,7 +5,7 @@
   "duration": "00:49:31",
   "model": "whisper-large-v3",
   "diarization": true, 
-  "speaker_map": {"SPEAKER_00": "Ven. Matthieu Ricard", "SPEAKER_01": "Rinpochoe"},
+  "speaker_map": {"SPEAKER_00": "Ven. Matthieu Ricard", "SPEAKER_01": "Shechen Rabjam Rinpoche"},
   "url": "https://www.youtube.com/watch?v=IRgP3n7yfeE",
   "verified": true
 }
