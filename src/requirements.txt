@@ -1,2 +1,0 @@
-numpy==2.2.6
-transformers==5.19.0

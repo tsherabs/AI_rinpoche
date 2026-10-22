@@ -3,3 +3,5 @@ data/
 .vscode/ 
 node_modules/ 
 package-lock.json
+.DS_Store
+raw/.DS_Store
