@@ -6,5 +6,6 @@
   "model": "whisper-large-v3",
   "diarization": false, 
   "url": "https://www.youtube.com/watch?v=Gz-UGik4sXM",
+  "speaker_map": {"SPEAKER_00": "Shechen Rabjam Rinpoche"},
   "verified": true
 }

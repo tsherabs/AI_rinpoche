@@ -1,0 +1,11 @@
+{
+  "source_id": "SRR_002",
+  "verified": true,
+  "source": "Essential Meditation Instructions-Shechen Rabjam Rinpoche",
+  "language": "English",
+  "duration": "00:20:00",
+  "model": "whisper-large",
+  "diarization": true, 
+  "speaker_map": {"SPEAKER_00": "Shechen Rabjam Rinpoche"},
+  "url": "https://youtu.be/o9fJjshiDhY?si=_dhH0RoR--PwoRLt"
+}
