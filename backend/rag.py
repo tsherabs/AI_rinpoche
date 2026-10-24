@@ -7,6 +7,11 @@ generate_answer(question, history) -> (content, sources, is_fallback)
 
 Set USE_MOCK_RAG=true in backend/.env to return fake answers without loading
 any model - useful for frontend development.
+
+Vector database:
+  CHROMA_HOST set   -> ChromaDB server over HTTP (e.g. Docker on another laptop)
+  CHROMA_HOST empty -> local vectordb/ folder (DB_DIR)
+The question is always embedded here in the backend; ChromaDB only stores and searches vectors.
 """
 
 import json
@@ -38,16 +43,57 @@ class LLMUnavailableError(Exception):
     pass
 
 
+def db_location() -> str:
+    if config.CHROMA_HOST:
+        scheme = "https" if config.CHROMA_SSL else "http"
+        return f"{scheme}://{config.CHROMA_HOST}:{config.CHROMA_PORT}"
+    return str(config.DB_DIR)
+
+
+def make_chroma_client():
+    """Remote ChromaDB server if CHROMA_HOST is set, otherwise the local vectordb/ folder."""
+    import chromadb
+
+    if not config.CHROMA_HOST:
+        return chromadb.PersistentClient(path=str(config.DB_DIR))
+
+    settings = None
+    if config.CHROMA_TOKEN:
+        from chromadb.config import Settings
+        settings = Settings(chroma_client_auth_provider="chromadb.auth.token_authn.TokenAuthClientProvider",
+                            chroma_client_auth_credentials=config.CHROMA_TOKEN)
+    kwargs = {"host": config.CHROMA_HOST, "port": config.CHROMA_PORT, "ssl": config.CHROMA_SSL}
+    if settings is not None:
+        kwargs["settings"] = settings
+    try:
+        client = chromadb.HttpClient(**kwargs)
+        client.heartbeat()                                   # fail fast with a clear message
+    except Exception as e:
+        raise RuntimeError(
+            f"Cannot reach the ChromaDB server at {db_location()} ({e}). Check that the Docker container "
+            f"is running on that laptop, the port is open in its firewall, and both laptops are on the same "
+            f"network - or leave CHROMA_HOST empty in backend/.env to use the local vectordb folder."
+        ) from e
+    return client
+
+
 class Retriever:
     """Loads the embedding model and ChromaDB collection once."""
 
     def __init__(self):
-        import chromadb
         from sentence_transformers import SentenceTransformer
 
         self.model = SentenceTransformer(config.EMBED_MODEL)
-        client = chromadb.PersistentClient(path=str(config.DB_DIR))
-        self.collection = client.get_collection(config.COLLECTION_NAME)
+        client = make_chroma_client()
+        try:
+            self.collection = client.get_collection(config.COLLECTION_NAME)
+        except Exception as e:
+            names = [getattr(c, "name", c) for c in client.list_collections()]
+            raise RuntimeError(
+                f"Collection '{config.COLLECTION_NAME}' not found at {db_location()}. "
+                f"Available collections: {names or 'none (the database is empty - run embed_passages.py build)'}. "
+                f"Set COLLECTION_NAME in backend/.env to the right one."
+            ) from e
 
     def search(self, question: str, k: int = config.TOP_K) -> List[dict]:
         vector = self.model.encode(QUERY_PREFIX + question, normalize_embeddings=True)
@@ -73,7 +119,8 @@ def init_rag() -> None:
         logger.warning("USE_MOCK_RAG=true - answers are fake, no models loaded")
         return
     retriever = Retriever()
-    logger.info("retriever ready: %d passages in '%s'", retriever.count(), config.COLLECTION_NAME)
+    logger.info("retriever ready: %d passages in '%s' (%s)",
+                retriever.count(), config.COLLECTION_NAME, db_location())
 
 
 # ---------- selection and formatting ----------
@@ -173,10 +220,54 @@ def generate_answer(question: str, history: List[Tuple[str, str]]) -> Tuple[str,
     if config.FALLBACK_MESSAGE[:40] in reply:            # model decided the sources don't answer it
         return config.FALLBACK_MESSAGE, [], True
 
-    cited = [(i, h) for i, h in enumerate(selected, 1) if f"[{i}]" in reply]
-    if not cited:
-        cited = list(enumerate(selected, 1))
-    return reply, [to_source(i, h) for i, h in cited], False
+    content, sources = merge_by_source(reply, selected)
+    return content, sources, False
+
+
+def _base_url(url: str) -> str:
+    """Drop the YouTube '?t=' / '&t=' timestamp so one video always has one link."""
+    return re.sub(r"([?&])t=\d+s?(&|$)", lambda m: m.group(1) if m.group(2) else "", url or "").rstrip("?&")
+
+
+def merge_by_source(reply: str, selected: List[dict]) -> Tuple[str, List[dict]]:
+    """
+    Several passages can come from the same video. Show each video/document once:
+      - passages are grouped by source_id (title if missing)
+      - groups are numbered 1, 2, 3... in the order they are first cited
+      - the [n] markers in the answer are rewritten to the new numbers
+    Example: answer cites [4], [5], [3]; [5] and [3] are both "Teachings in Canada"
+             -> [4] becomes [1], [5] and [3] become [2]; two sources are listed.
+    """
+    first_seen = []
+    for match in re.finditer(r"\[(\d+)\]", reply):
+        n = int(match.group(1))
+        if 1 <= n <= len(selected) and n not in first_seen:
+            first_seen.append(n)
+    if not first_seen:                                   # model cited nothing: list everything it was given
+        first_seen = list(range(1, len(selected) + 1))
+
+    group_number, old_to_new, sources = {}, {}, []
+    for old in first_seen:
+        hit = selected[old - 1]
+        key = hit["meta"].get("source_id") or hit["meta"].get("title") or hit["id"]
+        if key not in group_number:
+            group_number[key] = len(group_number) + 1
+            source = to_source(group_number[key], hit)
+            source["url"] = _base_url(source["url"])
+            sources.append(source)
+        else:                                            # keep the best score for the merged source
+            existing = sources[group_number[key] - 1]
+            existing["score"] = max(existing["score"], round(float(hit["score"]), 3))
+        old_to_new[old] = group_number[key]
+
+    def renumber(match):
+        n = int(match.group(1))
+        return f"[{old_to_new[n]}]" if n in old_to_new else ""   # drop markers pointing at nothing
+
+    content = re.sub(r"\[(\d+)\]", renumber, reply)
+    content = re.sub(r"(\[\d+\])(\s*\1)+", r"\1", content)      # "[2][2]" -> "[2]"
+    content = re.sub(r"[ \t]+([.,;:!?])", r"\1", content)        # tidy spaces left by dropped markers
+    return content.strip(), sources
 
 
 # ---------- About page statistics ----------
@@ -195,9 +286,11 @@ def corpus_stats() -> dict:
                 "languages": ["English"], "last_updated": None}
     metas = retriever.all_metadata()
     seconds = sum(max(0, _seconds(m.get("end", "")) - _seconds(m.get("start", ""))) for m in metas)
-    db_file = config.DB_DIR / "chroma.sqlite3"
-    last_updated = (datetime.fromtimestamp(db_file.stat().st_mtime, timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-                    if db_file.exists() else None)
+    last_updated = None                                   # unknown for a remote server
+    if not config.CHROMA_HOST:
+        db_file = config.DB_DIR / "chroma.sqlite3"
+        if db_file.exists():
+            last_updated = datetime.fromtimestamp(db_file.stat().st_mtime, timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     return {
         "source_count": len({m.get("source_id") for m in metas if m.get("source_id")}),
         "passage_count": len(metas),

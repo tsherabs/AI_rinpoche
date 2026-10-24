@@ -1,5 +1,7 @@
 .venv/
-data/
-.vscode/ 
-node_modules/ 
-package-lock.json
+node_modules/
+frontend/.env
+backend/.env
+backend/sessions.db
+vectordb/
+__pycache__/

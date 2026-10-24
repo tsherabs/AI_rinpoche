@@ -41,6 +41,12 @@ LLM_TEMPERATURE = float(os.getenv("LLM_TEMPERATURE", "0.2"))
 LLM_TIMEOUT_SECONDS = int(os.getenv("LLM_TIMEOUT_SECONDS", "300"))
 
 # --- retrieval ---
+# CHROMA_HOST set   -> connect to a ChromaDB server (e.g. the Docker container on another laptop)
+# CHROMA_HOST empty -> read the local vectordb/ folder (DB_DIR)
+CHROMA_HOST = os.getenv("CHROMA_HOST", "").strip()
+CHROMA_PORT = int(os.getenv("CHROMA_PORT", "8000"))
+CHROMA_SSL = _bool(os.getenv("CHROMA_SSL", "false"))
+CHROMA_TOKEN = os.getenv("CHROMA_TOKEN", "").strip()      # only if the server has token auth enabled
 DB_DIR = _path(os.getenv("DB_DIR", "vectordb"))
 COLLECTION_NAME = os.getenv("COLLECTION_NAME", "rinpoche_passages")
 TOP_K = int(os.getenv("TOP_K", "5"))
