@@ -21,3 +21,4 @@ const collection = await client.getOrCreateCollection({
 }); 
 
 
+console.log(await collection.count())
