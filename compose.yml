@@ -1,0 +1,11 @@
+services:
+  chromadb:
+    image: chromadb/chroma:1.5.9
+    container_name: ai-rinpoche-chromadb
+    restart: unless-stopped
+
+    ports:
+      - "127.0.0.1:8000:8000"
+
+    volumes:
+      - ./chroma_data:/data
