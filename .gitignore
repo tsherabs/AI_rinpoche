@@ -1,7 +1,9 @@
 .venv/
 data/
-.vscode/ 
-node_modules/ 
-.DS_Store
-raw/.DS_Store
-chroma_data
+node_modules/
+frontend/.env
+backend/.env
+backend/sessions.db
+chroma_data/ 
+__pycache__/
+.env
