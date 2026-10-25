@@ -10,7 +10,7 @@ const client = new ChromaClient({
 
 const queryPrefix = "Represent this sentence for searching relevant passages: "; 
 
-const userQuery = queryPrefix +  "How can someone practicing mindfulness progress into deeper Buddhist practice?";  
+const userQuery = queryPrefix +  "how does rinpochoe explain the practice of recognizing the nature ofmind and how can this practice help us handle negative emotions and challenegs ineveryday life?";  
 
 const embedder = await pipeline(
     'feature-extraction', 
@@ -39,4 +39,4 @@ const results = await collection.query({
     }
 }); 
 
-console.log(results)
+console.log(results.metadatas)
