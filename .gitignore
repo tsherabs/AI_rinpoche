@@ -1,7 +1,9 @@
 .venv/
+data/
 node_modules/
 frontend/.env
 backend/.env
 backend/sessions.db
-vectordb/
+chroma_data/ 
 __pycache__/
+.env
