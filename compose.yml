@@ -5,7 +5,7 @@ services:
     restart: unless-stopped
 
     ports:
-      - "127.0.0.1:8000:8000"
+      - "10.2.3.218:8000:8000"
 
     volumes:
       - ./chroma_data:/data
