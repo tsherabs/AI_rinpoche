@@ -40,3 +40,7 @@ app.add_middleware(
 
 register_error_handlers(app)
 app.include_router(router, prefix="/api")
+
+@app.get("/api/timing")
+def timing():
+    return rag.timing_stats()

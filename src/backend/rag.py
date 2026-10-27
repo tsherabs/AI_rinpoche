@@ -17,6 +17,8 @@ The question is always embedded here in the backend; ChromaDB only stores and se
 import json
 import logging
 import re
+import statistics
+import time
 import urllib.error
 import urllib.request
 from datetime import datetime, timezone
@@ -204,23 +206,69 @@ def llm_available() -> bool:
         return False
 
 
+# ---------- response-time tracking ----------
+
+_timings: List[dict] = []          # one entry per answered question (reset when the backend restarts)
+
+
+def _record_timing(question: str, retrieval_s: float, generation_s: float, total_s: float, fallback: bool) -> None:
+    _timings.append({"retrieval_s": retrieval_s, "generation_s": generation_s,
+                     "total_s": total_s, "fallback": fallback})
+    logger.info("timing: Response_time %.2fs | retrieval %.2fs | generation %.2fs%s | %s",
+                total_s, retrieval_s, generation_s, " | fallback" if fallback else "", question[:60])
+
+
+def timing_stats() -> dict:
+    """Average response times since the backend started. The first question includes model warm-up."""
+    if not _timings:
+        return {"questions": 0}
+
+    def avg(key, rows):
+        return round(statistics.mean(r[key] for r in rows), 2) if rows else None
+
+    totals = [r["total_s"] for r in _timings]
+    answered = [r for r in _timings if not r["fallback"]]
+    warm = _timings[1:] or _timings                       # skip the first (cold-start) question
+    return {
+        "questions": len(_timings),
+        "fallbacks": len(_timings) - len(answered),
+        "avg_total_s": avg("total_s", _timings),
+        "avg_total_s_excluding_first": avg("total_s", warm),
+        "avg_retrieval_s": avg("retrieval_s", _timings),
+        "avg_generation_s": avg("generation_s", answered),
+        "min_total_s": round(min(totals), 2),
+        "max_total_s": round(max(totals), 2),
+    }
+
+
+def reset_timings() -> None:
+    _timings.clear()
+
+
 # ---------- main entry point ----------
 
 def generate_answer(question: str, history: List[Tuple[str, str]]) -> Tuple[str, List[dict], bool]:
     if config.USE_MOCK_RAG:
         return _mock_answer(question)
 
-    hits = retriever.search(question)
+    t_start = time.perf_counter()
+    hits = retriever.search(question)                    # embedding + ChromaDB search
+    t_retrieved = time.perf_counter()
+    retrieval_s = t_retrieved - t_start
     logger.info("retrieved: %s", ", ".join(f"{h['id']} {h['score']:.3f}" for h in hits))
     selected = select_sources(hits)
     if not selected:
+        _record_timing(question, retrieval_s, 0.0, time.perf_counter() - t_start, True)
         return config.FALLBACK_MESSAGE, [], True
 
     reply = clean_citations(ollama_chat(build_messages(question, selected, history)))
+    generation_s = time.perf_counter() - t_retrieved      # Ollama / Qwen time
     if config.FALLBACK_MESSAGE[:40] in reply:            # model decided the sources don't answer it
+        _record_timing(question, retrieval_s, generation_s, time.perf_counter() - t_start, True)
         return config.FALLBACK_MESSAGE, [], True
 
     content, sources = merge_by_source(reply, selected)
+    _record_timing(question, retrieval_s, generation_s, time.perf_counter() - t_start, False)
     return content, sources, False
 
 
