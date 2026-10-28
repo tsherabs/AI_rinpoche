@@ -34,8 +34,11 @@ def _bool(value: str) -> bool:
 
 
 # --- models ---
-LLM_MODEL = os.getenv("LLM_MODEL", "qwen2.5:3b")
-OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/api/chat")
+# Industry-hosted LLM (OpenAI-compatible chat completions API)
+LLM_MODEL = os.getenv("LLM_MODEL", "qwen2.5-7b")
+LLM_API_URL = os.getenv("LLM_API_URL", "https://ai.dcpl.bt/api/chat/completions")
+LLM_API_KEY = os.getenv("LLM_API_KEY", "").strip()       # keep it in backend/.env, never commit it
+LLM_MODELS_URL = os.getenv("LLM_MODELS_URL", LLM_API_URL.rsplit("/chat/completions", 1)[0] + "/models")
 EMBED_MODEL = os.getenv("EMBED_MODEL", "BAAI/bge-small-en-v1.5")
 LLM_TEMPERATURE = float(os.getenv("LLM_TEMPERATURE", "0.2"))
 LLM_TIMEOUT_SECONDS = int(os.getenv("LLM_TIMEOUT_SECONDS", "300"))
