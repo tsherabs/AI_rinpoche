@@ -3,7 +3,7 @@ Retrieval + generation (same logic as chunking/rag_answer.py, adapted for the AP
 
 generate_answer(question, history) -> (content, sources, is_fallback)
   - sources use the Source field names from api-contract.md section 4.3
-  - raises LLMUnavailableError when Ollama cannot be reached
+  - raises LLMUnavailableError when the LLM API cannot be reached
 
 Set USE_MOCK_RAG=true in backend/.env to return fake answers without loading
 any model - useful for frontend development.
@@ -182,28 +182,47 @@ def clean_citations(text: str) -> str:
 
 # ---------- LLM ----------
 
-def ollama_chat(messages: List[dict]) -> str:
+def _auth_headers() -> dict:
+    return {"Authorization": f"Bearer {config.LLM_API_KEY}", "Content-Type": "application/json"}
+
+
+def llm_chat(messages: List[dict]) -> str:
+    """Call the industry LLM API (OpenAI-compatible /chat/completions)."""
+    if not config.LLM_API_KEY:
+        logger.error("LLM_API_KEY is not set in backend/.env")
+        raise LLMUnavailableError("LLM_API_KEY is not set")
     body = json.dumps({"model": config.LLM_MODEL, "messages": messages, "stream": False,
-                       "options": {"temperature": config.LLM_TEMPERATURE}}).encode("utf-8")
-    req = urllib.request.Request(config.OLLAMA_URL, data=body, headers={"Content-Type": "application/json"})
+                       "temperature": config.LLM_TEMPERATURE}).encode("utf-8")
+    req = urllib.request.Request(config.LLM_API_URL, data=body, headers=_auth_headers(), method="POST")
     try:
         with urllib.request.urlopen(req, timeout=config.LLM_TIMEOUT_SECONDS) as r:
-            return json.loads(r.read())["message"]["content"].strip()
-    except (urllib.error.URLError, TimeoutError, KeyError, json.JSONDecodeError) as e:
+            return json.loads(r.read())["choices"][0]["message"]["content"].strip()
+    except urllib.error.HTTPError as e:                   # 401 bad key, 404/400 wrong model name, 5xx server
+        detail = e.read().decode("utf-8", errors="replace")[:300]
+        logger.error("LLM API returned %s: %s", e.code, detail)
+        raise LLMUnavailableError(f"HTTP {e.code}: {detail}") from e
+    except (urllib.error.URLError, TimeoutError, KeyError, IndexError, TypeError, json.JSONDecodeError) as e:
         logger.error("LLM call failed: %s", e)
         raise LLMUnavailableError(str(e)) from e
 
 
 def llm_available() -> bool:
+    """True if the API key works and the model is listed (falls back to True if the list can't be read)."""
     if config.USE_MOCK_RAG:
         return True
-    tags_url = config.OLLAMA_URL.split("/api/")[0] + "/api/tags"
-    try:
-        with urllib.request.urlopen(tags_url, timeout=3) as r:
-            names = {m.get("name", "") for m in json.loads(r.read()).get("models", [])}
-        return any(n == config.LLM_MODEL or n.startswith(config.LLM_MODEL + ":") for n in names)
-    except Exception:
+    if not config.LLM_API_KEY:
         return False
+    req = urllib.request.Request(config.LLM_MODELS_URL, headers=_auth_headers())
+    try:
+        with urllib.request.urlopen(req, timeout=5) as r:
+            data = json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        return e.code not in (401, 403)                   # bad key = unavailable; other errors = can't tell
+    except Exception:
+        return False                                      # server unreachable
+    models = data.get("data", data.get("models", [])) if isinstance(data, dict) else data
+    names = {m.get("id") or m.get("name", "") for m in models if isinstance(m, dict)}
+    return not names or config.LLM_MODEL in names
 
 
 # ---------- response-time tracking ----------
@@ -261,8 +280,8 @@ def generate_answer(question: str, history: List[Tuple[str, str]]) -> Tuple[str,
         _record_timing(question, retrieval_s, 0.0, time.perf_counter() - t_start, True)
         return config.FALLBACK_MESSAGE, [], True
 
-    reply = clean_citations(ollama_chat(build_messages(question, selected, history)))
-    generation_s = time.perf_counter() - t_retrieved      # Ollama / Qwen time
+    reply = clean_citations(llm_chat(build_messages(question, selected, history)))
+    generation_s = time.perf_counter() - t_retrieved      # LLM API time
     if config.FALLBACK_MESSAGE[:40] in reply:            # model decided the sources don't answer it
         _record_timing(question, retrieval_s, generation_s, time.perf_counter() - t_start, True)
         return config.FALLBACK_MESSAGE, [], True
