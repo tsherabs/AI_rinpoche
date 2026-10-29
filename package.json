@@ -1,5 +1,10 @@
 {
   "type": "module",
+  "scripts": {
+    "backend": "cd src && python -m uvicorn backend.main:app --reload",
+    "frontend": "npm run dev --prefix src/frontend",
+    "dev": "concurrently -n backend,frontend -c blue,green \"npm run backend\" \"npm run frontend\""
+  },
   "dependencies": {
     "@huggingface/transformers": "^4.3.1",
     "@langchain/core": "^1.2.17",
@@ -8,6 +13,9 @@
     "chromadb": "^3.5.0",
     "js-tiktoken": "^1.0.21",
     "numpy": "^0.0.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
   },
   "allowScripts": {
     "onnxruntime-node@1.30.0": true,
